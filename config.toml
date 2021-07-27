@@ -1,4 +1,4 @@
 baseURL = "http://maxoxo.vercel.app/"
 languageCode = "en-us"
 title = "maxOS Notes"
-theme = "cortex"
+theme = "ananke"
