@@ -1,5 +1,5 @@
 baseURL = "https://braindump.maxoxo.me/"
-languageCode = "en-us"
+languageCode = "zh-cn"
 title = "maxOS Braindump"
 theme = "cortex"
 
