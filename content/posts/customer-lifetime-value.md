@@ -7,12 +7,14 @@ draft = false
 ## DEFINITION {#definition}
 
 \\(LTV=\frac{{ARPU}\times{Gross\ Margin}}{Customer\ Churn\ Rate}\\)
+
 LTV = [ARPA](20210729003208-average_revenue_per_account.md) x [Gross Margin](20210729011241-gross_margin.md) / [Customer Churn Rate](churn-rate.md)
 
 
 ### The David Skok formula {#the-david-skok-formula}
 
 \\(LTV={ARPA}\times{Gross\ Margin}\times{(\frac{1}{1-K}+\frac{{G}\times{K}}{{(1-K)}^{2}})}\\)
+
 K = (1 - [Customer Churn Rate](churn-rate.md)) x (1 - [Discount Rate](20210311233019-discount_rate.md))
 
 

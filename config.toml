@@ -9,6 +9,7 @@ pygmentscodefences = true
 pygmentscodefencesguesssyntax = true
 
 summaryLength = 1
+googleAnalytics = "UA-53975718-7"
 
 [params]
 email = "contact@maxos.email"
