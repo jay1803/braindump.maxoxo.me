@@ -16,7 +16,7 @@ draft = false
 ### [Average Sale Price](20210729003340-average_sale_price.md) {#average-sale-price--20210729003340-average-sale-price-dot-md}
 
 
-### MRR Movements {#mrr-movements}
+### MRR Movements [Net MRR](monthly-recurring-revenue.md) {#mrr-movements-net-mrr--monthly-recurring-revenue-dot-md}
 
 
 #### New Business {#new-business}

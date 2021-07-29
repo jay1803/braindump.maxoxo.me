@@ -8,7 +8,9 @@ draft = false
 
 \\(LTV=\frac{{ARPU}\times{Gross\ Margin}}{Customer\ Churn\ Rate}\\)
 
-LTV = [ARPA](20210729003208-average_revenue_per_account.md) x [Gross Margin](20210729011241-gross_margin.md) / [Customer Churn Rate](churn-rate.md)
+LTV = [ARPU](20210729003208-average_revenue_per_account.md) x [Gross Margin](20210729011241-gross_margin.md) / [Customer Churn Rate](churn-rate.md)
+
+LTV = [ARPU](20210729003208-average_revenue_per_account.md) / [Customer Churn Rate](churn-rate.md)
 
 
 ### The David Skok formula {#the-david-skok-formula}
@@ -29,7 +31,7 @@ K = (1 - [Customer Churn Rate](churn-rate.md)) x (1 - [Discount Rate](2021031123
 -   当前价值(如果顾客当前行为模式 不发生改变的话，将来会给公司带来的顾客价值)
 -   潜在价值(如果公司通过有效的交叉销售 可以调动顾客购买积极性，或促使顾客向别人推荐产品
 
-和服务等，从而可能增加的顾客价值)。
+和服务等，从而可能增加的顾客价值)。、
 
 
 ## 顾客生涯价值的三维结构 {#顾客生涯价值的三维结构}
@@ -72,7 +74,7 @@ K = (1 - [Customer Churn Rate](churn-rate.md)) x (1 - [Discount Rate](2021031123
 可以直接基于交易成本 或资金投入进行计算，或者根据过去类似客户的行为模式，利用成
 熟的统计技术预测客户将来的利润。国外的汽车业这样计算顾客的终生价值：他们把每位上
 门顾客一生所可能购买的汽车数，乘上汽车的平均售价，再加上顾客可能需要的零件和维修
-服务而得出这个数字。他们甚至更精确地计算出加上购车贷款所带给公司的利息收入。
+服务而得出这个数字。他们甚至更精确地计算出加上购车贷款所带给公司的利息收入
 
 
 ### 4. 顾客分组 {#4-dot-顾客分组}
@@ -98,7 +100,9 @@ Selling）、多渠道营销（Multi-Channel Marketing）和其他手段。这�
 最大挑战之一。目前，比较流行和具有代表性的顾客终生价值预测方法为DWYER方法和顾
 客事件预测法。
 
-1.DWYER方法
+
+### 1.DWYER方法 {#1-dot-dwyer方法}
+
 该方法将客户分为两大类：永久流失型和暂时流失型。
 永久流失型客户要么把其业务全部给予现在的供应商 ，要么完全流失给与另一供应商。原
 因或者是其业务无法分割，只能给予一个供应商；或者其业务转移成本很高，一旦将业务给
@@ -112,7 +116,8 @@ Selling）、多渠道营销（Multi-Channel Marketing）和其他手段。这�
 DWYER方法的缺陷是，它只能预测一组客户的终生价值或每个客户的平均终生价值，无法具
 体评估某个客户对于公司的终生价值。
 
-1.  顾客事件预测法
+
+### 2. 顾客事件预测法 {#2-dot-顾客事件预测法}
 
 这种方法主要是针对每一个客户，预测一系列事件发生的时间，并向每个事件分摊收益和成
 本，从而为每位顾客建立一个详细的利润和费用预测表。
