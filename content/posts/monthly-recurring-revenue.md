@@ -17,25 +17,24 @@ that other business models struggle to do.
 MRR + 重新激活的 MRR
 
 
-## MRR Movements {#mrr-movements}
+## Net MRR {#net-mrr}
 
 
-### New Business {#new-business}
+### New MRR {#new-mrr}
 
 
-### Expansion {#expansion}
+### Expansion MRR {#expansion-mrr}
 
 
-### Contraction {#contraction}
+### Contraction MRR {#contraction-mrr}
 
 
-### Churn {#churn}
+### Churn MRR {#churn-mrr}
 
 
-### Reactivation {#reactivation}
+### Reactivation MRR {#reactivation-mrr}
 
 
 ## USAGE {#usage}
 
-
-### [Annualized Run Rate](annualized-run-rate.md) {#annualized-run-rate--annualized-run-rate-dot-md}
+-   [Annualized Run Rate]({{<relref "annualized-run-rate.md#" >}})
