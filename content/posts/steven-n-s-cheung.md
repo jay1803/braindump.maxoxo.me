@@ -16,4 +16,4 @@ draft = false
 
 ## 作品 {#作品}
 
--   [经济解释](economic-explanation.md)
+-   [经济解释]({{<relref "economic-explanation.md#" >}})

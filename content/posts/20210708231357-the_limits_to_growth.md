@@ -1,5 +1,5 @@
 +++
-title = "Index of Index"
+title = "The Limits to Growth"
 author = ["Max"]
 draft = false
 +++
