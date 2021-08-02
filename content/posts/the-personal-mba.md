@@ -118,7 +118,7 @@ the business sufficient revenue to make it worthwhile for the owners to
 continue operation.
 
 Take away any of these things—value creation, customer demand, transactions,
-[value delivery](#org22467ab), or [profit](#org7ae6381) [sufficiency](#org5c427b0)—and you have something other than a
+[value delivery](#org8412d0f), or [profit](#orgdb40dbb) [sufficiency](#org376e2d3)—and you have something other than a
 business. Each factor is both essential and universal.
 
 As I deconstructed each of those factors, I found additional universal
@@ -126,8 +126,8 @@ requirements. Value can’t be created without understanding what people want
 (market research). Attracting customers first requires getting their
 attention, then making them interested (marketing). In order to close a sale,
 people must first trust your ability to deliver on what’s promised ([value
-delivery](#org22467ab) and operations). Customer satisfaction depends on reliably exceeding
-the customer’s expectations (customer [service](#orgadeba29)). [Profit](#org7ae6381) [sufficiency](#org5c427b0) requires
+delivery](#org8412d0f) and operations). Customer satisfaction depends on reliably exceeding
+the customer’s expectations (customer [service](#org83d550b)). [Profit](#orgdb40dbb) [sufficiency](#org376e2d3) requires
 bringing in more money than is spent (finance).
 
 Every business fundamentally relies on two additional factors: people and
@@ -216,7 +216,7 @@ Roughly defined, a business is a repeatable process that:
 2.  That other people want or need…
 3.  At a price they’re willing to pay…
 4.  In a way that satisfies the customer’s needs and expectations…
-5.  So that the business brings in enough [profit](#org7ae6381) to make it worthwhile for the
+5.  So that the business brings in enough [profit](#orgdb40dbb) to make it worthwhile for the
     owners to continue operation.
 
 it’s simply a process of identifying a problem and finding a way to solve it
@@ -284,7 +284,7 @@ We also like to ensure other people are aware of our status
 
 ### 1.6 10 Ways to Evaluate a Market {#1-dot-6-10-ways-to-evaluate-a-market}
 
-Rate each of the ten factors below on a [scale](#orga087f09) of 0 to 10, where 0 is
+Rate each of the ten factors below on a [scale](#org3dfdeb6) of 0 to 10, where 0 is
 extremely unattractive and 10 is extremely attractive.
 
 1.  Urgency—How badly do people want or need this right now?
@@ -294,7 +294,7 @@ extremely unattractive and 10 is extremely attractive.
 4.  Cost of Customer Acquisition—How easy is it to acquire a new customer? On
     average, how much will it cost to generate a sale, in both money and
     effort?
-5.  Cost of [Value Delivery](#org22467ab)—How much would it cost to create and deliver the
+5.  Cost of [Value Delivery](#org8412d0f)—How much would it cost to create and deliver the
     value offered, both in money and effort?
 6.  Uniqueness of Offer—How unique is your offer versus competing offerings in
     the market, and how easy is it for potential competitors to copy you?
@@ -333,19 +333,19 @@ changing the world is difficult if you can’t pay the bills.
 there’s no need to reinvent the wheel—Economic Value usually takes on one of
 twelve standard forms:
 
-1.  [[Product](#orgfe645e9)]: Create a single tangible item or entity, then sell and deliver
+1.  [[Product](#org58ac1fe)]: Create a single tangible item or entity, then sell and deliver
     it for more than what it cost to make.
-2.  [[Service](#orgadeba29)]: Provide help or assistance, then charge a fee for the benefits
+2.  [[Service](#org83d550b)]: Provide help or assistance, then charge a fee for the benefits
     rendered.
 3.  [Shared Resource]: Shared Resource. Create a durable asset that can be
     used by many people, then charge for access.
-4.  [[Subscription](#org1fdc713)]: [Subscription](#org1fdc713). Offer a benefit on an ongoing basis, and
+4.  [[Subscription](#org53496c0)]: [Subscription](#org53496c0). Offer a benefit on an ongoing basis, and
     charge a recurring fee.
-5.  [[Resale](#org2810740)]: Acquire an asset from a wholesaler, then sell that asset to a
+5.  [[Resale](#org635eb8c)]: Acquire an asset from a wholesaler, then sell that asset to a
     retail buyer at a higher price.
-6.  [[Lease](#org4514e27)]: Acquire an asset, then allow another person to use that asset for
+6.  [[Lease](#orgf395f12)]: Acquire an asset, then allow another person to use that asset for
     a predefined amount of time in exchange for a fee.
-7.  [[Agency](#org50a11b5)]: Get the attention of a group of people with certain
+7.  [[Agency](#orgff8b010)]: Get the attention of a group of people with certain
     characteristics, then sell access in the form of advertising to another
     business looking to reach that audience.
 8.  [Loan]: Lend a certain amount of money, then collect payments over a
@@ -357,32 +357,32 @@ twelve standard forms:
     policy holder in exchange for a predefined series of payments, then pay
     out claims
 11. [Capital]: Purchase an ownership stake in a business, then collect a
-    corresponding portion of the [profit](#org7ae6381) as a one-time payout or ongoing
+    corresponding portion of the [profit](#orgdb40dbb) as a one-time payout or ongoing
     dividend.
 
 
-### 1.11 Form of Value #1: [Product](#orgfe645e9) {#1-dot-11-form-of-value-1-product}
+### 1.11 Form of Value #1: [Product](#org58ac1fe) {#1-dot-11-form-of-value-1-product}
 
-<a id="orgfe645e9">Product</a> [产品]({{<relref "20210412125507-product.md#" >}})
-To run a [Product](#orgfe645e9)-oriented business, you must:
+<a id="org58ac1fe">Product</a> [产品]({{<relref "20210412125507-product.md#" >}})
+To run a [Product](#org58ac1fe)-oriented business, you must:
 
 1.  Create some sort of tangible item that people want.
 2.  Produce that item as inexpensively as possible while maintaining an
     acceptable level of quality.
 3.  Sell as many units as possible for as high a price as the market will
     bear.
-4.  Keep enough inventory of finished [product](#orgfe645e9) available to fulfill orders as
+4.  Keep enough inventory of finished [product](#org58ac1fe) available to fulfill orders as
     they come in.
 
 
-### 1.12 Form of Value #2: [Service](#orgadeba29) {#1-dot-12-form-of-value-2-service}
+### 1.12 Form of Value #2: [Service](#org83d550b) {#1-dot-12-form-of-value-2-service}
 
-<a id="orgadeba29">Service</a> [服务]({{<relref "20210412125643-service.md#" >}})
-In order to create a successful [Service](#orgadeba29), your business must:
+<a id="org83d550b">Service</a> [服务]({{<relref "20210412125643-service.md#" >}})
+In order to create a successful [Service](#org83d550b), your business must:
 
 1.  Have employees capable of a skill or ability other people require but
     can’t, won’t, or don’t want to use themselves.
-2.  Ensure that the [Service](#orgadeba29) is provided with consistently high quality.
+2.  Ensure that the [Service](#org83d550b) is provided with consistently high quality.
 3.  Attract and retain paying customers.
 
 
@@ -397,10 +397,10 @@ In order to create a successful Shared Resource, you must:
 3.  Charge enough to maintain and improve the Shared Resource over time.
 
 
-### 1.14 Form of Value #4: [Subscription](#org1fdc713) {#1-dot-14-form-of-value-4-subscription}
+### 1.14 Form of Value #4: [Subscription](#org53496c0) {#1-dot-14-form-of-value-4-subscription}
 
-<a id="org1fdc713">Subscription</a> [订阅]({{<relref "20210412125806-subscription.md#" >}})
-In order to create a successful [Subscription](#org1fdc713), you must:
+<a id="org53496c0">Subscription</a> [订阅]({{<relref "20210412125806-subscription.md#" >}})
+In order to create a successful [Subscription](#org53496c0), you must:
 
 1.  Provide significant value to each subscriber on a regular basis.
 2.  Build a subscriber base and continually attract new subscribers to
@@ -409,35 +409,35 @@ In order to create a successful [Subscription](#org1fdc713), you must:
 4.  Retain each subscriber as long as possible.
 
 
-### 1.15 Form of Value #5: [Resale](#org2810740) {#1-dot-15-form-of-value-5-resale}
+### 1.15 Form of Value #5: [Resale](#org635eb8c) {#1-dot-15-form-of-value-5-resale}
 
-<a id="org2810740">Resale</a> [转卖]({{<relref "20210412130023-resale.md#" >}})
+<a id="org635eb8c">Resale</a> [转卖]({{<relref "20210412130023-resale.md#" >}})
 In order to provide value as a reseller, you must:
 
-1.  Purchase a [product](#orgfe645e9) as inexpensively as possible, usually in bulk.
-2.  Keep the [product](#orgfe645e9) in good condition until sale—damaged goods can’t be
+1.  Purchase a [product](#org58ac1fe) as inexpensively as possible, usually in bulk.
+2.  Keep the [product](#org58ac1fe) in good condition until sale—damaged goods can’t be
     sold.
-3.  Find potential purchasers of the [product](#orgfe645e9) as quickly as possible to keep
+3.  Find potential purchasers of the [product](#org58ac1fe) as quickly as possible to keep
     inventory costs low.
-4.  Sell the [product](#orgfe645e9) for as high a markup as possible, preferably a multiple
+4.  Sell the [product](#org58ac1fe) for as high a markup as possible, preferably a multiple
     of the purchase price.
 
 
-### 1.16 Form of Value #6: [Lease](#org4514e27) {#1-dot-16-form-of-value-6-lease}
+### 1.16 Form of Value #6: [Lease](#orgf395f12) {#1-dot-16-form-of-value-6-lease}
 
-<a id="org4514e27">Lease</a> [出租]({{<relref "20210412130107-lease.md#" >}})
-In order to provide value via a [Lease](#org4514e27), you must:
+<a id="orgf395f12">Lease</a> [出租]({{<relref "20210412130107-lease.md#" >}})
+In order to provide value via a [Lease](#orgf395f12), you must:
 
 1.  Acquire an asset people want to use.
-2.  [Lease](#org4514e27) the asset to a paying customer on favorable terms.
+2.  [Lease](#orgf395f12) the asset to a paying customer on favorable terms.
 3.  Protect yourself from unexpected or adverse events, including the loss or
     damage of the leased asset.
 
 
-### 1.17 Form of Value #7: [Agency](#org50a11b5) {#1-dot-17-form-of-value-7-agency}
+### 1.17 Form of Value #7: [Agency](#orgff8b010) {#1-dot-17-form-of-value-7-agency}
 
-<a id="org50a11b5">Agency</a> [代理]({{<relref "20210412130149-agency.md#" >}})
-In order to provide value via [Agency](#org50a11b5), you must:
+<a id="orgff8b010">Agency</a> [代理]({{<relref "20210412130149-agency.md#" >}})
+In order to provide value via [Agency](#orgff8b010), you must:
 
 1.  Find a seller who has a valuable asset.
 2.  Establish contact and trust with potential buyers of that asset.
@@ -743,7 +743,7 @@ Progressive Insurance has turned Qualification into a profitable business strate
 When you request a quote, Progressive asks you a set of basic questions:
 
 1.  What type of car do you have?
-2.  Do you own or [lease](#org4514e27) it? If you own it, are you still making payments?
+2.  Do you own or [lease](#orgf395f12) it? If you own it, are you still making payments?
 3.  What’s your ZIP code?
 4.  Are you married?
 5.  Did you go to college?
@@ -1106,7 +1106,7 @@ you can structure your agreement so it’s more attractive than their next best 
 #### WHY {#why}
 
 Exclusive offers make it much easier to maintain high Perceived Value, since there’s no direct competition.
-Exclusivity is easiest to maintain when you’ve created something new, which means an exclusivity strategy makes the most sense for [Product](#orgfe645e9) and [Service](#orgadeba29).
+Exclusivity is easiest to maintain when you’ve created something new, which means an exclusivity strategy makes the most sense for [Product](#org58ac1fe) and [Service](#org83d550b).
 
 
 ### 3.11 Three Universal Currencies {#3-dot-11-three-universal-currencies}
@@ -1134,7 +1134,7 @@ The Three Dimensions of Negotiation are:
 
 #### SETUP {#setup}
 
-Setup is the negotiation equivalent of [Guiding Structure](#orgf7f2245).
+Setup is the negotiation equivalent of [Guiding Structure](#orga13095d).
 Who is involved in the negotiation, and are they open to dealing with you?
 Who are you negotiating with, and do they know who you are and how you can help them?
 What are you proposing, and how does it benefit the other party?
@@ -1192,7 +1192,7 @@ One of the things that makes prospects uncomfortable around salespeople is the f
 
 #### WHY {#why}
 
-If a prospect feels that you’re desperate to make a sale, it diminishes their interest in a matter of seconds. Desperation is a subtle signal that other people don’t find your offer desirable, and [Social Proof]({{<relref "20210728095330-social_proof.md#" >}}) starts working against you.
+If a prospect feels that you’re desperate to make a sale, it diminishes their interest in a matter of seconds. Desperation is a subtle signal that other people don’t find your offer desirable, and [Social Proof]({{<relref "social-proof.md#" >}}) starts working against you.
 If a prospect senses you’re chasing them, their first impulse will be to move away from you.
 
 
@@ -1266,7 +1266,7 @@ There are five standard objections that appear in sales of all kinds:
 
 Objection #1 (“it costs too much”) is best addressed via Framingand Value-Based Selling.
 Objections #2 and #3 (“it won’t work” / “it won’t work for me”) are best addressed via Social Proof—showing the prospect how customers just like them are already benefiting from your offer.
-Objections #4 and #5 (“I can wait” / “it’s too difficult”) are best addressed via Education-Based Selling. Often, your prospects haven’t fully realized they have a problem, particularly in the case of [Absence Blindness](#orgd42f5ef).
+Objections #4 and #5 (“I can wait” / “it’s too difficult”) are best addressed via Education-Based Selling. Often, your prospects haven’t fully realized they have a problem, particularly in the case of [Absence Blindness](#orgb509006).
 
 
 ### 3.18 Risk Reversal {#3-dot-18-risk-reversal}
@@ -1297,12 +1297,12 @@ Reactivation is the process of convincing past customers to buy from you again.
 
 #### WHY {#why}
 
-Since Netflix is a [Subscription](#org1fdc713) business, every reactivated customer means a new monthly stream of income, which greatly enhances the Lifetime Valueof each customer.
-Your cost of customer acquisition (a component of [Allowable Acquisition Cost](#org46dee71)) is extremely low.
+Since Netflix is a [Subscription](#org53496c0) business, every reactivated customer means a new monthly stream of income, which greatly enhances the Lifetime Valueof each customer.
+Your cost of customer acquisition (a component of [Allowable Acquisition Cost](#orgfcfdca3)) is extremely low.
 Make it a priority every three to six months to contact your lapsed customers with another offer.
 
 
-## 4. [Value Delivery](#org22467ab) {#4-dot-value-delivery}
+## 4. [Value Delivery](#org8412d0f) {#4-dot-value-delivery}
 
 A satisfied customer is the best business strategy of all.
 
@@ -1312,27 +1312,27 @@ Keep Them for Life
 
 #### WHAT {#what}
 
-<a id="org22467ab">Value Delivery</a> [价值传递]({{<relref "20210801225945-value_delivery.md#" >}})
+<a id="org8412d0f">Value Delivery</a> [价值传递]({{<relref "20210801225945-value_delivery.md#" >}})
 involves everything necessary to ensure that every paying
 customer is a happy customer: order processing, inventory management,
 delivery/fulfillment, troubleshooting, customer support, etc
 
 
-### 4.1 [Value Stream](#orgbea4905) {#4-dot-1-value-stream}
+### 4.1 [Value Stream](#orgf790e35) {#4-dot-1-value-stream}
 
 Great design is eliminating all unnecessary details.
 —MINH D. TRAN, TECHNOLOGIST AND DESIGNER
 
-<a id="orgbea4905">Value Stream</a> [价值流]({{<relref "20210801230039-value_stream.md#" >}})
- A [Value Stream](#orgbea4905) is the set of all steps and all processes from the start of
+<a id="orgf790e35">Value Stream</a> [价值流]({{<relref "20210801230039-value_stream.md#" >}})
+ A [Value Stream](#orgf790e35) is the set of all steps and all processes from the start of
  your Value Creation process all the way through the delivery of the end result
  to your customer.
 
-You can think of the [Value Stream](#orgbea4905) as a combination of your Value Creation and
-[Value Delivery](#org22467ab) processes.
+You can think of the [Value Stream](#orgf790e35) as a combination of your Value Creation and
+[Value Delivery](#org8412d0f) processes.
 
-The Toyota Production System (TPS) was the first large-[scale](#orga087f09) manufacturing
-operation to systematically examine its entire [Value Stream](#orgbea4905) on a regular
+The Toyota Production System (TPS) was the first large-[scale](#org3dfdeb6) manufacturing
+operation to systematically examine its entire [Value Stream](#orgf790e35) on a regular
 basis. Analyzing the production system in great detail paved the way for an
 ongoing series of small, incremental improvements...until The Paradox of
 Automation destroyed that Reputation.
@@ -1340,14 +1340,14 @@ Automation destroyed that Reputation.
 
 #### HOW {#how}
 
-The best way to understand your [Value Stream](#orgbea4905) is to diagram it.
-In general, try to make your [Value Stream](#orgbea4905) as small and efficient as possible.
+The best way to understand your [Value Stream](#orgf790e35) is to diagram it.
+In general, try to make your [Value Stream](#orgf790e35) as small and efficient as possible.
 
 
-### 4.2 [Distribution Channel](#org95aeb34) {#4-dot-2-distribution-channel}
+### 4.2 [Distribution Channel](#org968d4b5) {#4-dot-2-distribution-channel}
 
-<a id="org95aeb34">Distribution Channel</a> [分销渠道]({{<relref "20210801230335-distribution_channel.md#" >}})
-A [Distribution Channel](#org95aeb34) describes how your form of value is actually
+<a id="org968d4b5">Distribution Channel</a> [分销渠道]({{<relref "20210801230335-distribution_channel.md#" >}})
+A [Distribution Channel](#org968d4b5) describes how your form of value is actually
  delivered to the end user.
 
 two basic types of Distribution Channels: **direct-to-user- and \*intermediary**.
@@ -1355,13 +1355,13 @@ two basic types of Distribution Channels: **direct-to-user- and \*intermediary**
 directly to the end user.
 \*Intermediary- distribution works across multiple channels
 Intermediary distribution can increase sales, but it requires giving up a
-certain amount of control over your [Value Delivery](#org22467ab) process.
+certain amount of control over your [Value Delivery](#org8412d0f) process.
 
 
-### 4.3 The [Expectation Effect](#org00495de) {#4-dot-3-the-expectation-effect}
+### 4.3 The [Expectation Effect](#org34be4f1) {#4-dot-3-the-expectation-effect}
 
-<a id="org00495de">Expectation Effect</a> [期望效应]({{<relref "20210801231021-expectancy_effect.md#" >}})
-\`[Expectation Effect](#org00495de): Quality = Performance - Expectations.\`
+<a id="org34be4f1">Expectation Effect</a> [期望效应]({{<relref "20210801231021-expectancy_effect.md#" >}})
+\`[Expectation Effect](#org34be4f1): Quality = Performance - Expectations.\`
 
 
 #### WHY {#why}
@@ -1376,21 +1376,21 @@ Customer expectations have to be high enough for a customer to purchase from
 you in the first place.
 
 
-### 4.4 [Predictability](#orgf6bd6fe) {#4-dot-4-predictability}
+### 4.4 [Predictability](#org92bb93f) {#4-dot-4-predictability}
 
-<a id="orgf6bd6fe">Predictability</a> 可预测的
+<a id="org92bb93f">Predictability</a> 可预测的
 
 
 #### WHY {#why}
 
 When purchasing something of value, customers want to know exactly what they
 can expect—they want their experience to be Predictable.
-Improving [Predictability](#orgf6bd6fe) has major Reputation and value perception benefits
+Improving [Predictability](#org92bb93f) has major Reputation and value perception benefits
 
 
 #### HOW {#how}
 
-There are three primary factors that influence the [Predictability](#orgf6bd6fe) of an offer:
+There are three primary factors that influence the [Predictability](#org92bb93f) of an offer:
 
 -   Uniformity（一致性）: means delivering the same characteristics every time.
 -   Consistency（连贯性）: means delivering the same value over time.
@@ -1398,64 +1398,64 @@ There are three primary factors that influence the [Predictability](#orgf6bd6fe)
     without error or delay.
 
 
-### 4.5 [Throughput](#org46318f2) {#4-dot-5-throughput}
+### 4.5 [Throughput](#org248bcbf) {#4-dot-5-throughput}
 
-<a id="org46318f2">Throughput</a> [生产力]({{<relref "20210801231336-throughput.md#" >}})
-[Throughput](#org46318f2) is the rate at which a system achieves its desired goal. It’s the
-measure of effectiveness of your [Value Stream](#orgbea4905). It’s measured in the form of
+<a id="org248bcbf">Throughput</a> [生产力]({{<relref "20210801231336-throughput.md#" >}})
+[Throughput](#org248bcbf) is the rate at which a system achieves its desired goal. It’s the
+measure of effectiveness of your [Value Stream](#orgf790e35). It’s measured in the form of
 units/time: the higher the number of units and the lower the time, the higher
-the [throughput](#org46318f2).
+the [throughput](#org248bcbf).
 
--   Dollar [Throughput](#org46318f2)- is a measure of how quickly your overall business system creates a dollar of [profit](#org7ae6381).
--   Unit [Throughput](#org46318f2)- is a measure of how much time it takes to create an additional unit for sale.
--   Satisfaction [Throughput](#org46318f2)- is a measure of how much time it takes to create a happy, satisfied customer.
+-   Dollar [Throughput](#org248bcbf)- is a measure of how quickly your overall business system creates a dollar of [profit](#orgdb40dbb).
+-   Unit [Throughput](#org248bcbf)- is a measure of how much time it takes to create an additional unit for sale.
+-   Satisfaction [Throughput](#org248bcbf)- is a measure of how much time it takes to create a happy, satisfied customer.
 
 
 #### HOW {#how}
 
-The best way to begin increasing [Throughput](#org46318f2) is to start measuring it.
+The best way to begin increasing [Throughput](#org248bcbf) is to start measuring it.
 
 
-### 4.6 [Duplication](#org438769f) {#4-dot-6-duplication}
+### 4.6 [Duplication](#orgd63b1b9) {#4-dot-6-duplication}
 
-<a id="org438769f">Duplication</a> 复制
-[Duplication](#org438769f) is the ability to reliably reproduce something of value.
+<a id="orgd63b1b9">Duplication</a> 复制
+[Duplication](#orgd63b1b9) is the ability to reliably reproduce something of value.
 
 As Kevin Kelly remarked in his essay “Better Than Free,” the Internet is
 essentially an enormous, inexpensive copy machine.
 
 
-### 4.7 [Multiplication](#orgc73b011) {#4-dot-7-multiplication}
+### 4.7 [Multiplication](#org9d381ba) {#4-dot-7-multiplication}
 
-<a id="orgc73b011">Multiplication</a> 增长
+<a id="org9d381ba">Multiplication</a> 增长
 
 
 #### WHY {#why}
 
-[Multiplication](#orgc73b011) is [Duplication](#org438769f) for an entire process or System. McDonald’s
+[Multiplication](#org9d381ba) is [Duplication](#orgd63b1b9) for an entire process or System. McDonald’s
 began as a single restaurant in California
 
 
 #### HOW {#how}
 
-[Multiplication](#orgc73b011) is what separates small businesses from huge businesses.
+[Multiplication](#org9d381ba) is what separates small businesses from huge businesses.
 There’s an upper limit on what any single business system can produce. By
 creating more identical business systems based on a proven model,
-[Multiplication](#orgc73b011) can expand a business’s ability to deliver value to more
+[Multiplication](#org9d381ba) can expand a business’s ability to deliver value to more
 customers.
 
 
-### 4.8 [Scale](#orga087f09) {#4-dot-8-scale}
+### 4.8 [Scale](#org3dfdeb6) {#4-dot-8-scale}
 
-<a id="orga087f09">Scale</a> 规模
+<a id="org3dfdeb6">Scale</a> 规模
 
-> Humans don’t [Scale](#orga087f09)......in Performance Load, a person’s effectiveness usually
+> Humans don’t [Scale](#org3dfdeb6)......in Performance Load, a person’s effectiveness usually
 > goes down as the demands on them increase.
 
 
 #### WHAY {#whay}
 
-[Scale](#orga087f09) is the ability to reliably Duplicate or Multiply a process as volume increases.
+[Scale](#org3dfdeb6) is the ability to reliably Duplicate or Multiply a process as volume increases.
 Scalability is typically limited by the amount of required human involvement
 in a process. Starbucks is able to enhance their ability to Duplicate lattes
 via Automation.
@@ -1467,9 +1467,9 @@ Products are typically the easiest to Duplicate, while Shared Resources
 (like gyms, etc.) are easiest to Multiply.
 
 
-### 4.9 [Accumulation](#org08d903a) {#4-dot-9-accumulation}
+### 4.9 [Accumulation](#orgae40175) {#4-dot-9-accumulation}
 
-<a id="org08d903a">Accumulation</a> 积累，量变到质变
+<a id="orgae40175">Accumulation</a> 积累，量变到质变
 Sometimes when I consider what tremendous consequences come from little
 things, I am tempted to think: there are no little things.
 
@@ -1482,22 +1482,22 @@ CROCKER BRAND
 Small helpful or harmful behaviors and inputs tend to Accumulate over time,
 producing huge results.
 
-Incremental Augmentation is an example of the power of [Accumulation](#org08d903a). If your
+Incremental Augmentation is an example of the power of [Accumulation](#orgae40175). If your
 offer improves with every Iteration Cycle, it won’t be long before your
 offer is many times more valuable to your customers than it was before.
-Small changes to your [Value Delivery](#org22467ab) process can save you a ton of time and
+Small changes to your [Value Delivery](#org8412d0f) process can save you a ton of time and
 effort in the long run.
 
 
-### 4.10 [Amplification](#org112b245) {#4-dot-10-amplification}
+### 4.10 [Amplification](#org5d1d212) {#4-dot-10-amplification}
 
-<a id="org112b245">Amplification</a> 放大
+<a id="org5d1d212">Amplification</a> 放大
 making a small change to a scalable System produces a huge result.
 
 
 #### HOW {#how}
 
-The best way to identify [Amplification](#org112b245) opportunities is to look for things
+The best way to identify [Amplification](#org5d1d212) opportunities is to look for things
 that are constantly Duplicated or Multiplied.
 Scalable systems amplify the results of small changes.
 
@@ -1509,7 +1509,7 @@ Scalable systems amplify the results of small changes.
 
 #### WHY {#why}
 
-Every improvement you make to your [Value Stream](#orgbea4905) make it harder for potential competitors to keep up.
+Every improvement you make to your [Value Stream](#orgf790e35) make it harder for potential competitors to keep up.
 
 
 #### HOW {#how}
@@ -1532,9 +1532,9 @@ Tools are important because they Multiply the effect of physical force, thought,
 Investing in Force Multipliers......the more effective they are, the more expensive they tend to be.
 
 
-### 4.13 [Systemization](#org0a0b973) {#4-dot-13-systemization}
+### 4.13 [Systemization](#orgc9dd6d8) {#4-dot-13-systemization}
 
-<a id="org0a0b973">Systemization</a> 组织化，分类
+<a id="orgc9dd6d8">Systemization</a> 组织化，分类
 
 
 #### WHAT {#what}
@@ -1554,33 +1554,33 @@ If you can’t systematize your process, you can’t Automate it.
 The very best businesses create a virtuous cycle: they create huge amounts of value while keeping their expenses consistently low, so they make more than enough money to keep going without capturing too much value.
 
 
-### 5.1 [Profit](#org7ae6381) {#5-dot-1-profit}
+### 5.1 [Profit](#orgdb40dbb) {#5-dot-1-profit}
 
-<a id="org7ae6381">Profit</a> [利润]({{<relref "profit.md#" >}})
-[Profit](#org7ae6381) is a very simple concept: it’s bringing in more money than you spend.
+<a id="orgdb40dbb">Profit</a> [利润]({{<relref "profit.md#" >}})
+[Profit](#orgdb40dbb) is a very simple concept: it’s bringing in more money than you spend.
 
 
 #### WHY {#why}
 
-[Profit](#org7ae6381) is important because it allows businesses to stay in operation.
-[Profit](#org7ae6381) also provides a “cushion” that allows the business to weather unexpected events.
+[Profit](#orgdb40dbb) is important because it allows businesses to stay in operation.
+[Profit](#orgdb40dbb) also provides a “cushion” that allows the business to weather unexpected events.
 but it’s not the be-all and end-all of business.
-For some people (like me), business is more of a creative endeavor—a way to explore what’s possible, help others, and support yourself at the same time. From this perspective, as long as you’re making enough [Profit](#org7ae6381), your business will continue to be successful.
+For some people (like me), business is more of a creative endeavor—a way to explore what’s possible, help others, and support yourself at the same time. From this perspective, as long as you’re making enough [Profit](#orgdb40dbb), your business will continue to be successful.
 
 
-### 5.2 [Profit Margin](#org9ccefa9) {#5-dot-2-profit-margin}
+### 5.2 [Profit Margin](#orgc33cee1) {#5-dot-2-profit-margin}
 
-<a id="org9ccefa9">Profit Margin</a> [利润率]({{<relref "20210216092545-rate_of_profit.md#" >}})
-[Profit Margin](#org9ccefa9) (often abbreviated to “margin”) is the difference between how much revenue you capture and how much you spend to capture it, expressed in percentage terms.
+<a id="orgc33cee1">Profit Margin</a> [利润率]({{<relref "20210216092545-rate_of_profit.md#" >}})
+[Profit Margin](#orgc33cee1) (often abbreviated to “margin”) is the difference between how much revenue you capture and how much you spend to capture it, expressed in percentage terms.
 
-Formula for [profit margin](#org9ccefa9):
-((Revenue – Cost) / Revenue) × 100= % [Profit Margin](#org9ccefa9)
+Formula for [profit margin](#orgc33cee1):
+((Revenue – Cost) / Revenue) × 100= % [Profit Margin](#orgc33cee1)
 
 
 #### USAGE {#usage}
 
-Most businesses try to keep each offer’s [Profit Margin](#org9ccefa9) as high as possible, which makes sense: the higher the margin, the more money the business gets to keep from each sale.
-Businesses often use [Profit Margin](#org9ccefa9) as a way of comparing offers.
+Most businesses try to keep each offer’s [Profit Margin](#orgc33cee1) as high as possible, which makes sense: the higher the margin, the more money the business gets to keep from each sale.
+Businesses often use [Profit Margin](#orgc33cee1) as a way of comparing offers.
 
 
 #### WHAT {#what}
@@ -1590,12 +1590,12 @@ Formula for markup（加成）:
 \`((Price – Cost) / Cost) × 100= % Markup\`
 
 
-### 5.3 [Value Capture](#orgb60b55a) {#5-dot-3-value-capture}
+### 5.3 [Value Capture](#orgc72dd57) {#5-dot-3-value-capture}
 
-<a id="orgb60b55a">Value Capture</a> [价值获取]({{<relref "20210801231923-value_capture.md#" >}})
- [Value Capture](#orgb60b55a) is the process of retaining some percentage of the value provided in every Transaction.
+<a id="orgc72dd57">Value Capture</a> [价值获取]({{<relref "20210801231923-value_capture.md#" >}})
+ [Value Capture](#orgc72dd57) is the process of retaining some percentage of the value provided in every Transaction.
 
-There are two dominant philosophies behind [Value Capture](#orgb60b55a): maximization and minimization.
+There are two dominant philosophies behind [Value Capture](#orgc72dd57): maximization and minimization.
 
 Maximization means that a business should attempt to capture as much value as possible...Unfortunately, the maximization approach tends to erode the reason customers purchase from a business in the first place.
 
@@ -1605,54 +1605,54 @@ The minimization approach means that businesses should capture as little value a
 #### WHY {#why}
 
 
-### 5.4 [Sufficiency](#org5c427b0) {#5-dot-4-sufficiency}
+### 5.4 [Sufficiency](#org376e2d3) {#5-dot-4-sufficiency}
 
-<a id="org5c427b0">Sufficiency</a> 充足
+<a id="org376e2d3">Sufficiency</a> 充足
 
 
 #### WHY {#why}
 
 business is not necessarily about maximizing Profits.
-you have enough [profit](#org7ae6381) to do the things you need to do to keep the business running and make it worth your time, you’re successful
+you have enough [profit](#orgdb40dbb) to do the things you need to do to keep the business running and make it worth your time, you’re successful
 
 
 #### WHAT {#what}
 
-[Sufficiency](#org5c427b0) is the point where a business is bringing in enough [profit](#org7ae6381) that the people who are running the business find it worthwhile to keep going for the foreseeable future.
-You can track financial [sufficiency](#org5c427b0) using a number called “target monthly revenue” (TMR).
+[Sufficiency](#org376e2d3) is the point where a business is bringing in enough [profit](#orgdb40dbb) that the people who are running the business find it worthwhile to keep going for the foreseeable future.
+You can track financial [sufficiency](#org376e2d3) using a number called “target monthly revenue” (TMR).
 
 
-### 5.5 [Valuation](#orgf3f8283) {#5-dot-5-valuation}
+### 5.5 [Valuation](#org5014bc8) {#5-dot-5-valuation}
 
-<a id="orgf3f8283">Valuation</a> [估值]({{<relref "valuation.md#" >}})
-[Valuation](#orgf3f8283) is an estimate of the total worth of a company.
-
-
-### 5.6 [Cash Flow Statement](#org76be103) {#5-dot-6-cash-flow-statement}
-
-<a id="org76be103">Cash Flow Statement</a> [现金流量表]({{<relref "cash-flow-statement.md#" >}})
-
-I recommend starting with the [Cash Flow Statement](#org76be103).
-
-The [Cash Flow Statement](#org76be103) is straightforward: it’s an examination of a company’s bank account over a certain period of time
+<a id="org5014bc8">Valuation</a> [估值]({{<relref "20210802204348-valuation.md#" >}})
+[Valuation](#org5014bc8) is an estimate of the total worth of a company.
 
 
-### 5.7 [Income Statement](#org03ab342) {#5-dot-7-income-statement}
+### 5.6 [Cash Flow Statement](#org667ef1d) {#5-dot-6-cash-flow-statement}
 
-<a id="org03ab342">Income Statement</a> [损益表]({{<relref "income-statement.md#" >}})
+<a id="org667ef1d">Cash Flow Statement</a> [现金流量表]({{<relref "cash-flow-statement.md#" >}})
+
+I recommend starting with the [Cash Flow Statement](#org667ef1d).
+
+The [Cash Flow Statement](#org667ef1d) is straightforward: it’s an examination of a company’s bank account over a certain period of time
+
+
+### 5.7 [Income Statement](#org1da08bf) {#5-dot-7-income-statement}
+
+<a id="org1da08bf">Income Statement</a> [损益表]({{<relref "income-statement.md#" >}})
 
 
 #### WHAT {#what}
 
-the [Income Statement](#org03ab342) contains an estimate of the business’s [Profit](#org7ae6381) over a certain period of time, once revenue is matched with the related expenses.
-Net [Profit](#org7ae6381)
-\`Revenue – Cost of Goods Sold – Expenses – Taxes = Net [Profit](#org7ae6381)\`
+the [Income Statement](#org1da08bf) contains an estimate of the business’s [Profit](#orgdb40dbb) over a certain period of time, once revenue is matched with the related expenses.
+Net [Profit](#orgdb40dbb)
+\`Revenue – Cost of Goods Sold – Expenses – Taxes = Net [Profit](#orgdb40dbb)\`
 
 
-### 5.8 [Balance Sheet](#org97adede) {#5-dot-8-balance-sheet}
+### 5.8 [Balance Sheet](#org689b942) {#5-dot-8-balance-sheet}
 
-<a id="org97adede">Balance Sheet</a> [资产负债表]({{<relref "balance-sheet.md#" >}})
-[Balance Sheet](#org97adede) is a snapshot of what a business owns and what it owes at a particular moment in time.
+<a id="org689b942">Balance Sheet</a> [资产负债表]({{<relref "balance-sheet.md#" >}})
+[Balance Sheet](#org689b942) is a snapshot of what a business owns and what it owes at a particular moment in time.
 \`Assets – Liabilities = Owner’s Equity\`
 Assets are things the company owns that have value: products, equipment, stock, etc.
 
@@ -1661,32 +1661,32 @@ Liabilities are obligations the firm hasn’t yet discharged: loans, financing, 
 Owner’s Equity, the company’s “net worth.”
 
 
-### 5.9 [Financial Ratios](#orgf8e13af) {#5-dot-9-financial-ratios}
+### 5.9 [Financial Ratios](#orga57388d) {#5-dot-9-financial-ratios}
 
-<a id="orgf8e13af">Financial Ratios</a> [财务比率]({{<relref "20210801232458-financial_ratios.md#" >}})
+<a id="orga57388d">Financial Ratios</a> [财务比率]({{<relref "20210801232458-financial_ratios.md#" >}})
 
 
 #### WHY {#why}
 
-[Financial Ratios](#orgf8e13af) are beneficial because they allow you to make comparisons very quickly.
-Profitability ratios indicate a business’s ability to generate [Profit](#org7ae6381)]].
+[Financial Ratios](#orga57388d) are beneficial because they allow you to make comparisons very quickly.
+Profitability ratios indicate a business’s ability to generate [Profit](#orgdb40dbb)]].
 
 
 #### WHAT {#what}
 
-Return on Assets which is calculated by dividing net [profit](#org7ae6381) by total assets, tells you what percentage of every dollar invested in the business was returned as [profit](#org7ae6381).
+Return on Assets which is calculated by dividing net [profit](#orgdb40dbb) by total assets, tells you what percentage of every dollar invested in the business was returned as [profit](#orgdb40dbb).
 
-[Leverage](#org2db0f66) ratios indicate how your company uses debt.
+[Leverage](#org9176bab) ratios indicate how your company uses debt.
 
 Liquidity ratios indicate the ability of a business to pay its bills.
 
 Efficiency ratios indicate how well a business is managing assets and liabilities.
 
 
-### 5.10 [Cost-Benefit Analysis](#orgc4e7e23) {#5-dot-10-cost-benefit-analysis}
+### 5.10 [Cost-Benefit Analysis](#orga07e6b9) {#5-dot-10-cost-benefit-analysis}
 
-<a id="orgc4e7e23">Cost-Benefit Analysis</a> 成本效益分析
-[Cost-Benefit Analysis](#orgc4e7e23) is the process of examining potential changes to your business to see if the benefits outweigh the costs.
+<a id="orga07e6b9">Cost-Benefit Analysis</a> 成本效益分析
+[Cost-Benefit Analysis](#orga07e6b9) is the process of examining potential changes to your business to see if the benefits outweigh the costs.
 
 
 ### 5.11 Four Methods to Increase Revenue {#5-dot-11-four-methods-to-increase-revenue}
@@ -1703,91 +1703,91 @@ Believe it or not, there are only four ways to increase your business’s revenu
     -   Raising your prices means you’ll collect more revenue from every purchase a customer makes.
 
 
-### 5.12 [Pricing Power](#orgd745f4e) {#5-dot-12-pricing-power}
+### 5.12 [Pricing Power](#orga99263b) {#5-dot-12-pricing-power}
 
-<a id="orgd745f4e">Pricing Power</a> [定价权]({{<relref "20210801232824-pricing_power.md#" >}})
-
-
-#### WHAT {#what}
-
-[Pricing Power](#orgd745f4e) is your ability to raise the prices you’re charging over time.
-
-
-#### WHY {#why}
-
-[Pricing Power](#orgd745f4e) is related to a concept economists call “price elasticity.”Price Elasticity of Demand If customers are very sensitive to the price of your offer, you’ll lose many customers with even a slight increase in price...
-[Pricing Power](#orgd745f4e) is important because raising your prices allows you to overcome the adverse effects of inflation and increased costs.
-
-
-### 5.13 [Lifetime Value](#org032af5c) {#5-dot-13-lifetime-value}
-
-<a id="org032af5c">Lifetime Value</a> [LTV]({{<relref "customer-lifetime-value.md#" >}})
- [Lifetime Value](#org032af5c) is the total value of a customer’s business over the lifetime of their relationship with your company.
-
-
-#### WHY {#why}
-
-One of the reasons Subscriptions are so profitable is that they naturally maximize [Lifetime Value](#org032af5c).
-
-
-#### HOW {#how}
-
-it’s much better to operate in markets where customers have a high [Lifetime Value](#org032af5c).
-
-
-### 5.14 [Allowable Acquisition Cost](#org46dee71) {#5-dot-14-allowable-acquisition-cost}
-
-<a id="org46dee71">Allowable Acquisition Cost</a> 获客成本
+<a id="orga99263b">Pricing Power</a> [定价权]({{<relref "20210801232824-pricing_power.md#" >}})
 
 
 #### WHAT {#what}
 
-[Allowable Acquisition Cost](#org46dee71) (AAC) is the marketing component of [Lifetime Value](#org032af5c).
+[Pricing Power](#orga99263b) is your ability to raise the prices you’re charging over time.
 
 
 #### WHY {#why}
 
-The higher the average customer’s [Lifetime Value](#org032af5c), the more you can spend to attract a new customer, making it possible to spread the word about your offer in new ways.
+[Pricing Power](#orga99263b) is related to a concept economists call “price elasticity.”Price Elasticity of Demand If customers are very sensitive to the price of your offer, you’ll lose many customers with even a slight increase in price...
+[Pricing Power](#orga99263b) is important because raising your prices allows you to overcome the adverse effects of inflation and increased costs.
+
+
+### 5.13 [Lifetime Value](#org20146ef) {#5-dot-13-lifetime-value}
+
+<a id="org20146ef">Lifetime Value</a> [LTV]({{<relref "20210731022109-customer_lifetime_value.md#" >}})
+ [Lifetime Value](#org20146ef) is the total value of a customer’s business over the lifetime of their relationship with your company.
+
+
+#### WHY {#why}
+
+One of the reasons Subscriptions are so profitable is that they naturally maximize [Lifetime Value](#org20146ef).
 
 
 #### HOW {#how}
 
-How...not losing money hand over fist?......The answer is [Subscription](#org1fdc713).
+it’s much better to operate in markets where customers have a high [Lifetime Value](#org20146ef).
+
+
+### 5.14 [Allowable Acquisition Cost](#orgfcfdca3) {#5-dot-14-allowable-acquisition-cost}
+
+<a id="orgfcfdca3">Allowable Acquisition Cost</a> 获客成本
+
+
+#### WHAT {#what}
+
+[Allowable Acquisition Cost](#orgfcfdca3) (AAC) is the marketing component of [Lifetime Value](#org20146ef).
+
+
+#### WHY {#why}
+
+The higher the average customer’s [Lifetime Value](#org20146ef), the more you can spend to attract a new customer, making it possible to spread the word about your offer in new ways.
+
+
+#### HOW {#how}
+
+How...not losing money hand over fist?......The answer is [Subscription](#org53496c0).
 
 <!--list-separator-->
 
 -  HOW TO CALCULATE
 
-    To calculate AAC, start with...average [Lifetime Value](#org032af5c), then subtract（减去） your [Value Stream](#orgbea4905) costs—what it takes to create and deliver the value promised to that customer over your entire relationship with them. Then subtract your [Overhead](#org98224ed) divided by your total customer base, which represents the [Fixed Costs](#org86d0552) you’ll need to pay to stay in business over that period of time. Multiply the result by 1 minus your desired [Profit Margin](#org9ccefa9)  (if you’re shooting for a 60 percent margin, you’d use 1.00 − 0.60=0.40), and that’s your AAC.
+    To calculate AAC, start with...average [Lifetime Value](#org20146ef), then subtract（减去） your [Value Stream](#orgf790e35) costs—what it takes to create and deliver the value promised to that customer over your entire relationship with them. Then subtract your [Overhead](#orgfbf3fcf) divided by your total customer base, which represents the [Fixed Costs](#orgabd428f) you’ll need to pay to stay in business over that period of time. Multiply the result by 1 minus your desired [Profit Margin](#orgc33cee1)  (if you’re shooting for a 60 percent margin, you’d use 1.00 − 0.60=0.40), and that’s your AAC.
 
-    The higher the [Lifetime Value](#org032af5c) of your customers, the higher the [Allowable Acquisition Cost](#org46dee71).
+    The higher the [Lifetime Value](#org20146ef) of your customers, the higher the [Allowable Acquisition Cost](#orgfcfdca3).
 
 
-### 5.15 [Overhead](#org98224ed) {#5-dot-15-overhead}
+### 5.15 [Overhead](#orgfbf3fcf) {#5-dot-15-overhead}
 
-<a id="org98224ed">Overhead</a> [日常开支]({{<relref "20210801233213-overhead.md#" >}})
-[Overhead](#org98224ed) represents the minimum ongoing resources required for a business to continue operation.
+<a id="orgfbf3fcf">Overhead</a> [日常开支]({{<relref "20210801233213-overhead.md#" >}})
+[Overhead](#orgfbf3fcf) represents the minimum ongoing resources required for a business to continue operation.
 
 
 #### WHY {#why}
 
-The lower your [Overhead](#org98224ed), the less revenue the business requires to continue operation, and the more quickly you’ll reach your point of financial [Sufficiency](#org5c427b0).
+The lower your [Overhead](#orgfbf3fcf), the less revenue the business requires to continue operation, and the more quickly you’ll reach your point of financial [Sufficiency](#org376e2d3).
 
-[Overhead](#org98224ed) is critically important if you are building your company on a fixed amount of Capital.
+[Overhead](#orgfbf3fcf) is critically important if you are building your company on a fixed amount of Capital.
 
 
 ### 5.16 Costs: Fixed and Variable {#5-dot-16-costs-fixed-and-variable}
 
-<a id="org86d0552">Fixed Costs</a>  [固定成本]({{<relref "20210801233400-fixed_costs.md#" >}})
-[Fixed Costs](#org86d0552) are incurred no matter how much value you create.
+<a id="orgabd428f">Fixed Costs</a>  [固定成本]({{<relref "20210801233400-fixed_costs.md#" >}})
+[Fixed Costs](#orgabd428f) are incurred no matter how much value you create.
 
-<a id="org005f494">Variable Costs</a> [可变成本]({{<relref "20210729215522-variable_costs.md#" >}})
-[Variable Costs](#org005f494) are directly related to how much value you create.
+<a id="org14e471f">Variable Costs</a> [可变成本]({{<relref "variable-costs.md#" >}})
+[Variable Costs](#org14e471f) are directly related to how much value you create.
 
 
 #### HOW {#how}
 
-Reductions in [Fixed Costs](#org86d0552) [Accumulate; reductions in [Variable Costs](#org005f494) are Amplified by volume.
+Reductions in [Fixed Costs](#orgabd428f) [Accumulate; reductions in [Variable Costs](#org14e471f) are Amplified by volume.
 
 
 ### 5.17 Incremental Degradation {#5-dot-17-incremental-degradation}
@@ -1797,62 +1797,62 @@ Reductions in [Fixed Costs](#org86d0552) [Accumulate; reductions in [Variable Co
 
 #### WHY {#why}
 
-Cutting costs can help you increase your [Profit Margin](#org9ccefa9), but it often comes at a steep price.
+Cutting costs can help you increase your [Profit Margin](#orgc33cee1), but it often comes at a steep price.
 
 
 #### HOW {#how}
 
-Cutting costs that are wasteful or unnecessary is certainly a good idea, but [Diminishing Returns](#org6fc1599) always kick in—be careful not to throw the baby out with the bath water.
+Cutting costs that are wasteful or unnecessary is certainly a good idea, but [Diminishing Returns](#org88bb41a) always kick in—be careful not to throw the baby out with the bath water.
 
 
-### 5.18 [Breakeven](#org28510e6) {#5-dot-18-breakeven}
+### 5.18 [Breakeven](#orgf090c78) {#5-dot-18-breakeven}
 
-<a id="org28510e6">Breakeven</a> [收支平衡点]({{<relref "20210727170542-breakeven.md#" >}})
-[Breakeven](#org28510e6) is the point where your business’s total revenue to date is equal
+<a id="orgf090c78">Breakeven</a> [收支平衡点]({{<relref "20210727170542-breakeven.md#" >}})
+[Breakeven](#orgf090c78) is the point where your business’s total revenue to date is equal
 to its total expenses to date—it’s the point where your business starts
 creating wealth instead of consuming it.
 
 
-### 5.19 [Amortization](#orga2d1785) {#5-dot-19-amortization}
+### 5.19 [Amortization](#org1847b01) {#5-dot-19-amortization}
 
-<a id="orga2d1785">Amortization</a> [分期偿还]({{<relref "20210222220046-amortization.md#" >}})
+<a id="org1847b01">Amortization</a> [分期偿还]({{<relref "20210222220046-amortization.md#" >}})
 
 
 #### WHAT {#what}
 
-[Amortization](#orga2d1785) is the process of spreading the cost of a resource investment
+[Amortization](#org1847b01) is the process of spreading the cost of a resource investment
 over the estimated useful life of that investment.
 
 
 #### WHY {#why}
 
-[Amortization](#orga2d1785) can help you determine whether or not a big expense is a good
+[Amortization](#org1847b01) can help you determine whether or not a big expense is a good
 idea.
 
 
 #### HOW TO CALCULATE {#how-to-calculate}
 
-[Amortization](#orga2d1785) depends on an accurate assessment of useful life, which is a
-prediction. [Amortization](#orga2d1785) doesn’t work well if you don’t sell what you
+[Amortization](#org1847b01) depends on an accurate assessment of useful life, which is a
+prediction. [Amortization](#org1847b01) doesn’t work well if you don’t sell what you
 produce or if your equipment wears out more quickly than expected
 
 
-### 5.20 [Purchasing Power](#org54bf8a5) {#5-dot-20-purchasing-power}
+### 5.20 [Purchasing Power](#org6e7d917) {#5-dot-20-purchasing-power}
 
-<a id="org54bf8a5">Purchasing Power</a> 购买力
+<a id="org6e7d917">Purchasing Power</a> 购买力
 
 
 #### WHAT {#what}
 
-[Purchasing Power](#org54bf8a5) is the sum total of all liquid assets a business has at its
+[Purchasing Power](#org6e7d917) is the sum total of all liquid assets a business has at its
 disposal（处理）.
 
-[Purchasing Power](#org54bf8a5) is what you use to pay your [Overhead](#org98224ed) and your suppliers
+[Purchasing Power](#org6e7d917) is what you use to pay your [Overhead](#orgfbf3fcf) and your suppliers
 
 
 #### HOW {#how}
 
-Always keep track of how much [Purchasing Power](#org54bf8a5) you have available.
+Always keep track of how much [Purchasing Power](#org6e7d917) you have available.
 
 
 ### 5.21 Cash Flow Cycle {#5-dot-21-cash-flow-cycle}
@@ -1865,25 +1865,25 @@ cash it’s better to speed up collections and reduce the extension of credits.
 
 #### WHY {#why}
 
-The more [Purchasing Power](#org54bf8a5) you have, the more Resilient your business is and
+The more [Purchasing Power](#org6e7d917) you have, the more Resilient your business is and
 the better your ability to handle the unexpected.
 
 
-### 5.22 [Opportunity Cost](#org313fd7a) {#5-dot-22-opportunity-cost}
+### 5.22 [Opportunity Cost](#orge8bbf65) {#5-dot-22-opportunity-cost}
 
-<a id="org313fd7a">Opportunity Cost</a> [机会成本]({{<relref "20210801233743-opportunity_cost.md#" >}})
+<a id="orge8bbf65">Opportunity Cost</a> [机会成本]({{<relref "20210801233743-opportunity_cost.md#" >}})
 
 
 #### WHAT {#what}
 
-[Opportunity Cost](#org313fd7a) is the value you’re giving up by making a Decision.
+[Opportunity Cost](#orge8bbf65) is the value you’re giving up by making a Decision.
 
 
 #### HOW {#how}
 
 it’s tempting to overanalyze every Decision to make sure you’ve chosen the
 very best option available, which can easily go well past the point of
-[Diminishing Returns](#org6fc1599).
+[Diminishing Returns](#org88bb41a).
 
 
 ### 5.23 Time Value of Money {#5-dot-23-time-value-of-money}
@@ -1894,23 +1894,23 @@ Calculating the Time Value of Money is a way of making Decisions in the face
 of Opportunity Costs.
 
 
-### 5.24 [Compounding](#org5e097eb) {#5-dot-24-compounding}
+### 5.24 [Compounding](#orgdd64a8e) {#5-dot-24-compounding}
 
-<a id="org5e097eb">Compounding</a> [复利]({{<relref "compound-interest.md#" >}})
+<a id="orgdd64a8e">Compounding</a> [复利]({{<relref "compound-interest.md#" >}})
 
 
 #### WHAT {#what}
 
-[Compounding](#org5e097eb) is the [Accumulation](#org08d903a) of gains over time. Whenever you’re able to
+[Compounding](#orgdd64a8e) is the [Accumulation](#orgae40175) of gains over time. Whenever you’re able to
 reinvest gains, your investment will build upon itself exponentially—a
 positive Feedback Loop.
 
 
-### 5.25 [Leverage](#org2db0f66) {#5-dot-25-leverage}
+### 5.25 [Leverage](#org9176bab) {#5-dot-25-leverage}
 
-杠杆原理 <a id="org2db0f66">Leverage</a>
-[Leverage](#org2db0f66) is the practice of using borrowed money to magnify potential gains.
-[Leverage](#org2db0f66) is a form of financial [Amplification](#org112b245)—it magnifies the potential for both gains and losses.
+杠杆原理 <a id="org9176bab">Leverage</a>
+[Leverage](#org9176bab) is the practice of using borrowed money to magnify potential gains.
+[Leverage](#org9176bab) is a form of financial [Amplification](#org5d1d212)—it magnifies the potential for both gains and losses.
 
 
 ### 5.26 Hierarchy of Funding {#5-dot-26-hierarchy-of-funding}
@@ -1936,15 +1936,15 @@ starting at the bottom:
 -   A [Initial Public Offering]({{<relref "20210801234009-initial_public_offering.md#" >}}) involves selling partial ownership of the company to investors on the open market.
 
 
-### 5.27 [Bootstrapping](#orga69fc29) {#5-dot-27-bootstrapping}
+### 5.27 [Bootstrapping](#org3b7e3fd) {#5-dot-27-bootstrapping}
 
-<a id="orga69fc29">Bootstrapping</a> 自力更生
- [Bootstrapping](#orga69fc29) is the art of building and operating a business without Funding.
+<a id="org3b7e3fd">Bootstrapping</a> 自力更生
+ [Bootstrapping](#org3b7e3fd) is the art of building and operating a business without Funding.
 
 
 #### WHY {#why}
 
-[Bootstrapping](#orga69fc29) allows you to grow your business while maintaining 100 percent control over the business’s operations.
+[Bootstrapping](#org3b7e3fd) allows you to grow your business while maintaining 100 percent control over the business’s operations.
 
 
 #### HOW {#how}
@@ -1952,19 +1952,19 @@ starting at the bottom:
 If you accept Funding, make sure that you use it to do things that you couldn’t do any other way. Force Multipliers are useful but expensive...
 
 
-### 5.28 [Return on Investment](#org969e85a) {#5-dot-28-return-on-investment}
+### 5.28 [Return on Investment](#orgb54c00e) {#5-dot-28-return-on-investment}
 
-<a id="org969e85a">Return on Investment</a> [投资回报率]({{<relref "20210801234144-return_on_investment.md#" >}})
+<a id="orgb54c00e">Return on Investment</a> [投资回报率]({{<relref "20210801234144-return_on_investment.md#" >}})
 
 
 #### WHAT {#what}
 
-[Return on Investment](#org969e85a) (ROI) is the value created from an investment of time or resources.
+[Return on Investment](#orgb54c00e) (ROI) is the value created from an investment of time or resources.
 
 
 #### WHY {#why}
 
-[Return on Investment](#org969e85a) can help you decide between competing alternatives.
+[Return on Investment](#orgb54c00e) can help you decide between competing alternatives.
 
 
 #### HOW {#how}
@@ -1975,25 +1975,25 @@ Time” is an extremely useful way to analyze the benefits of your effort.
 Every future ROI estimate is a semieducated guess.
 
 
-### 5.29 [Sunk Cost](#org84f69fa) {#5-dot-29-sunk-cost}
+### 5.29 [Sunk Cost](#org2adc460) {#5-dot-29-sunk-cost}
 
-<a id="org84f69fa">Sunk Cost</a> [沉没陈本]({{<relref "20210801234216-sunk_cost.md#" >}})
+<a id="org2adc460">Sunk Cost</a> [沉没陈本]({{<relref "20210801234216-sunk_cost.md#" >}})
 
 
 #### WHAT {#what}
 
-[Sunk Cost](#org84f69fa) are investments of time, energy, and money that can’t be recovered
+[Sunk Cost](#org2adc460) are investments of time, energy, and money that can’t be recovered
 once they’ve been made.
 
 
 ### 5.30 Internal Controls {#5-dot-30-internal-controls}
 
-<a id="org1b01455">Internal Control</a>
+<a id="org28b5074">Internal Control</a>
 
 
 #### WHAT {#what}
 
-[Internal Control](#org1b01455) are a set of specific [Standard Operating Procedure](#orgb447032) a
+[Internal Control](#org28b5074) are a set of specific [Standard Operating Procedure](#org05bf215) a
 business uses to collect accurate data, keep the business running smoothly,
 and spot trouble as quickly as possible.
 
@@ -2006,12 +2006,12 @@ companies in your market.
 
 #### HOW {#how}
 
-[Internal Control](#org1b01455) are most useful in four areas:
+[Internal Control](#org28b5074) are most useful in four areas:
 
 -   Budgeting is the act of estimating future costs and taking steps to ensure
     that these estimates aren’t exceeded without good reason. Budgets are very
-    important in controlling [Profit](#org7ae6381) Margins, the [Cash Flow Statement](#org76be103) Cycle,
-    and [Leverage](#org2db0f66).
+    important in controlling [Profit](#orgdb40dbb) Margins, the [Cash Flow Statement](#org667ef1d) Cycle,
+    and [Leverage](#org9176bab).
 -   Supervision is important in businesses that rely on employees or outside
     firms for important parts of its business process.
 -   Compliance is necessary when a business operates in an industry affected
@@ -2067,7 +2067,7 @@ performance, and enhances your ability to focus.
 
 Get at least 7-8 hours of sleep each night. Sleep helps consolidate the
 results of Pattern Matching and Mental Simulation, as well as reverse the
-effects of [Willpower](#org5442d3b) Depletion.
+effects of [Willpower](#org3d68c1f) Depletion.
 
 
 ### 6.3 The Onion Brain {#6-dot-3-the-onion-brain}
@@ -2087,7 +2087,7 @@ sensory data, emotion, memory, and Pattern Matching.
 Sitting just above the midbrain is a thin, folded layer of tissue—the
 **forebrain**. This small sheet of neural matter is responsible for the
 cognitive capabilities that make us distinctly human: self-awareness, logic,
-deliberation, [Inhibition](#org990b1ea), and Decision.
+deliberation, [Inhibition](#orgadabcd4), and Decision.
 
 P. J. Eby...uses a great analogy to explain the relationship between the
 different parts of your mind: your brain is a horse, and “you” are the
@@ -2100,27 +2100,27 @@ Mindfulness in Plain English by Bhante Henepola Gunaratana and Wherever You
 Go, There You Are by Jon Kabat-Zinn.
 
 
-### 6.4 [Perceptual Control](#org7901e89) {#6-dot-4-perceptual-control}
+### 6.4 [Perceptual Control](#org58ae9b1) {#6-dot-4-perceptual-control}
 
-<a id="org7901e89">Perceptual Control</a> 感知控制
+<a id="org58ae9b1">Perceptual Control</a> 感知控制
 
 
 #### WHAT {#what}
 
-In reality, human behavior is much more like a thermostat（温度调节器）This relationship is called [Perceptual Control](#org7901e89)......and the action we ultimately take depends on the Environment.
+In reality, human behavior is much more like a thermostat（温度调节器）This relationship is called [Perceptual Control](#org58ae9b1)......and the action we ultimately take depends on the Environment.
 
 The Environment dictates which actions are possible to bring the perception under control. Control is not planning—it’s adjusting to changes in the Environment as they actually happen.
 
 
 #### WHY {#why}
 
-[Perceptual Control](#org7901e89) represents a fundamental shift in understanding why people do the things they do. Once you understand that people act to control their perceptions, you’ll be better equipped to influence how they act.
+[Perceptual Control](#org58ae9b1) represents a fundamental shift in understanding why people do the things they do. Once you understand that people act to control their perceptions, you’ll be better equipped to influence how they act.
 
 
-### 6.5 [Reference Level](#org0c794dc) {#6-dot-5-reference-level}
+### 6.5 [Reference Level](#org604328a) {#6-dot-5-reference-level}
 
-<a id="org0c794dc">Reference Level</a>
- [Reference Level](#org0c794dc)—a range of perceptions（感觉，洞察力）that indicate the system is “under control.”
+<a id="org604328a">Reference Level</a>
+ [Reference Level](#org604328a)—a range of perceptions（感觉，洞察力）that indicate the system is “under control.”
  There are three kinds of Reference Levels: set points, ranges, and errors.
 
 -   A set point is a minimum or maximum value......Business financial controls are managed as set points
@@ -2130,7 +2130,7 @@ The Environment dictates which actions are possible to bring the perception unde
 
 #### HOW {#how}
 
-    If you want to change a behavior, you must either change the system’s [Reference Level](#org0c794dc) or change the Environment in which the system is operating.
+    If you want to change a behavior, you must either change the system’s [Reference Level](#org604328a) or change the Environment in which the system is operating.
 Consciously defining and redefining Reference Levels can help you change your behavior.
 
 
@@ -2141,7 +2141,7 @@ Consciously defining and redefining Reference Levels can help you change your be
 > —HENRY GEORGE, AUTHOR OF THE SCIENCE OF POLITICAL ECONOMY, 1898
 
 people are generally lazy. The critical insight is that being lazy is a feature, not a bug.
-Unless a [Reference Level](#org0c794dc) is violated, people generally will Conserve Energy by not acting.
+Unless a [Reference Level](#org604328a) is violated, people generally will Conserve Energy by not acting.
 
 
 #### WHY {#why}
@@ -2151,17 +2151,17 @@ Conservation of Energy explains why some people stay in dead-end jobs for decade
 
 #### HOW {#how}
 
-Sources of information that change your [Reference Level](#org0c794dc) are valuable in prompting action.
+Sources of information that change your [Reference Level](#org604328a) are valuable in prompting action.
 
 
-### 6.7 [Guiding Structure](#orgf7f2245) {#6-dot-7-guiding-structure}
+### 6.7 [Guiding Structure](#orga13095d) {#6-dot-7-guiding-structure}
 
-<a id="orgf7f2245">Guiding Structure</a> 指导框架
+<a id="orga13095d">Guiding Structure</a> 指导框架
 
 
 #### WHAT {#what}
 
-[Guiding Structure](#orgf7f2245) means the structure of your Environment is the largest determinant（决定因素）of your behavior.
+[Guiding Structure](#orga13095d) means the structure of your Environment is the largest determinant（决定因素）of your behavior.
 
 
 #### HOW {#how}
@@ -2171,9 +2171,9 @@ If you want to successfully change a behavior, don’t try to change the behavio
 Add a bit of Friction or eliminate certain options completely, and you’ll find it much easier to focus on what you’re trying to accomplish.
 
 
-### 6.8 [Reorganization](#orgd182641) {#6-dot-8-reorganization}
+### 6.8 [Reorganization](#org08378e8) {#6-dot-8-reorganization}
 
-<a id="orgd182641">Reorganization</a> 重整
+<a id="org08378e8">Reorganization</a> 重整
 
 
 #### BACKGROUND {#background}
@@ -2184,17 +2184,17 @@ your brain will kick into action—“I’m not as happy as I should be… Somet
 
 #### WHAT {#what}
 
-[Reorganization](#orgd182641) is random action that occurs when a [Reference Level](#org0c794dc) is violated but you don’t know what to do to bring the perception back under control.
+[Reorganization](#org08378e8) is random action that occurs when a [Reference Level](#org604328a) is violated but you don’t know what to do to bring the perception back under control.
 
 
 #### WHY {#why}
 
-[Reorganization](#orgd182641) feels like you’re lost, depressed, or crazy—that’s completely normal. Your brain starts spitting out all kinds of off-the-wall things in an effort to find something to fix the situation.
+[Reorganization](#org08378e8) feels like you’re lost, depressed, or crazy—that’s completely normal. Your brain starts spitting out all kinds of off-the-wall things in an effort to find something to fix the situation.
 
 
 ### 6.9 Conflict {#6-dot-9-conflict}
 
-<a id="orgc3a248c">Conflicts</a>
+<a id="org7f60890">Conflicts</a>
 
 
 #### BACKGROUND {#background}
@@ -2204,15 +2204,15 @@ How can you focus on something due in the future when there’s something that n
 
 #### WHAT {#what}
 
-[Conflicts](#orgc3a248c) occur when two control systems try to change the same perception.
-[Conflicts](#orgc3a248c) occur when people are controlling for different outputs that require the same input.
+[Conflicts](#org7f60890) occur when two control systems try to change the same perception.
+[Conflicts](#org7f60890) occur when people are controlling for different outputs that require the same input.
 
 
 #### HOW {#how}
 
-[Conflicts](#orgc3a248c) can only be resolved by changing [Reference Level](#org0c794dc)—how success is defined by the parties involved.
+[Conflicts](#org7f60890) can only be resolved by changing [Reference Level](#org604328a)—how success is defined by the parties involved.
 
-    Each party in the Conflict has a different [Reference Level](#org0c794dc), which is primarily influenced by the situation or Environment.
+    Each party in the Conflict has a different [Reference Level](#org604328a), which is primarily influenced by the situation or Environment.
 Conflict can be ended by scheduling firm times for work and rest, ensuring enough of each.
 
 
@@ -2268,15 +2268,15 @@ In Re-Create Your Life, Morty Lefkoe teaches a process that can be used to Reint
 7.  Consciously choose to accept your reinterpretation as “true.”
 
 
-### 6.13 [Motivation](#orgef12927) {#6-dot-13-motivation}
+### 6.13 [Motivation](#orgb662b36) {#6-dot-13-motivation}
 
-<a id="orgef12927">Motivation</a> [动机]({{<relref "20210801234831-motivation.md#" >}})
- [Motivation](#orgef12927) is an emotion—NOT a logical, rational activity.
-[Motivation](#orgef12927) is an emotional state that links the parts of our brain that feel with the parts that are responsible for action.
+<a id="orgb662b36">Motivation</a> [动机]({{<relref "20210801234831-motivation.md#" >}})
+ [Motivation](#orgb662b36) is an emotion—NOT a logical, rational activity.
+[Motivation](#orgb662b36) is an emotional state that links the parts of our brain that feel with the parts that are responsible for action.
 
-[Motivation](#orgef12927) is the link between the [midbrain and the hindbrain.
+[Motivation](#orgb662b36) is the link between the [midbrain and the hindbrain.
 
-break down the experience of [Motivation](#orgef12927) into: moving \*toward- things that are desirable and moving \*away- from things that aren’t.
+break down the experience of [Motivation](#orgb662b36) into: moving \*toward- things that are desirable and moving \*away- from things that aren’t.
 
 In general, “moving **away\*” takes priority over “moving \*toward**.” The reason
 comes back to Caveman Syndrome.
@@ -2284,60 +2284,60 @@ comes back to Caveman Syndrome.
 
 #### WHY {#why}
 
-Very often, Mental Simulation, Patterns, [Conflicts](#orgc3a248c), and Interpretation hidden in the midbrain can get in the way of making progress toward what we want to accomplish. As long as there are “move away from” signals being sent, you’ll have a hard time feeling motivated to move toward what you want.
+Very often, Mental Simulation, Patterns, [Conflicts](#org7f60890), and Interpretation hidden in the midbrain can get in the way of making progress toward what we want to accomplish. As long as there are “move away from” signals being sent, you’ll have a hard time feeling motivated to move toward what you want.
 
 
-### 6.14 [Inhibition](#org990b1ea) {#6-dot-14-inhibition}
+### 6.14 [Inhibition](#orgadabcd4) {#6-dot-14-inhibition}
 
-<a id="org990b1ea">Inhibition</a> 拘谨，拟制
-
-
-#### WHAT {#what}
-
-[Inhibition](#org990b1ea) is the ability to temporarily override our natural inclinations.
-
-[Willpower](#org5442d3b)（意志力）is the fuel of [inhibition](#org990b1ea).
-
-
-### 6.15 [Willpower](#org5442d3b) Depletion {#6-dot-15-willpower-depletion}
-
-<a id="org5442d3b">Willpower</a> 意志力耗尽
+<a id="orgadabcd4">Inhibition</a> 拘谨，拟制
 
 
 #### WHAT {#what}
 
-[Willpower](#org5442d3b) can be thought of as instinctual override......[Willpower](#org5442d3b) are very limited and become Depleted with use.
+[Inhibition](#orgadabcd4) is the ability to temporarily override our natural inclinations.
+
+[Willpower](#org3d68c1f)（意志力）is the fuel of [inhibition](#orgadabcd4).
+
+
+### 6.15 [Willpower](#org3d68c1f) Depletion {#6-dot-15-willpower-depletion}
+
+<a id="org3d68c1f">Willpower</a> 意志力耗尽
+
+
+#### WHAT {#what}
+
+[Willpower](#org3d68c1f) can be thought of as instinctual override......[Willpower](#org3d68c1f) are very limited and become Depleted with use.
 
 
 #### HOW TO AVOID {#how-to-avoid}
 
-    [Willpower](#org5442d3b) for self-control tasks is dependent on a physiological fuel: blood glucose.
-The best way to use your limited reserves of [Willpower](#org5442d3b) is to use [Guiding Structure](#orgf7f2245) to change the structure of your Environment instead of your behavior.
+    [Willpower](#org3d68c1f) for self-control tasks is dependent on a physiological fuel: blood glucose.
+The best way to use your limited reserves of [Willpower](#org3d68c1f) is to use [Guiding Structure](#orga13095d) to change the structure of your Environment instead of your behavior.
 
 
-### 6.16 [Loss Aversion](#org3776639) {#6-dot-16-loss-aversion}
+### 6.16 [Loss Aversion](#org2c18a0f) {#6-dot-16-loss-aversion}
 
-<a id="org3776639">Loss Aversion</a> [Loss Avuersion]({{<relref "20210801235104-loss_aversion.md#" >}})
- [Loss Aversion](#org3776639) is the idea that people hate to lose things more than they like to gain them.
+<a id="org2c18a0f">Loss Aversion</a> [Loss Avuersion]({{<relref "20210801235104-loss_aversion.md#" >}})
+ [Loss Aversion](#org2c18a0f) is the idea that people hate to lose things more than they like to gain them.
 
 
 #### WHY {#why}
 
-[Loss Aversion](#org3776639) explains why threats typically take precedence over opportunities when it comes to [Motivation](#orgef12927).
+[Loss Aversion](#org2c18a0f) explains why threats typically take precedence over opportunities when it comes to [Motivation](#orgb662b36).
 
-[Loss Aversion](#org3776639) also explains why uncertainty appears risky.
+[Loss Aversion](#org2c18a0f) also explains why uncertainty appears risky.
 
-[Loss Aversion](#org3776639) is why Risk Reversal is so important if you’re presenting an offer to a potential customer.
+[Loss Aversion](#org2c18a0f) is why Risk Reversal is so important if you’re presenting an offer to a potential customer.
 
 
 #### HOW TO AVOID {#how-to-avoid}
 
-The best way to overcome [Loss Aversion](#org3776639) is to Reinterpret the risk of loss as "no big deal."
+The best way to overcome [Loss Aversion](#org2c18a0f) is to Reinterpret the risk of loss as "no big deal."
 
 
-### 6.17 [Threat Lockdown](#org3699616) {#6-dot-17-threat-lockdown}
+### 6.17 [Threat Lockdown](#org1925c69) {#6-dot-17-threat-lockdown}
 
-<a id="org3699616">Threat Lockdown</a>
+<a id="org1925c69">Threat Lockdown</a>
 When your mind perceives a potential threat—real or imaginary—your body immediately prepares to respond.
 
 
@@ -2348,14 +2348,14 @@ The subconscious choice to fight, flee, or freeze is largely dependent on your b
 
 #### WHY {#why}
 
-[Threat Lockdown](#org3699616) is a constructive response designed to help you defend yourself, but like many ancient instincts, it often malfunctions（发生故障）in our modern environment.
+[Threat Lockdown](#org1925c69) is a constructive response designed to help you defend yourself, but like many ancient instincts, it often malfunctions（发生故障）in our modern environment.
 
-[Threat Lockdown](#org3699616) can easily become a vicious cycle......If you’re experiencing [Threat Lockdown](#org3699616), don’t try to repress the threat signal.
+[Threat Lockdown](#org1925c69) can easily become a vicious cycle......If you’re experiencing [Threat Lockdown](#org1925c69), don’t try to repress the threat signal.
 
 
 #### HOW TO DEAL {#how-to-deal}
 
-The key to dealing with [Threat Lockdown](#org3699616) is to convince your mind that the threat no longer exists. You can do that in one of two ways:
+The key to dealing with [Threat Lockdown](#org1925c69) is to convince your mind that the threat no longer exists. You can do that in one of two ways:
 
 -   you can convince your mind there was never actually any threat
 -   you can convince your mind the threat has passed
@@ -2382,9 +2382,9 @@ In Green to Gold, Daniel Esty and Andrew Winston describe...The “newspaper rul
 -   The “grandchild rule” is a way of evaluating decisions with long-term consequences. Imagine that, thirty or forty years from now, your grandchild gives you feedback on the results of your decision. Will they laud you for your wisdom or reprimand you for your stupidity?
 
 
-### 6.19 [Association](#org2e9cb74) {#6-dot-19-association}
+### 6.19 [Association](#orgf3cf060) {#6-dot-19-association}
 
-<a id="org2e9cb74">Association</a> 联合，关联，联想
+<a id="orgf3cf060">Association</a> 联合，关联，联想
  For decades, the Coca-Cola Company has been associating Coke with a single emotion: happiness.
 
 
@@ -2392,30 +2392,30 @@ In Green to Gold, Daniel Esty and Andrew Winston describe...The “newspaper rul
 
 It’s possible to influence behavior by using associative cues, even Associations that make no logical sense.
 
-    Correlation is powerful—your brain will make the [Association](#org2e9cb74) anyway.
+    Correlation is powerful—your brain will make the [Association](#orgf3cf060) anyway.
 Presenting your prospects with positive Associations can influence how they think about what you offer.
 
 
-### 6.20 [Absence Blindness](#orgd42f5ef) {#6-dot-20-absence-blindness}
+### 6.20 [Absence Blindness](#orgb509006) {#6-dot-20-absence-blindness}
 
-   <a id="orgd42f5ef">Absence Blindness</a>
-   [Absence Blindness](#orgd42f5ef) is a cognitive bias that prevents us from identifying what we can’t observe. Our perceptual faculties evolved to detect objects that are present in the Environment.
+   <a id="orgb509006">Absence Blindness</a>
+   [Absence Blindness](#orgb509006) is a cognitive bias that prevents us from identifying what we can’t observe. Our perceptual faculties evolved to detect objects that are present in the Environment.
 The problem is, no one sees all of the bad things that the great manager prevents.
 
 
 #### WHY {#why}
 
-[Absence Blindness](#orgd42f5ef) makes prevention（防止）grossly（极度夸张）underappreciated.
+[Absence Blindness](#orgb509006) makes prevention（防止）grossly（极度夸张）underappreciated.
 
-    [Absence Blindness](#orgd42f5ef) also makes it uncomfortable for people to "do nothing" when something bad happens, even if doing nothing is the best course of action.
-Because of [Loss Aversion](#org3776639), people start freaking out and start clamoring for an immediate solution to the collapsing（倒塌；垮掉）market.
+    [Absence Blindness](#orgb509006) also makes it uncomfortable for people to "do nothing" when something bad happens, even if doing nothing is the best course of action.
+Because of [Loss Aversion](#org2c18a0f), people start freaking out and start clamoring for an immediate solution to the collapsing（倒塌；垮掉）market.
 
 
 #### HOW TO AVOID {#how-to-avoid}
 
 To fix the issue, the best course of action is to stop artificially manipulating interest rates, which caused the issue in the first place.
-Experience makes it easier to avoid [Absence Blindness](#orgd42f5ef).
-The only reliable way I’ve found to overcome [Absence Blindness](#orgd42f5ef) is Checklisting.
+Experience makes it easier to avoid [Absence Blindness](#orgb509006).
+The only reliable way I’ve found to overcome [Absence Blindness](#orgb509006) is Checklisting.
 
 
 ### 6.21 Contrast {#6-dot-21-contrast}
@@ -2426,7 +2426,7 @@ The only reliable way I’ve found to overcome [Absence Blindness](#orgd42f5ef) 
 #### BACKGROUD {#backgroud}
 
 Our perceptions are influenced by information gathered from the surrounding environment.
-Our perceptual（感知的；知觉的）faculties（官能，机能）are optimized to notice Contrast, not to compare what we perceive with things that aren’t there, which is the root of [Absence Blindness](#orgd42f5ef).
+Our perceptual（感知的；知觉的）faculties（官能，机能）are optimized to notice Contrast, not to compare what we perceive with things that aren’t there, which is the root of [Absence Blindness](#orgb509006).
 
 
 #### WHY {#why}
@@ -2435,9 +2435,9 @@ Contrast is often used to influence buying decisions.
 Framing is a way to control the perception of Contrast.
 
 
-### 6.22 [Scarcity](#orgfc9913a) {#6-dot-22-scarcity}
+### 6.22 [Scarcity](#org2283d30) {#6-dot-22-scarcity}
 
-<a id="orgfc9913a">Scarcity</a> [稀缺性]({{<relref "20210801235515-scarcity.md#" >}})
+<a id="org2283d30">Scarcity</a> [稀缺性]({{<relref "20210801235515-scarcity.md#" >}})
 
 
 #### BACKGROUND {#background}
@@ -2447,13 +2447,13 @@ Because of Conservation of Energy, people have a natural tendency to decide to �
 
 #### WHAT {#what}
 
-[Scarcity](#orgfc9913a) encourages people to make decisions quickly.
-As a result, adding a [Scarcity](#orgfc9913a) element to your offer is a great way to encourage people to take action.
+[Scarcity](#org2283d30) encourages people to make decisions quickly.
+As a result, adding a [Scarcity](#org2283d30) element to your offer is a great way to encourage people to take action.
 
 
 #### HOW {#how}
 
-add an element of [Scarcity](#orgfc9913a) to your offer:
+add an element of [Scarcity](#org2283d30) to your offer:
 
 1.  Limited Quantities—inform prospects that you’re offering a limited number of units for sale.
 2.  Price Increases—inform prospects that the price will go up in the near future.
@@ -2504,7 +2504,7 @@ there can be many potential sources of resistance:
 -   You can’t define what you want.
 -   You believe the task will bring you closer to something you don’t want.
 -   You can’t figure out how you’re going to get from where you are right now to where you want to be.
--   You idealize the desired [End Result to the point that your mind estimates a low probability of achievement, resulting in [Loss Aversion](#org3776639).
+-   You idealize the desired [End Result to the point that your mind estimates a low probability of achievement, resulting in [Loss Aversion](#org2c18a0f).
 -   The “should” was established by someone else, not you, prompting [Persuasion Resistance.
 -   A competing action in the current Environment promises immediate gratification（满足，满意）, while the reward of the task in question will come much later. (Psychologists call this Hyperbolic Discounting.)
 -   The benefits of the action are abstract（抽象的）and distant（远期的）, while other possible actions will provide concrete and immediate benefits. (Psychologists call this Construal Level Theory.)
@@ -2517,13 +2517,13 @@ there can be many potential sources of resistance:
 
 #### WHAT {#what}
 
-Monoidealism is the state of focusing your energy and attention on only one thing, without [conflicts](#orgc3a248c).
+Monoidealism is the state of focusing your energy and attention on only one thing, without [conflicts](#org7f60890).
 
 
 #### HOW {#how}
 
-1.  Eliminate potential distractions and interruptions....Turning off my Internet connection...Using similar [Guiding Structure](#orgf7f2245) techniques is a good way to prevent your Attention from straying.
-2.  Eliminate inner [Conflicts](#orgc3a248c)...Instead of trying to ignore the resistance or push through it (a surefire（万无一失）way to experience [Willpower](#org5442d3b) Depletion), exploring that resistance using Mental Simulation and Reinterpretation helped me uncover a hidden [Conflicts](#orgc3a248c).
+1.  Eliminate potential distractions and interruptions....Turning off my Internet connection...Using similar [Guiding Structure](#orga13095d) techniques is a good way to prevent your Attention from straying.
+2.  Eliminate inner [Conflicts](#org7f60890)...Instead of trying to ignore the resistance or push through it (a surefire（万无一失）way to experience [Willpower](#org3d68c1f) Depletion), exploring that resistance using Mental Simulation and Reinterpretation helped me uncover a hidden [Conflicts](#org7f60890).
 3.  Kick-start the Attention process by doing a "dash." ...setting aside ten to thirty minutes for a quick burst of focused work can make it much easier to get into the zone quickly...called the Pomodoro Technique.
 
 
@@ -2568,7 +2568,7 @@ Four ways to “do” something: completion, deletion, delegation, and deferment
 #### WHAT {#what}
 
 A Most Important Task (MIT) is a critical task that will create the most important results you’re looking to achieve.
-Combining this technique with [Parkinson’s Law](#orgdd3391e) by setting an artificial deadline is extremely effective.
+Combining this technique with [Parkinson’s Law](#orgcfc4af7) by setting an artificial deadline is extremely effective.
 
 
 ### 7.6 Goals {#7-dot-6-goals}
@@ -2578,13 +2578,13 @@ Combining this technique with [Parkinson’s Law](#orgdd3391e) by setting an art
 
 Goals are most useful if they’re Framed in a Positive, Immediate, Concrete, Specific (PICS) format:
 
--   Positive refers to [Motivation](#orgef12927)—your Goal should be something you move toward, not away from
--   Immediate refers to time [scale](#orga087f09): your Goals should be things that you decide to make progress on now, not “someday” or “eventually.”
+-   Positive refers to [Motivation](#orgb662b36)—your Goal should be something you move toward, not away from
+-   Immediate refers to time [scale](#org3dfdeb6): your Goals should be things that you decide to make progress on now, not “someday” or “eventually.”
 -   Concrete means you’re able to see the results in the real world.
 -   Specific means you’re able to define exactly what, when, and where you’re going to achieve your Goal.
 
 Goals should be under your control. Goals like “losing twenty pounds” are soul crushing because they’re not directly under your control—losing weight is a result, not an effort.
-make your Goals actions that are within your [Locus of Control](#org7312f89), like doing a minimum of thirty minutes of exercise every day and controlling the number of calories you consume.
+make your Goals actions that are within your [Locus of Control](#org2f5833c), like doing a minimum of thirty minutes of exercise every day and controlling the number of calories you consume.
 
 
 ### 7.7 States of Being {#7-dot-7-states-of-being}
@@ -2607,13 +2607,13 @@ For example, I define “being successful” as “working on things I enjoy wit
 #### WHAT {#what}
 
 Habits are regular actions that support us.
-Due to the power of [Accumulation](#org08d903a), small Habits can add up to huge results over time.
+Due to the power of [Accumulation](#orgae40175), small Habits can add up to huge results over time.
 Most Habits take on one of four common forms: things you want to start doing, things you want to stop doing, things you want to do more, and things you want to do less.
 
 
 #### HOW {#how}
 
-Habits typically require a certain amount of [Willpower](#org5442d3b) to create. Therefore it’s best to use the techniques we discussed in the section on [Guiding Structure](#orgf7f2245) to make it easier to instill the Habits you want to adopt.
+Habits typically require a certain amount of [Willpower](#org3d68c1f) to create. Therefore it’s best to use the techniques we discussed in the section on [Guiding Structure](#orga13095d) to make it easier to instill the Habits you want to adopt.
 
 
 ### 7.9 Priming {#7-dot-9-priming}
@@ -2793,9 +2793,9 @@ Counterfactual Simulation can help you discover hidden opportunities you may hav
 When you run a Counterfactual Simulation, you assume the event or end state you’re simulating is already true. By supplying your mind with an artificial destination, it will automatically start to fill in the blanks between point A and point B.
 
 
-### 7.17 [Parkinson’s Law](#orgdd3391e) {#7-dot-17-parkinson-s-law}
+### 7.17 [Parkinson’s Law](#orgcfc4af7) {#7-dot-17-parkinson-s-law}
 
-帕金森定理 <a id="orgdd3391e">Parkinson’s Law</a>
+帕金森定理 <a id="orgcfc4af7">Parkinson’s Law</a>
 
 > Work expands so as to fill the time available for its completion.
 > —CYRIL NORTHCOTE PARKINSON, NAVAL HISTORIAN AND MANAGEMENT THEORIST
@@ -2803,22 +2803,22 @@ When you run a Counterfactual Simulation, you assume the event or end state you�
 
 #### WHAT {#what}
 
-[Parkinson’s Law](#orgdd3391e) should not be considered carte blanche to set unreasonable deadlines.
+[Parkinson’s Law](#orgcfc4af7) should not be considered carte blanche to set unreasonable deadlines.
 
 
 #### HOW {#how}
 
-[Parkinson’s Law](#orgdd3391e) is best used as a Counterfactual Simulation question.
+[Parkinson’s Law](#orgcfc4af7) is best used as a Counterfactual Simulation question.
 
 
-### 7.18 [Doomsday Scenario](#orgfc1e4ea) {#7-dot-18-doomsday-scenario}
+### 7.18 [Doomsday Scenario](#org18efb93) {#7-dot-18-doomsday-scenario}
 
-全球灾难危机 <a id="orgfc1e4ea">Doomsday Scenario</a>
+全球灾难危机 <a id="org18efb93">Doomsday Scenario</a>
 
 
 #### WHAT {#what}
 
-A [Doomsday Scenario](#orgfc1e4ea) is a Counterfactual Simulation) where you assume everything that can go wrong does go wrong.
+A [Doomsday Scenario](#org18efb93) is a Counterfactual Simulation) where you assume everything that can go wrong does go wrong.
 
 
 #### WHY {#why}
@@ -2830,7 +2830,7 @@ Doomsday Scenarios are pessimistic for a reason—they help you realize that, in
 
 When you actually examine your worst fears, you’ll discover that things won’t be as bad as you fear.
 By intentionally Externalizing and defining your worst fears, you’re exposing them as what they really are: irrational overreactions.
-Once you’ve imagined your [Doomsday Scenario](#orgfc1e4ea), you can start doing things to improve upon the worst case.
+Once you’ve imagined your [Doomsday Scenario](#org18efb93), you can start doing things to improve upon the worst case.
 
 
 ### 7.19 Excessive Self-Regard Tendency {#7-dot-19-excessive-self-regard-tendency}
@@ -2858,29 +2858,29 @@ They explain the Dunning-Kruger Effect as follows:
 4.  If they can be trained to substantially improve their own skill level, these individuals can recognize and acknowledge their own previous lack of skill.
 
 
-### 7.20 [Confirmation Bias](#org0b39474) {#7-dot-20-confirmation-bias}
+### 7.20 [Confirmation Bias](#org247a4f7) {#7-dot-20-confirmation-bias}
 
-<a id="org0b39474">Confirmation Bias</a> [确认偏误]({{<relref "20210802000043-confirmation_bias.md#" >}})
+<a id="org247a4f7">Confirmation Bias</a> [确认偏误]({{<relref "20210802000043-confirmation_bias.md#" >}})
 
 
 #### WHAT {#what}
 
-[Confirmation Bias](#org0b39474) is the general tendency for people to pay Attention to information that supports their conclusions and ignore information that doesn’t.
+[Confirmation Bias](#org247a4f7) is the general tendency for people to pay Attention to information that supports their conclusions and ignore information that doesn’t.
 
 
 #### HOW {#how}
 
-The best way to counteract（抵制）[Confirmation Bias](#org0b39474) is to intentionally seek out sources of information that challenge your current hypothesis or belief.
+The best way to counteract（抵制）[Confirmation Bias](#org247a4f7) is to intentionally seek out sources of information that challenge your current hypothesis or belief.
 
 
-### 7.21 [Hindsight Bias](#orgd0da26b) {#7-dot-21-hindsight-bias}
+### 7.21 [Hindsight Bias](#org864f96d) {#7-dot-21-hindsight-bias}
 
-[后视偏差]({{<relref "20210802000158-hindsight_bias.md#" >}}) <a id="orgd0da26b">Hindsight Bias</a>
+[后视偏差]({{<relref "20210802000158-hindsight_bias.md#" >}}) <a id="org864f96d">Hindsight Bias</a>
 
 
 #### WHAT {#what}
 
-[Hindsight Bias](#orgd0da26b) is the natural tendency to kick yourself for things you “should have known.”
+[Hindsight Bias](#org864f96d) is the natural tendency to kick yourself for things you “should have known.”
 
 
 #### WHY {#why}
@@ -2903,7 +2903,7 @@ Performance Load is a concept that explains what happens when you have too many 
 
 #### HOW {#how}
 
-Remember [Parkinson’s Law](#orgdd3391e): if you don’t set a limit on your available time, your work will expand to fill it all.
+Remember [Parkinson’s Law](#orgcfc4af7): if you don’t set a limit on your available time, your work will expand to fill it all.
 
 
 ### 7.23 Energy Cycles {#7-dot-23-energy-cycles}
@@ -3006,7 +3006,7 @@ The Hedonic Treadmill is a major problem if you’d like to experience a feeling
 
 here are five priorities that will contribute to your long-term happiness in a way that minimizes hedonic adaptation:
 
-1.  Work to make “enough” money...Once you have enough money to cover the necessities and a few luxuries, you reach a point of [Diminishing Returns](#org6fc1599): every additional dollar you earn doesn’t provide the same amount of utility.
+1.  Work to make “enough” money...Once you have enough money to cover the necessities and a few luxuries, you reach a point of [Diminishing Returns](#org88bb41a): every additional dollar you earn doesn’t provide the same amount of utility.
 2.  Focus on improving your health and energy.
 3.  Spend time with people you enjoy.
 4.  Remove chronic annoyances（长久的烦恼）...Examining ways to reduce or eliminate chronic stresses or annoyances can generate significant improvements in life satisfaction.
@@ -3030,17 +3030,17 @@ The Comparison Fallacy is a simple idea: other people are not you, and you are n
 
 #### HOW {#how}
 
-The only metric of success that matters is this: are you spending your time doing work you like, with people you enjoy, in a way that keeps you financially Sufficient)? If so, don’t worry about what other people are doing. If not, focus on making changes that are within your [Locus of Control](#org7312f89), so you can start moving in the direction you desire.
+The only metric of success that matters is this: are you spending your time doing work you like, with people you enjoy, in a way that keeps you financially Sufficient)? If so, don’t worry about what other people are doing. If not, focus on making changes that are within your [Locus of Control](#org2f5833c), so you can start moving in the direction you desire.
 
 
-### 7.29 [Locus of Control](#org7312f89) {#7-dot-29-locus-of-control}
+### 7.29 [Locus of Control](#org2f5833c) {#7-dot-29-locus-of-control}
 
-控制点 <a id="org7312f89">Locus of Control</a>
+控制点 <a id="org2f5833c">Locus of Control</a>
 
 
 #### WHAT {#what}
 
-Understanding your [Locus of Control](#org7312f89) is being able to separate what you can control (or strongly influence) from what you can’t. Trying to control things that aren’t actually under your control is a recipe for eternal frustration.
+Understanding your [Locus of Control](#org2f5833c) is being able to separate what you can control (or strongly influence) from what you can’t. Trying to control things that aren’t actually under your control is a recipe for eternal frustration.
 
 
 #### HOW {#how}
@@ -3055,13 +3055,13 @@ Focusing on your efforts helps you stay sane—turning results you don’t direc
 
 #### WHAT {#what}
 
-When something outside of our [Locus of Control](#org7312f89) affects our plans or Goals, it’s easy to take it personally.
+When something outside of our [Locus of Control](#org2f5833c) affects our plans or Goals, it’s easy to take it personally.
 The more Attached you are to a particular idea or plan, the more you limit your flexibility and reduce your chances of finding a better solution.
 
 
 #### HOW {#how}
 
-Acceptance requires applying the concept of [Sunk Cost](#org84f69fa) to yourself.
+Acceptance requires applying the concept of [Sunk Cost](#org2adc460) to yourself.
 The solution to Attachment is accepting that your idea or plan is no longer feasible or useful. The less Attached you are to your plans, Goals, status, and position, the easier it will be to respond appropriately to inevitable change or unforeseen circumstances.
 
 
@@ -3085,7 +3085,7 @@ Using the techniques discussed in I Will Teach You to Be Rich by Ramit Sethi, it
 
 ### 7.32 Limiting Belief {#7-dot-32-limiting-belief}
 
-习得性无助 <a id="org89767d2">Learned Helplessness</a>
+习得性无助 <a id="orgc25a905">Learned Helplessness</a>
 
 
 #### BACKGROUND {#background}
@@ -3130,19 +3130,19 @@ Power represents your ability to get things done through other people—the more
 The best way to increase your Power is to do things that increase your influence and Reputation.
 
 
-### 8.2 [Comparative Advantage](#org4e86a90) {#8-dot-2-comparative-advantage}
+### 8.2 [Comparative Advantage](#orgb019774) {#8-dot-2-comparative-advantage}
 
-比较优势 <a id="org4e86a90">Comparative Advantage</a>
+比较优势 <a id="orgb019774">Comparative Advantage</a>
 
 
 #### BACKGROUND {#background}
 
-Why work with other people in the first place? The answer is [Comparative Advantage](#org4e86a90), a concept that originated in the “dismal science” of economics.
+Why work with other people in the first place? The answer is [Comparative Advantage](#orgb019774), a concept that originated in the “dismal science” of economics.
 
 
 #### WHAT {#what}
 
-[Comparative Advantage](#org4e86a90) means it’s better to capitalize on your strengths than to shore up your weaknesses.
+[Comparative Advantage](#orgb019774) means it’s better to capitalize on your strengths than to shore up your weaknesses.
 
 
 #### WHY {#why}
@@ -3151,19 +3151,19 @@ businesses work better if the individuals who operate them focus on what they’
 The major benefit of self-education when working with others is knowing what skill looks like.
 
 
-### 8.3 Communication [Overhead](#org98224ed) {#8-dot-3-communication-overhead}
+### 8.3 Communication [Overhead](#orgfbf3fcf) {#8-dot-3-communication-overhead}
 
 过度沟通
 
 
 #### WHAT {#what}
 
-Communication [Overhead](#org98224ed) is the proportion of time you spend communicating with members of your team instead of getting productive work done.
+Communication [Overhead](#orgfbf3fcf) is the proportion of time you spend communicating with members of your team instead of getting productive work done.
 
 
 #### HOW TO IDENTIFY {#how-to-identify}
 
-Symptoms of Bureaucratic Breakdown that appear in teams suffering from Communication [Overhead](#org98224ed):
+Symptoms of Bureaucratic Breakdown that appear in teams suffering from Communication [Overhead](#orgfbf3fcf):
 
 1.  The Invisible Decision—No one knows how or where decisions are made, and there is no transparency in the decision-making process.
 2.  Unfinished Business—Too many tasks are started but very few are carried through to the end.
@@ -3177,7 +3177,7 @@ Symptoms of Bureaucratic Breakdown that appear in teams suffering from Communica
 
 #### HOW TO RESOLVE {#how-to-resolve}
 
-The solution to Communication [Overhead](#org98224ed) is simple but not easy: make your team as small as possible. You’ll be leaving people out, but that’s the point—including them is causing more work than it’s creating in benefits.
+The solution to Communication [Overhead](#orgfbf3fcf) is simple but not easy: make your team as small as possible. You’ll be leaving people out, but that’s the point—including them is causing more work than it’s creating in benefits.
 Studies of effective teamwork usually recommend working in groups of three to eight people.
 
 
@@ -3239,12 +3239,12 @@ Commander’s Intent is a much better method of delegating tasks: whenever you a
 
 #### WHY {#why}
 
-Commander’s Intent alleviates（减轻，缓解）Communication [Overhead](#org98224ed). By communicating the intent behind a certain plan, a leader can make constant communication less critical for the success of the entire team.
+Commander’s Intent alleviates（减轻，缓解）Communication [Overhead](#orgfbf3fcf). By communicating the intent behind a certain plan, a leader can make constant communication less critical for the success of the entire team.
 
 
 ### 8.9 Bystander Apathy {#8-dot-9-bystander-apathy}
 
-旁观者效应 <a id="org0c919e2">Bystander Effect</a>
+旁观者效应 <a id="orgda5e011">Bystander Effect</a>
 
 
 #### BACKGROUD {#backgroud}
@@ -3329,7 +3329,7 @@ Convergence can be useful if you consciously choose to spend time with people yo
 
 ### 8.14 Social Signals {#8-dot-14-social-signals}
 
-社交信号 <a id="org2b80fef">Signalling Theory</a>
+社交信号 <a id="org3de9d57">Signalling Theory</a>
 
 
 #### WHAT {#what}
@@ -3346,7 +3346,7 @@ Social signals have real Economic Values, so it pays to build them into your off
 ### 8.15 Social Proof {#8-dot-15-social-proof}
 
 Social Proof can take on a life of its own. Fads often form when one person
-takes an action, others perceive it as a Social Signal [Signalling Theory](#org2b80fef),
+takes an action, others perceive it as a Social Signal [Signalling Theory](#org3de9d57),
 then act the same way, creating a social Feedback Loop.
 
 
@@ -3359,7 +3359,7 @@ then act the same way, creating a social Feedback Loop.
 
 People tend to comply with Authority figures even if they’d refuse to take the same action under normal circumstances.
 If you’re in a position of Authority, your Authority will change the way others interact with you...more likely to do what you suggest.
-the combination of Authority and [Confirmation Bias](#org0b39474) shelters them from information that contradicts their opinions...it’s difficult for Authority figures to compensate for the Excessive Self-Regard Tendency.
+the combination of Authority and [Confirmation Bias](#org247a4f7) shelters them from information that contradicts their opinions...it’s difficult for Authority figures to compensate for the Excessive Self-Regard Tendency.
 
 
 ### 8.17 Commitment and Consistency {#8-dot-17-commitment-and-consistency}
@@ -3384,19 +3384,19 @@ Incentive-Caused Bias explains why people with a vested interest in something wi
 
 Incentives automatically influence the way people act, based on how they’re rewarded.
 Sometimes incentives create unintended Second-Order Effects.
-Incentives are tricky because they inevitably interact with our [Perceptual Control](#org7901e89) systems.
+Incentives are tricky because they inevitably interact with our [Perceptual Control](#org58ae9b1) systems.
 
 
-### 8.19 [Modal Bias](#org075aad0) {#8-dot-19-modal-bias}
+### 8.19 [Modal Bias](#orgd94fe3e) {#8-dot-19-modal-bias}
 
-   <<a id="org075aad0">Modal Bias</a>
-    [Modal Bias](#org075aad0) is the automatic assumption that our idea or approach is best.
+   <<a id="orgd94fe3e">Modal Bias</a>
+    [Modal Bias](#orgd94fe3e) is the automatic assumption that our idea or approach is best.
 Most of us like to assume we have everything together—that we know what we’re talking about, we know what we’re doing, and that our way of doing things is best. Very often, we are quite mistaken.
 
 
 #### HOW TO AVOID {#how-to-avoid}
 
-The best way to avoid [Modal Bias](#org075aad0) is to use [Inhibition](#org990b1ea)（拟制）to temporarily suspend judgment.
+The best way to avoid [Modal Bias](#orgd94fe3e) is to use [Inhibition](#orgadabcd4)（拟制）to temporarily suspend judgment.
 Part of the value of understanding cognitive biases is the knowledge that you’re not immune to them, and simply knowing they exist doesn’t make them any less influential.
 
 
@@ -3408,7 +3408,7 @@ Part of the value of understanding cognitive biases is the knowledge that you’
 #### WHY {#why}
 
 The Pygmalion Effect explains why all of our relationships are, in a very real sense, self-fulfilling prophecies.
-The [Expectation Effect](#org00495de) means that our perception of the quality of someone’s work is a function of our original expectations.
+The [Expectation Effect](#org34be4f1) means that our perception of the quality of someone’s work is a function of our original expectations.
 
 
 ### 8.21 Attribution Error {#8-dot-21-attribution-error}
@@ -3429,7 +3429,7 @@ Avoiding the Attribution Error makes it easier to stay on good terms with the pe
 
 #### BACKGROUD {#backgroud}
 
-By the time you’re aware of an issue, preventing it is beyond your [Locus of Control](#org7312f89). The issue has already occurred—the only question is how you plan to respond to it.
+By the time you’re aware of an issue, preventing it is beyond your [Locus of Control](#org2f5833c). The issue has already occurred—the only question is how you plan to respond to it.
 
 
 #### HOW {#how}
@@ -3450,7 +3450,7 @@ Management is the act of coordinating a group of people to achieve a specific Go
 
 Based on what we’ve learned thus far, here are six simple principles of effective real-world Management:
 
-1.  Recruit the smallest group of people who can accomplish what must be done quickly and with high quality. [Comparative Advantage](#org4e86a90) means that some people will be better than others at accomplishing certain tasks, so it pays to invest time and resources in recruiting the best team for the job.
+1.  Recruit the smallest group of people who can accomplish what must be done quickly and with high quality. [Comparative Advantage](#orgb019774) means that some people will be better than others at accomplishing certain tasks, so it pays to invest time and resources in recruiting the best team for the job.
 2.  Clearly communicate the desired End Result, who is responsible for what, and the current status.
 3.  Treat people with respect. Consistently using the Golden Trifecta—appreciation, courtesy, and respect—is the best way to make the individuals on your team feel Important and is also the best way to ensure that they respect you as a leader and manager.
 4.  Create an Environment where everyone can be as productive as possible, then let people do their work.
@@ -3541,7 +3541,7 @@ Slack is the amount of resources present in a Stock.
 #### WHY {#why}
 
 For a System to operate efficiently, Stocks should be just the right size—not too big, and not too small.
-Large Stocks have the most Slack, but that flexibility comes at a cost...which increases your costs and decreases your [[Profit Margin](#org9ccefa9).
+Large Stocks have the most Slack, but that flexibility comes at a cost...which increases your costs and decreases your [[Profit Margin](#orgc33cee1).
 
 
 #### HOW TO MANAGE {#how-to-manage}
@@ -3556,12 +3556,12 @@ Slack is tricky to manage: too much, and you’re wasting time and money. Too li
 
 #### WHAT {#what}
 
-Theory of Constraints: any manageable system is always limited in achieving more of its [Goals by at least one Constraint. If you can identify and alleviate the Constraint, you’ll increase the [Throughput](#org46318f2) of the system.
+Theory of Constraints: any manageable system is always limited in achieving more of its [Goals by at least one Constraint. If you can identify and alleviate the Constraint, you’ll increase the [Throughput](#org248bcbf) of the system.
 
 
 #### HOW TO ELIMINATE {#how-to-eliminate}
 
-Goldratt proposes the “Five Focusing Steps,” a method you can use to improve the [Throughput](#org46318f2) of any System:
+Goldratt proposes the “Five Focusing Steps,” a method you can use to improve the [Throughput](#org248bcbf) of any System:
 
 1.  Identification: examining the system to find the limiting factor.
 2.  Exploitation（利用）: ensuring that the resources related to the Constraint aren’t wasted.
@@ -3578,14 +3578,14 @@ Goldratt proposes the “Five Focusing Steps,” a method you can use to improve
 Feedback Loops exist whenever the output of a System becomes one of the inputs in the next cycle.
 Feedback is how systems learn—if the system is capable of perceiving（察觉）its Environment, that feedback helps the system understand whether it’s under control and satisfying the required [Selection Tests .
 Balancing Loops dampen（稳定，对…泼冷水）each system cycle’s output, leading to system equilibrium（均衡）and resistance（抵制）to change.
-Balancing Loops stabilize the system, dampening oscillations and keeping the system in a certain state. [Perceptual Control](#org7901e89) systems are usually made up of Balancing Loops.
+Balancing Loops stabilize the system, dampening oscillations and keeping the system in a certain state. [Perceptual Control](#org58ae9b1) systems are usually made up of Balancing Loops.
 Reinforcing Loops Amplify the system’s output with each system cycle.
-[Compounding](#org5e097eb) is an example of a positive Reinforcing Loop
+[Compounding](#orgdd64a8e) is an example of a positive Reinforcing Loop
 
 
 ### 9.7 Autocatalysis {#9-dot-7-autocatalysis}
 
-An Autocatalyzing System produces the inputs necessary for the next cycle as a by-[product](#orgfe645e9) of the previous cycle, Amplifying the cycle. Autocatalysis is a [Compounding](#org5e097eb), positive, self-reinforcing Feedback Loop—the system will continue to grow until the system changes in a way that produces less output.
+An Autocatalyzing System produces the inputs necessary for the next cycle as a by-[product](#org58ac1fe) of the previous cycle, Amplifying the cycle. Autocatalysis is a [Compounding](#orgdd64a8e), positive, self-reinforcing Feedback Loop—the system will continue to grow until the system changes in a way that produces less output.
 
 
 ### 9.8 Environment {#9-dot-8-environment}
@@ -3632,7 +3632,7 @@ You can’t reliably predict the future based on past events in the face of Unce
 No matter how stable or predictable things seem, unpredictable “black swan events” can change everything in an instant.
 A black swan eventBlack Swan Theory, the probability of its occurring is a moot point: the event changes the Environment in which the system operates, sometimes drastically changing Selection Tests without warning.
 Discounted Cash Flow (NPV), or Capital Asset Pricing Model (CAPM) model is only as good as the quality of your predictions.
-Absorbing（吸引人的）the ever-present nature of Uncertainty is an exercise in seeing the world as it really is, not as we want it to be. Instinctually, we all want to feel like we know what will happen in the future, particularly given how prone we are to [[Loss Aversion](#org3776639) and [[Threat Lockdown](#org3699616).
+Absorbing（吸引人的）the ever-present nature of Uncertainty is an exercise in seeing the world as it really is, not as we want it to be. Instinctually, we all want to feel like we know what will happen in the future, particularly given how prone we are to [[Loss Aversion](#org2c18a0f) and [[Threat Lockdown](#org1925c69).
 
 
 ### 9.11 Change {#9-dot-11-change}
@@ -3667,7 +3667,7 @@ You can make a system less Interdependent by removing dependencies. A dependency
 
 ### 9.13 Counterparty Risk {#9-dot-13-counterparty-risk}
 
-信用风险 <a id="orgd544442">Credit Risk</a>
+信用风险 <a id="org7a02bea">Credit Risk</a>
 
 
 #### WHAT {#what}
@@ -3746,7 +3746,7 @@ Measurement is the process of collecting data as the system is operating. By col
 
 #### WHY {#why}
 
-Measurement helps us avoid [[Absence Blindness](#orgd42f5ef) when analyzing a system.
+Measurement helps us avoid [[Absence Blindness](#orgb509006) when analyzing a system.
 Measuring something is the first step to improving it.
 Peter Drucker famously opined, “What gets measured gets managed.”
 
@@ -3757,13 +3757,13 @@ Peter Drucker famously opined, “What gets measured gets managed.”
 #### WAHT {#waht}
 
 Some Measurements are more important than others: Key Performance Indicators (KPIs) are Measurements of the critical parts of a System.
-Typically, business-related KPIs are directly related to either [The 5 Parts of Every Business or [[Throughput](#org46318f2)...identify a business’s KPIs:
+Typically, business-related KPIs are directly related to either [The 5 Parts of Every Business or [[Throughput](#org248bcbf)...identify a business’s KPIs:
 
 -   [Value Creation: How quickly is the system creating value? What is the current level of Inflows?
 -   [Marketing: How many people are paying Attention to your offer? How many prospects are giving you Permission to provide more information?
--   [Sales: How many prospects are becoming paying customers? What is the average customer’s [Lifetime Value](#org032af5c)?
--   [[Value Delivery](#org22467ab): How quickly can you serve each customer? What is your current returns or complaints rate?
--   [Finance: What is your [Profit Margin](#org9ccefa9)? How much [Purchasing Power](#org54bf8a5) do you have? Are you financially Sufficient?
+-   [Sales: How many prospects are becoming paying customers? What is the average customer’s [Lifetime Value](#org20146ef)?
+-   [[Value Delivery](#org8412d0f): How quickly can you serve each customer? What is your current returns or complaints rate?
+-   [Finance: What is your [Profit Margin](#orgc33cee1)? How much [Purchasing Power](#org6e7d917) do you have? Are you financially Sufficient?
 
 
 #### HOW {#how}
@@ -3795,7 +3795,7 @@ A Tolerance is an acceptable level of “normal” error in a system. Within a g
 Tolerances are often referred to as being “tight” or “loose.”
 A tight Tolerance is one in which there’s little room for error or variability.
 A loose Tolerance allows significant room for error or variability and is common when small mistakes produce no major repercussions.
-Often, systems companies use this reliability measurement as a Tolerance, and they write a contract called a [Service](#orgadeba29) Level Agreement (SLA) that promises to compensate customers if errors exceed a certain threshold.
+Often, systems companies use this reliability measurement as a Tolerance, and they write a contract called a [Service](#org83d550b) Level Agreement (SLA) that promises to compensate customers if errors exceed a certain threshold.
 
 
 ### 10.6 Analytical Honesty {#10-dot-6-analytical-honesty}
@@ -3808,7 +3808,7 @@ Analytical Honesty means measuring and analyzing the data you have dispassionate
 
 #### HOW {#how}
 
-The best way to maintain Analytical Honesty is to have your measurements evaluated by someone who isn’t personally invested in your system. [Incentive-Caused Bias and [[Confirmation Bias](#org0b39474) are all too easy to succumb to if your social status is on the line.
+The best way to maintain Analytical Honesty is to have your measurements evaluated by someone who isn’t personally invested in your system. [Incentive-Caused Bias and [[Confirmation Bias](#org247a4f7) are all too easy to succumb to if your social status is on the line.
 
 
 ### 10.7 Context {#10-dot-7-context}
@@ -3859,7 +3859,7 @@ A Ratio is a method of comparing two Measurements against each other. By dividin
 HERE ARE SOME USEFUL RATIOS TO TRACK:
 
 -   Return on Promotion: For every $1 you spend in advertising, how much revenue do you collect?
--   [Profit](#org7ae6381) per Employee: For every person you employ, how much [profit](#org7ae6381) does your business generate?
+-   [Profit](#orgdb40dbb) per Employee: For every person you employ, how much [profit](#orgdb40dbb) does your business generate?
 -   Closing Ratio: For every prospect you serve, how many purchase?
 -   Returns/Complaints Ratio: For every sale you make, how many choose to return or complain?
 
@@ -3943,7 +3943,7 @@ There are three common ways to Segment customer data:
 #### Past Performance {#past-performance}
 
 Segments customers by past known actions.
-[Lifetime Value](#org032af5c) calculations are a form of Segmentation by Past Performance.
+[Lifetime Value](#org20146ef) calculations are a form of Segmentation by Past Performance.
 
 
 #### Demographics {#demographics}
@@ -3976,19 +3976,19 @@ Many businesses Humanize by developing a series of personas: fictional profiles 
 Learn the secrets of Optimization, how to remove unnecessary Friction from critical processes, and how to build Systems that can handle Uncertainty and Change.
 
 
-### 11.1 [Intervention Bias](#org47f59e1) {#11-dot-1-intervention-bias}
+### 11.1 [Intervention Bias](#org1b67970) {#11-dot-1-intervention-bias}
 
-<a id="org47f59e1">Intervention Bias</a>
+<a id="org1b67970">Intervention Bias</a>
 
 
 #### WHAT {#what}
 
-[Intervention Bias](#org47f59e1) makes us likely to introduce changes that aren’t necessary in order to feel in control of a situation.
+[Intervention Bias](#org1b67970) makes us likely to introduce changes that aren’t necessary in order to feel in control of a situation.
 
 
 #### HOW {#how}
 
-The best way to correct for [Intervention Bias](#org47f59e1) is to examine what scientists call a “null hypothesis”: examining what would happen if you did nothing or assumed the situation was an accident or error.
+The best way to correct for [Intervention Bias](#org1b67970) is to examine what scientists call a “null hypothesis”: examining what would happen if you did nothing or assumed the situation was an accident or error.
 
 
 #### EXAMPLE {#example}
@@ -4002,7 +4002,7 @@ Imagine a company that allows its employees to purchase any book they want or ne
 #### WHAT {#what}
 
 Optimization is the process of maximizing the output of a System or minimizing a specific input the system requires to operate. Optimization typically revolves around the systems and processes behind your Key Performance Indicator, which measure the critical elements of the system as a whole.
-Maximization typically focuses on the system’s [Throughput](#org46318f2).
+Maximization typically focuses on the system’s [Throughput](#org248bcbf).
 Minimization typically focuses on in-process inputs required for the System to operate.
 By definition, if you’re trying to Maximize or Minimize more than one thing, you’re not Optimizing—you’re making Trade-offs. Many people use the term Optimization to mean “making everything better,” but that definition doesn’t help you actually do anything.
 In practical terms, trying to Optimize for many variables at once doesn’t work—you need to be able to concentrate on a single variable for a while, so you can understand how the Changes you make affect the system as a whole. You’re trying to find Causation (not Correlation) in your Changes, and hidden Interdependencies can make it difficult to understand which Changes produced which results.
@@ -4052,11 +4052,11 @@ In any complex System, a minority of the inputs produce the majority of the outp
 For best results, focus on the critical inputs that produce most of the results you want.
 
 
-### 11.5 [Diminishing Returns](#org6fc1599) {#11-dot-5-diminishing-returns}
+### 11.5 [Diminishing Returns](#org88bb41a) {#11-dot-5-diminishing-returns}
 
-  <a id="org6fc1599">Diminishing Returns</a>
-边际产量递减 Diminishing Marginal [Product](#orgfe645e9)
-All good things are subject to [Diminishing Returns](#org6fc1599)—after a certain point, having more of something can actually be detrimental
+  <a id="org88bb41a">Diminishing Returns</a>
+边际产量递减 Diminishing Marginal [Product](#org58ac1fe)
+All good things are subject to [Diminishing Returns](#org88bb41a)—after a certain point, having more of something can actually be detrimental
 
 
 #### HOW {#how}
@@ -4078,7 +4078,7 @@ Every business process has some amount of Friction.
 
 #### WHY {#why}
 
-Removing even small amounts of Friction from your Marketing, Sales, and [[Value Delivery](#org22467ab) processes can generate major improvements in [[Profit](#org7ae6381).
+Removing even small amounts of Friction from your Marketing, Sales, and [[Value Delivery](#org8412d0f) processes can generate major improvements in [[Profit](#orgdb40dbb).
 
 
 #### EXAMPLE {#example}
@@ -4102,7 +4102,7 @@ Automation is best for well-defined, repetitive tasks.
 
 #### HOW {#how}
 
-Find a way to Automate your system, and you open the doors to [Scale](#orga087f09) via [Duplication](#org438769f) and [Multiplication](#orgc73b011), improving your ability to create and deliver value to more paying customers.
+Find a way to Automate your system, and you open the doors to [Scale](#org3dfdeb6) via [Duplication](#orgd63b1b9) and [Multiplication](#org9d381ba), improving your ability to create and deliver value to more paying customers.
 
 
 ### 11.8 The Paradox of Automation {#11-dot-8-the-paradox-of-automation}
@@ -4137,14 +4137,14 @@ reliable systems tend to dull the operator’s senses, making it very difficult 
 The best approach to avoid major Automation errors is rigorous, ongoing [Sampling and Testing.
 
 
-### 11.10 [Standard Operating Procedure](#orgb447032) {#11-dot-10-standard-operating-procedure}
+### 11.10 [Standard Operating Procedure](#org05bf215) {#11-dot-10-standard-operating-procedure}
 
-<a id="orgb447032">Standard Operating Procedure</a>
+<a id="org05bf215">Standard Operating Procedure</a>
 
 
 #### WHAT {#what}
 
-A [Standard Operating Procedure](#orgb447032) (SOP) is a predefined process used to complete a task or resolve a common issue. Business Systems often include repetitive tasks, and having a standard process in place can help you spend less time reinventing the wheel and more time doing productive work.
+A [Standard Operating Procedure](#org05bf215) (SOP) is a predefined process used to complete a task or resolve a common issue. Business Systems often include repetitive tasks, and having a standard process in place can help you spend less time reinventing the wheel and more time doing productive work.
 
 
 #### HOW TO USE {#how-to-use}
@@ -4158,7 +4158,7 @@ For best results, review your SOPs on a periodic basis—once every two to three
 
 #### WHAT {#what}
 
-A Checklist is an Externalized, predefined [Standard Operating Procedure](#orgb447032) for completing a specific task.
+A Checklist is an Externalized, predefined [Standard Operating Procedure](#org05bf215) for completing a specific task.
 
 
 #### WHY {#why}
@@ -4180,7 +4180,7 @@ For best results, create explicit Checklists for the Five Parts of Your Business
 
 #### WHAT {#what}
 
-Cessation is the choice to intentionally（有意的） stop doing something that’s counterproductive（适得其反）. Due to [Absence Blindness](#orgd42f5ef), we’re predisposed to attempt to improve a system by doing something—it “feels wrong” to do nothing.
+Cessation is the choice to intentionally（有意的） stop doing something that’s counterproductive（适得其反）. Due to [Absence Blindness](#orgb509006), we’re predisposed to attempt to improve a system by doing something—it “feels wrong” to do nothing.
 
 
 #### WHAT {#what}
@@ -4204,7 +4204,7 @@ Resilience is a massively underrated quality in business. Having the toughness a
 Preparing for the unexpected makes you more Resilient...HERE’S WHAT MAKES A BUSINESS RESILIENT:
 
 -   Low (preferably zero) outstanding debt
--   Low [overhead](#org98224ed), [fixed costs](#org86d0552), and operating expenses
+-   Low [overhead](#orgfbf3fcf), [fixed costs](#orgabd428f), and operating expenses
 -   Substantial cash reserves for unexpected contingencies
 -   Multiple independent products/industries/lines of business
 -   Flexible workers/employees who can handle many responsibilities well
@@ -4248,20 +4248,20 @@ As much as possible, never have a single critical point of failure.
 Stress Testing is the process of identifying the boundaries of a system by simulating specific Environmental conditions.
 
 
-### 11.16 [Scenario Planning](#org809ef39) {#11-dot-16-scenario-planning}
+### 11.16 [Scenario Planning](#org3732725) {#11-dot-16-scenario-planning}
 
-<a id="org809ef39">Scenario Planning</a>
+<a id="org3732725">Scenario Planning</a>
 
 
 #### WHAT {#what}
 
-[Scenario Planning](#org809ef39) is the process of systematically constructing a series of hypothetical situations, then [Mentally Simulating what you would do if they occured. You may not be a seer, but Counterfactual Simulation gives you a powerful capability: imagining things that might occur, then figuring out what you’d do if they did. [Scenario Planning](#org809ef39) is essentially detailed, thorough, and systematic Counterfactual Simulation applied to major decisions.
+[Scenario Planning](#org3732725) is the process of systematically constructing a series of hypothetical situations, then [Mentally Simulating what you would do if they occured. You may not be a seer, but Counterfactual Simulation gives you a powerful capability: imagining things that might occur, then figuring out what you’d do if they did. [Scenario Planning](#org3732725) is essentially detailed, thorough, and systematic Counterfactual Simulation applied to major decisions.
 
 
 #### HOW {#how}
 
-[Scenario Planning](#org809ef39) always starts with a simple question: “What would I do if. . . ?” The “what if” part is the Counterfactual, and it’s what kicks your planning brain into gear, helping you imagine possible responses.
-Most large businesses use [Scenario Planning](#org809ef39) as the basis of a practice called “hedging”: purchasing various forms of Insurance to reduce the Risk of unfavorable future events.
+[Scenario Planning](#org3732725) always starts with a simple question: “What would I do if. . . ?” The “what if” part is the Counterfactual, and it’s what kicks your planning brain into gear, helping you imagine possible responses.
+Most large businesses use [Scenario Planning](#org3732725) as the basis of a practice called “hedging”: purchasing various forms of Insurance to reduce the Risk of unfavorable future events.
 
 
 ### 11.17 Sustainable Growth Cycle {#11-dot-17-sustainable-growth-cycle}
@@ -4417,7 +4417,7 @@ I highly recommend starting with any of these books:
 -   SPIN Selling by Neil Rackham
 
 
-### [VALUE DELIVERY](#org22467ab) {#value-delivery}
+### [VALUE DELIVERY](#org8412d0f) {#value-delivery}
 
 -   Indispensable by Joe Calloway
 -   The Goal by Eliyahu M. Goldratt
@@ -4688,5 +4688,5 @@ I highly recommend starting with any of these books:
 -   _The Black Swan_, Nassim Nicholas Taleb
 -   /Fooled by Randomness/—the title of Nassim Nicholas Taleb’s
 -   _The 4-Hour Workweek_, Timothy Ferriss
--   For a full introduction to common [Financial Ratios](#orgf8e13af), I recommend _Financial Intelligence for Entrepreneurs_ by Karen Berman and Joe Knight with John Case.
+-   For a full introduction to common [Financial Ratios](#orga57388d), I recommend _Financial Intelligence for Entrepreneurs_ by Karen Berman and Joe Knight with John Case.
 -   _The New Business Road Test_ by John Mullins

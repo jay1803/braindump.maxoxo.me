@@ -16,7 +16,7 @@ draft = false
 #### [货币资金]({{<relref "cash-and-cash-equivalents.md#" >}}) {#货币资金--cash-and-cash-equivalents-dot-md}
 
 
-#### [应收帐款]({{<relref "accounts-receivable.md#" >}}) {#应收帐款--accounts-receivable-dot-md}
+#### [应收帐款]({{<relref "20210802205748-accounts_receivable.md#" >}}) {#应收帐款--20210802205748-accounts-receivable-dot-md}
 
 
 #### [存货]({{<relref "inventory.md#" >}}) {#存货--inventory-dot-md}
