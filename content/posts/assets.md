@@ -1,0 +1,22 @@
++++
+title = "Assets"
+author = ["Max"]
+draft = false
++++
+
+## DEFINITION {#definition}
+
+资产是指对过去的交易或事项形成的、由企业拥有或控制的、预期会给企业带来经济利益
+的资源。
+
+
+## SUB-CONCEPTS {#sub-concepts}
+
+
+### [流动资产]({{<relref "current-assets.md#" >}}) {#流动资产--current-assets-dot-md}
+
+
+### [非流动资产]({{<relref "non-current-assets.md#" >}}) {#非流动资产--non-current-assets-dot-md}
+
+
+### [资产总计]({{<relref "20210413133347-total_assets.md#" >}}) {#资产总计--20210413133347-total-assets-dot-md}
