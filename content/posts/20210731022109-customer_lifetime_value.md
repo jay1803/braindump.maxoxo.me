@@ -4,21 +4,28 @@ author = ["Max"]
 draft = false
 +++
 
-## DEFINITION {#definition}
+## Definition {#definition}
 
 \\(LTV=\frac{{ARPU}\times{Gross\ Margin}}{Customer\ Churn\ Rate}\\)
 
-LTV = [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}}) x [Gross Margin]({{<relref "20210729011241-gross_margin.md#" >}}) / [Customer Churn Rate]({{<relref "churn-rate.md#dimension" >}})
+LTV = [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}}) x [Gross Margin]({{<relref "20210729011241-gross_margin.md#" >}}) / [Customer Churn Rate]({{<relref "20210803120415-churn.md#churn-rate" >}})
 
-LTV = [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}}) / [Customer Churn Rate]({{<relref "churn-rate.md#dimension" >}})
+LTV = [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}}) / [Customer Churn Rate]({{<relref "20210803120415-churn.md#churn-rate" >}})
 
 
 ### The David Skok formula {#the-david-skok-formula}
 
 \\(LTV={ARPA}\times{Gross\ Margin}\times{(\frac{1}{1-K}+\frac{{G}\times{K}}{{(1-K)}^{2}})}\\)
 
-K = (1 - [Customer Churn Rate]({{<relref "churn-rate.md#dimension" >}})) x (1 - [Discount Rate]({{<relref "20210311233019-discount_rate.md#" >}}))
+K = (1 - [Customer Churn Rate]({{<relref "20210803120415-churn.md#churn-rate" >}})) x (1 - [Discount Rate]({{<relref "20210311233019-discount_rate.md#" >}}))
+
 G is a fixed $ amount of monthly growth in ARPA per account (not compounding)
+
+
+## Sub Concpets {#sub-concpets}
+
+
+### Net LTV {#net-ltv}
 
 
 ## 客户终身价值 {#客户终身价值}

@@ -24,7 +24,7 @@ life events.
 
 ### Zipf’s Law and You {#zipf-s-law-and-you}
 
-This mathematical pattern is a [Power Law](20210701154816-power_law.md) known as [Zipf's Law](20210629132126-zipf_s_law.md). It was first
+This mathematical pattern is a [Power Law]({{<relref "20210701154816-power_law.md#" >}}) known as [Zipf's Law]({{<relref "20210629132126-zipf_s_law.md#" >}}). It was first
 noticed as a principle of language. About 100 years ago, physicists and
 linguists discovered that the second most commonly used word in English is
 used one half as much as the most used word. The third most used word is used
@@ -35,7 +35,7 @@ many other cases.
 The underlying mechanism for Zipf’s law is not yet agreed on but the main
 hypothesis is that it’s an outgrowth of the Principle of Least Effort.
 systems that survive and operate at steady state optimize for efficiency. When
-they do, things tend to look like [Zipf Distribution](20210629132126-zipf_s_law.md).
+they do, things tend to look like [Zipf Distribution]({{<relref "20210629132126-zipf_s_law.md#" >}}).
 
 
 ### Your Body and Cities Have Predictable Mathematical Patterns {#your-body-and-cities-have-predictable-mathematical-patterns}
@@ -63,7 +63,7 @@ These are called preferential attachment processes which happen when something
 already possessed.
 
 most famously in Matthew: “For to everyone who has will more be given…” Now
-called [Matthew Effect](20210716221515-matthew_effect.md).
+called [Matthew Effect]({{<relref "20210716221515-matthew_effect.md#" >}}).
 
 
 ### The math behind why dinner parties behave the way they do {#the-math-behind-why-dinner-parties-behave-the-way-they-do}
@@ -86,7 +86,7 @@ NOTE: The one who has more followers on Twitter got greater network mass, it’s
 kinda like gravity.
 
 
-### The  Network [Topology](20210630222153-topology.md) of Your Life {#the-network-topology--20210630222153-topology-dot-md--of-your-life}
+### The  Network [Topology]({{<relref "20210630222153-topology.md#" >}}) of Your Life {#the-network-topology--20210630222153-topology-dot-md--of-your-life}
 
 three levels of networks you’re a part of.
 
@@ -220,19 +220,19 @@ about, the people you, inspire, move, and help to live their best lives.
 ## MENTIONS {#mentions}
 
 
-### [There is More than a Power Law in Zipf](20210628153950-there_is_more_than_a_power_law_in_zipf.md) {#there-is-more-than-a-power-law-in-zipf--20210628153950-there-is-more-than-a-power-law-in-zipf-dot-md}
+### [There is More than a Power Law in Zipf]({{<relref "20210628153950-there_is_more_than_a_power_law_in_zipf.md#" >}}) {#there-is-more-than-a-power-law-in-zipf--20210628153950-there-is-more-than-a-power-law-in-zipf-dot-md}
 
 
 ### <http://arnoldkling.com/essays/papers/PSSTCap.pdf> {#http-arnoldkling-dot-com-essays-papers-psstcap-dot-pdf}
 
 
-### [Zipf Curves and Website Popularity](20210629134437-zipf_curves_and_website_popularity.md) {#zipf-curves-and-website-popularity--20210629134437-zipf-curves-and-website-popularity-dot-md}
+### [Zipf Curves and Website Popularity]({{<relref "20210629134437-zipf_curves_and_website_popularity.md#" >}}) {#zipf-curves-and-website-popularity--20210629134437-zipf-curves-and-website-popularity-dot-md}
 
 
-### [The number of phone calls people receive](20210629134238-the_number_of_phone_calls_people_receive.md) {#the-number-of-phone-calls-people-receive--20210629134238-the-number-of-phone-calls-people-receive-dot-md}
+### [The number of phone calls people receive]({{<relref "20210629134238-the_number_of_phone_calls_people_receive.md#" >}}) {#the-number-of-phone-calls-people-receive--20210629134238-the-number-of-phone-calls-people-receive-dot-md}
 
 
-### [Fat tailed distributions for deaths in conflicts and disasters](20210629132723-fat_tailed_distributions_for_deaths_in_conflicts_and_disasters.md) {#fat-tailed-distributions-for-deaths-in-conflicts-and-disasters--20210629132723-fat-tailed-distributions-for-deaths-in-conflicts-and-disasters-dot-md}
+### [Fat tailed distributions for deaths in conflicts and disasters]({{<relref "20210629132723-fat_tailed_distributions_for_deaths_in_conflicts_and_disasters.md#" >}}) {#fat-tailed-distributions-for-deaths-in-conflicts-and-disasters--20210629132723-fat-tailed-distributions-for-deaths-in-conflicts-and-disasters-dot-md}
 
 
-### [规模：复杂世界的简单法则](20210705132714-scale_the_universal_laws_of_growth_innovation_sustainability_and_the_pace_of_life_in_organisms_cities_economies_and_companies.md) {#规模-复杂世界的简单法则--20210705132714-scale-the-universal-laws-of-growth-innovation-sustainability-and-the-pace-of-life-in-organisms-cities-economies-and-companies-dot-md}
+### [规模：复杂世界的简单法则]({{<relref "20210705132714-scale_the_universal_laws_of_growth_innovation_sustainability_and_the_pace_of_life_in_organisms_cities_economies_and_companies.md#" >}}) {#规模-复杂世界的简单法则--20210705132714-scale-the-universal-laws-of-growth-innovation-sustainability-and-the-pace-of-life-in-organisms-cities-economies-and-companies-dot-md}

@@ -7,34 +7,34 @@ draft = false
 ## Summary {#summary}
 
 -   Micro-Economics (per customer profitability)
-    -   [CAC](20210730135925-customer_acquisition_cost.md)
+    -   [CAC]({{<relref "20210731174605-customer_acquisition_cost.md#" >}})
         -   Total cost of Sales & Marketing
         -   Number of deals closed
-    -   [LTV](customer-lifetime-value.md)
-        -   [ARPU](20210729003208-average_revenue_per_account.md)
+    -   [LTV]({{<relref "20210731022109-customer_lifetime_value.md#" >}})
+        -   [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}})
             -   Customers by Category
             -   Product Mix
             -   Number of Seats (or other scalable pricing variable)
-        -   Average [Customer Lifetime](20210729233505-customer_lifetime.md)
-            -   [Customer Churn Rate](churn-rate.md)
+        -   Average [Customer Lifetime]({{<relref "20210729233505-customer_lifetime.md#" >}})
+            -   [Customer Churn Rate]({{<relref "20210803120415-churn.md#churn-rate" >}})
                 -   Renewals
-                -   [Customer Satisfaction](20210801164520-customer_satisfaction.md)
+                -   [Customer Satisfaction]({{<relref "20210801164520-customer_satisfaction.md#" >}})
                     -   Product Issues
                         -   Product Usage Map
                     -   Net Promoter Score
                     -   Customer Surveys, etc
                 -   Cohort Analysis
-        -   [Cost of Serve](20210731012533-cost_of_serve.md)
--   Overall [Probability](20210701155226-probability.md) (standard accounting method)
-    -   [Revenue](revenue.md)
-        -   [MRR](monthly-recurring-revenue.md)
+        -   [Cost of Serve]({{<relref "20210731012533-cost_of_serve.md#" >}})
+-   Overall [Probability]({{<relref "20210701155226-probability.md#" >}}) (standard accounting method)
+    -   [Revenue]({{<relref "revenue.md#" >}})
+        -   [MRR]({{<relref "monthly-recurring-revenue.md#" >}})
             -   Total number of paid customers
                 -   New paid customers from sales funnel.
-                -   [Customer Churn](20210802213832-customer_churn.md)
-            -   [ARPU](20210729003208-average_revenue_per_account.md)
+                -   [Customer Churn]({{<relref "20210803120415-churn.md#dimensions" >}})
+            -   [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}})
         -   Services Revenue
-    -   [Expense](20210619095404-expense.md)
-    -   [COGS](cost-of-goods-sold.md)
+    -   [Expense]({{<relref "20210619095404-expense.md#" >}})
+    -   [COGS]({{<relref "cost-of-goods-sold.md#" >}})
 -   Profitability per Employee
     -   Revenue per Employee
     -   Expenses per Employee
@@ -45,10 +45,10 @@ draft = false
 {{< figure src="/ox-hugo/2021-08-01_10-59-00_image.png" >}}
 
 
-### [Probability](20210701155226-probability.md) {#probability--20210701155226-probability-dot-md}
+### [Probability]({{<relref "20210701155226-probability.md#" >}}) {#probability--20210701155226-probability-dot-md}
 
 
-#### [MRR](monthly-recurring-revenue.md) {#mrr--monthly-recurring-revenue-dot-md}
+#### [MRR]({{<relref "monthly-recurring-revenue.md#" >}}) {#mrr--monthly-recurring-revenue-dot-md}
 
 
 #### Micro-Economics (Per customer profitability) {#micro-economics--per-customer-profitability}
@@ -59,7 +59,7 @@ draft = false
 
     <!--list-separator-->
 
-    -  [ARPU](20210729003208-average_revenue_per_account.md)
+    -  [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}})
 
         <!--list-separator-->
 
@@ -75,11 +75,11 @@ draft = false
 
     <!--list-separator-->
 
-    -  Average [Customer Lifetime](20210729233505-customer_lifetime.md)
+    -  Average [Customer Lifetime]({{<relref "20210729233505-customer_lifetime.md#" >}})
 
         <!--list-separator-->
 
-        -  [Customer Churn Rate](churn-rate.md)
+        -  [Customer Churn Rate]({{<relref "20210803120415-churn.md#churn-rate" >}})
 
             <!--list-separator-->
 
@@ -87,7 +87,7 @@ draft = false
 
             <!--list-separator-->
 
-            -  [Customer Satisfaction](20210801164520-customer_satisfaction.md)
+            -  [Customer Satisfaction]({{<relref "20210801164520-customer_satisfaction.md#" >}})
 
                 <!--list-separator-->
 
@@ -107,7 +107,7 @@ draft = false
 
     <!--list-separator-->
 
-    -  [Cost of Serve](20210731012533-cost_of_serve.md)
+    -  [Cost of Serve]({{<relref "20210731012533-cost_of_serve.md#" >}})
 
 <!--list-separator-->
 
@@ -158,11 +158,11 @@ draft = false
 
 <!--list-separator-->
 
--  [Revenue](revenue.md)
+-  [Revenue]({{<relref "revenue.md#" >}})
 
     <!--list-separator-->
 
-    -  [MRR](monthly-recurring-revenue.md)
+    -  [MRR]({{<relref "monthly-recurring-revenue.md#" >}})
 
         <!--list-separator-->
 
@@ -174,11 +174,11 @@ draft = false
 
             <!--list-separator-->
 
-            -  [Customer Churn](20210802213832-customer_churn.md)
+            -  [Customer Churn]({{<relref "20210803120415-churn.md#dimensions" >}})
 
         <!--list-separator-->
 
-        -  [ARPU](20210729003208-average_revenue_per_account.md)
+        -  [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}})
 
     <!--list-separator-->
 
@@ -186,11 +186,11 @@ draft = false
 
 <!--list-separator-->
 
--  [Expense](20210619095404-expense.md)
+-  [Expense]({{<relref "20210619095404-expense.md#" >}})
 
 <!--list-separator-->
 
--  [COGS](cost-of-goods-sold.md)
+-  [COGS]({{<relref "cost-of-goods-sold.md#" >}})
 
 
 #### Profitability per Employee {#profitability-per-employee}
@@ -199,18 +199,18 @@ draft = false
 ### Cash {#cash}
 
 
-#### Months to recover [CAC](20210730135925-customer_acquisition_cost.md) {#months-to-recover-cac--20210730135925-customer-acquisition-cost-dot-md}
+#### Months to recover [CAC]({{<relref "20210731174605-customer_acquisition_cost.md#" >}}) {#months-to-recover-cac--20210731174605-customer-acquisition-cost-dot-md}
 
 how many months of revenue from a customer are required to recover your
 cost of acquiring that customer(CAC)
 
 <!--list-separator-->
 
--  [CAC](20210730135925-customer_acquisition_cost.md)
+-  [CAC]({{<relref "20210731174605-customer_acquisition_cost.md#" >}})
 
 <!--list-separator-->
 
--  [ARPU](20210729003208-average_revenue_per_account.md)
+-  [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}})
 
 
 #### % up front vs. monthly customers {#up-front-vs-dot-monthly-customers}
@@ -219,7 +219,7 @@ cost of acquiring that customer(CAC)
 ### Growth {#growth}
 
 
-#### Monthly in increase in [MRR](monthly-recurring-revenue.md) {#monthly-in-increase-in-mrr--monthly-recurring-revenue-dot-md}
+#### Monthly in increase in [MRR]({{<relref "monthly-recurring-revenue.md#" >}}) {#monthly-in-increase-in-mrr--monthly-recurring-revenue-dot-md}
 
 <!--list-separator-->
 
@@ -283,7 +283,7 @@ cost of acquiring that customer(CAC)
 -  G & A
 
 
-#### [Cost of Serve](20210731012533-cost_of_serve.md) {#cost-of-serve--20210731012533-cost-of-serve-dot-md}
+#### [Cost of Serve]({{<relref "20210731012533-cost_of_serve.md#" >}}) {#cost-of-serve--20210731012533-cost-of-serve-dot-md}
 
 <!--list-separator-->
 
@@ -296,8 +296,8 @@ cost of acquiring that customer(CAC)
 
 ## 2 Key guidelines for Saas Startup {#2-key-guidelines-for-saas-startup}
 
--   [LTV](customer-lifetime-value.md):[CAC](20210730135925-customer_acquisition_cost.md) > 3
--   Months to recover [CAC](20210730135925-customer_acquisition_cost.md) < 12 months
+-   [LTV]({{<relref "20210731022109-customer_lifetime_value.md#" >}}):[CAC]({{<relref "20210731174605-customer_acquisition_cost.md#" >}}) > 3
+-   Months to recover [CAC]({{<relref "20210731174605-customer_acquisition_cost.md#" >}}) < 12 months
 
 
 ## Three ways to look at Profitability {#three-ways-to-look-at-profitability}
@@ -366,7 +366,7 @@ pattern.
     funnel conversion rate, and churn
 
 
-#### Drill down into [ARPU](20210729003208-average_revenue_per_account.md) (Average Revenue per Customer) {#drill-down-into-arpu--20210729003208-average-revenue-per-account-dot-md----average-revenue-per-customer}
+#### Drill down into [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}}) (Average Revenue per Customer) {#drill-down-into-arpu--20210729003208-average-revenue-per-account-dot-md----average-revenue-per-customer}
 
 {{< figure src="/Users/max/SynologyDrive/OrgMode/org-roam/data/0E/3E1645-E6F7-4C1B-BF3C-9AE863CF7CB9/2021-08-01_16-50-33_image13.png" >}}
 

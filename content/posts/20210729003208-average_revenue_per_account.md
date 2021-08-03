@@ -11,4 +11,4 @@ The average MRR across all customers
 
 ### Formula {#formula}
 
-ARPU = [MRR](monthly-recurring-revenue.md) / Customer Count
+ARPU = [MRR]({{<relref "monthly-recurring-revenue.md#" >}}) / Customer Count
