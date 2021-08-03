@@ -6,7 +6,7 @@ draft = false
 
 ## Summary {#summary}
 
--   focus on [Retention]({{<relref "20210731183135-retention.md#" >}}) and [Monetization]({{<relref "20210731183422-monetization.md#" >}}) instead of just acquisition
+-   focus on [Retention](20210731183135-retention.md) and [Monetization](20210731183422-monetization.md) instead of just acquisition
 -   talk to 50+ customers
 -   survey customers too
 -   Develop customer personas and have numbers on them : LTV, CAC, WTP (willing to pay)
@@ -14,7 +14,7 @@ draft = false
 -   Find right pricing point and price elasticity for your product.
 
 
-### [Persona]({{<relref "persona.md#" >}}) {#persona--persona-dot-md}
+### [Persona](persona.md) {#persona--persona-dot-md}
 
 {{< figure src="/ox-hugo/2021-08-01_00-06-41_screenshot-2021-08-01_00-06-22.png" >}}
 

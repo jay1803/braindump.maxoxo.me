@@ -18,10 +18,10 @@ draft = false
 ### 报价类型 {#报价类型}
 
 
-#### [即期汇率]({{<relref "20210211200725-spot_exchange_rate.md#" >}}) {#即期汇率--20210211200725-spot-exchange-rate-dot-md}
+#### [即期汇率](20210211200725-spot_exchange_rate.md) {#即期汇率--20210211200725-spot-exchange-rate-dot-md}
 
 
-#### [远期汇率]({{<relref "20210211200321-forward_exhange_rate.md#" >}}) {#远期汇率--20210211200321-forward-exhange-rate-dot-md}
+#### [远期汇率](20210211200321-forward_exhange_rate.md) {#远期汇率--20210211200321-forward-exhange-rate-dot-md}
 
 
 ### 参与者 {#参与者}

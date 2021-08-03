@@ -37,4 +37,4 @@ MRR + 重新激活的 MRR
 
 ## USAGE {#usage}
 
--   [Annualized Run Rate]({{<relref "annualized-run-rate.md#" >}})
+-   [Annualized Run Rate](annualized-run-rate.md)

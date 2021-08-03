@@ -22,7 +22,7 @@ named on the document.
 #### 银行汇票 {#银行汇票}
 
 
-#### [商业汇票]({{<relref "20210212105052-commercial_draft.md#" >}}) {#商业汇票--20210212105052-commercial-draft-dot-md}
+#### [商业汇票](20210212105052-commercial_draft.md) {#商业汇票--20210212105052-commercial-draft-dot-md}
 
 
 ### 有无附属单据 {#有无附属单据}

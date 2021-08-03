@@ -19,7 +19,7 @@ EBIT = Net Income + Interest + Taxes
 ## 会影响 {#会影响}
 
 
-### [净利润]({{<relref "net-profit.md#" >}}) {#净利润--net-profit-dot-md}
+### [净利润](net-profit.md) {#净利润--net-profit-dot-md}
 
 
-### [利润率]({{<relref "20210216092545-rate_of_profit.md#" >}}) {#利润率--20210216092545-rate-of-profit-dot-md}
+### [利润率](20210216092545-rate_of_profit.md) {#利润率--20210216092545-rate-of-profit-dot-md}

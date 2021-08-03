@@ -14,10 +14,10 @@ draft = false
 累托分布曲线族是由两个数量参数化的：xmin和k。分布密度则为
 \\(p(x)=\left\\{{\begin{matrix}0,&{\mbox{if }}x<x\_{{\min }};\\\\\{k\;x\_{{\min }}^{k} \over x^{{k+1}}},&{\mbox{if }}x>x\_{{\min }}\end{matrix}}\right\\)
 
-帕累托分布属于[连续型概率分布]({{<relref "20210328152914-continuous_probability_distributions.md#" >}})。
+帕累托分布属于[连续型概率分布](20210328152914-continuous_probability_distributions.md)。
 
 
 ## DIMENSION {#dimension}
 
 
-### [齐夫定律]({{<relref "20210629132126-zipf_s_law.md#" >}}) {#齐夫定律--20210629132126-zipf-s-law-dot-md}
+### [齐夫定律](20210629132126-zipf_s_law.md) {#齐夫定律--20210629132126-zipf-s-law-dot-md}

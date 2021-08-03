@@ -18,7 +18,7 @@ draft = false
 #### 期票 {#期票}
 
 
-#### [汇票]({{<relref "20210212104431-negotiable_instrument.md#" >}}) {#汇票--20210212104431-negotiable-instrument-dot-md}
+#### [汇票](20210212104431-negotiable_instrument.md) {#汇票--20210212104431-negotiable-instrument-dot-md}
 
 
 #### 支票 {#支票}
@@ -34,7 +34,7 @@ draft = false
 
 <!--list-separator-->
 
--  [商业汇票]({{<relref "20210212105052-commercial_draft.md#" >}})
+-  [商业汇票](20210212105052-commercial_draft.md)
 
 <!--list-separator-->
 

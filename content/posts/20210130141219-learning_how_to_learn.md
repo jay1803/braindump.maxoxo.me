@@ -4,7 +4,7 @@ author = ["Max"]
 draft = false
 +++
 
--   tags:: [Learning]({{<relref "learning.md#" >}})
+-   tags:: [Learning](learning.md)
 
 
 ## Introduction to the Focused and Diffuse Modes {#introduction-to-the-focused-and-diffuse-modes}
@@ -33,4 +33,4 @@ draft = false
 ## Supplementary Readings {#supplementary-readings}
 
 
-### <span class="org-todo todo TODO">TODO</span> [学习之道]({{<relref "20210130145137-a_mind_for_numbers.md#" >}}) {#学习之道--20210130145137-a-mind-for-numbers-dot-md}
+### <span class="org-todo todo TODO">TODO</span> [学习之道](20210130145137-a_mind_for_numbers.md) {#学习之道--20210130145137-a-mind-for-numbers-dot-md}

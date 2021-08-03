@@ -13,7 +13,7 @@ draft = false
 ## FUNCTIONS {#functions}
 
 
-### [Self]({{<relref "self.md#" >}}) {#self--self-dot-md}
+### [Self](self.md) {#self--self-dot-md}
 
 
 ## IMPACT {#impact}

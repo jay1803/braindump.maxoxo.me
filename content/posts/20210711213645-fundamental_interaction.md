@@ -16,13 +16,13 @@ draft = false
 ### Sub Concepts {#sub-concepts}
 
 
-#### [Strong Interaction]({{<relref "20210711214041-strong_interaction.md#" >}}) {#strong-interaction--20210711214041-strong-interaction-dot-md}
+#### [Strong Interaction](20210711214041-strong_interaction.md) {#strong-interaction--20210711214041-strong-interaction-dot-md}
 
 
-#### [Week Interation]({{<relref "20210711214258-week_interation.md#" >}}) {#week-interation--20210711214258-week-interation-dot-md}
+#### [Week Interation](20210711214258-week_interation.md) {#week-interation--20210711214258-week-interation-dot-md}
 
 
-#### [Electromagnetic Interaction]({{<relref "20210711214339-electromagnetic_interaction.md#" >}}) {#electromagnetic-interaction--20210711214339-electromagnetic-interaction-dot-md}
+#### [Electromagnetic Interaction](20210711214339-electromagnetic_interaction.md) {#electromagnetic-interaction--20210711214339-electromagnetic-interaction-dot-md}
 
 
-#### [Gravitation Interaction]({{<relref "20210711214406-gravitation_interaction.md#" >}}) {#gravitation-interaction--20210711214406-gravitation-interaction-dot-md}
+#### [Gravitation Interaction](20210711214406-gravitation_interaction.md) {#gravitation-interaction--20210711214406-gravitation-interaction-dot-md}

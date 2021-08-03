@@ -6,12 +6,12 @@ draft = false
 
 ## DEFINITION {#definition}
 
-is a judgment of the [Rightness]({{<relref "20210206093141-ethics.md#" >}}) or wrongness [Wrongdoing]({{<relref "20210727115312-wrongdoing.md#" >}}) of something or
-someone, or of the [Usefulness]({{<relref "20210206091906-utility.md#" >}}) of something or someone, based on a comparison
+is a judgment of the [Rightness](20210206093141-ethics.md) or wrongness [Wrongdoing](20210727115312-wrongdoing.md) of something or
+someone, or of the [Usefulness](20210206091906-utility.md) of something or someone, based on a comparison
 or other relativity.
 
 As a generalization, a value judgment can refer to a judgment based upon a
-particular set of values or on a particular [Value System]({{<relref "20210727115830-value_system.md#" >}}). A related meaning of
+particular set of values or on a particular [Value System](20210727115830-value_system.md). A related meaning of
 value judgment is an expedient evaluation based upon limited information at
 hand, where said evaluation was undertaken because a decision had to be made
 on short notice.
