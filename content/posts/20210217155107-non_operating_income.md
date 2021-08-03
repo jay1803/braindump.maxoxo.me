@@ -18,4 +18,4 @@ draft = false
 ## 会影响 {#会影响}
 
 
-### [核心净利润](20210217153940-core_net_profit.md) {#核心净利润--20210217153940-core-net-profit-dot-md}
+### [核心净利润]({{<relref "20210217153940-core_net_profit.md#" >}}) {#核心净利润--20210217153940-core-net-profit-dot-md}
