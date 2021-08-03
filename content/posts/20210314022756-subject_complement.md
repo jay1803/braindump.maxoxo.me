@@ -1,0 +1,16 @@
++++
+title = "Subject Complement"
+author = ["Max"]
+draft = false
++++
+
+## DEFINATION {#defination}
+
+
+## SUB-CONCEPTS {#sub-concepts}
+
+
+## RELATIONSHIP {#relationship}
+
+
+## EXAMPLES {#examples}
