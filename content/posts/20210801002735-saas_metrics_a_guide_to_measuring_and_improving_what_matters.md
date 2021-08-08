@@ -27,7 +27,7 @@ draft = false
         -   [Cost of Serve]({{<relref "20210731012533-cost_of_serve.md#" >}})
 -   Overall [Probability]({{<relref "20210701155226-probability.md#" >}}) (standard accounting method)
     -   [Revenue]({{<relref "revenue.md#" >}})
-        -   [MRR]({{<relref "monthly-recurring-revenue.md#" >}})
+        -   [MRR]({{<relref "20210807103653-monthly_recurring_revenue.md#" >}})
             -   Total number of paid customers
                 -   New paid customers from sales funnel.
                 -   [Customer Churn]({{<relref "20210803120415-churn.md#dimensions" >}})
@@ -48,7 +48,7 @@ draft = false
 ### [Probability]({{<relref "20210701155226-probability.md#" >}}) {#probability--20210701155226-probability-dot-md}
 
 
-#### [MRR]({{<relref "monthly-recurring-revenue.md#" >}}) {#mrr--monthly-recurring-revenue-dot-md}
+#### [MRR]({{<relref "20210807103653-monthly_recurring_revenue.md#" >}}) {#mrr--20210807103653-monthly-recurring-revenue-dot-md}
 
 
 #### Micro-Economics (Per customer profitability) {#micro-economics--per-customer-profitability}
@@ -162,7 +162,7 @@ draft = false
 
     <!--list-separator-->
 
-    -  [MRR]({{<relref "monthly-recurring-revenue.md#" >}})
+    -  [MRR]({{<relref "20210807103653-monthly_recurring_revenue.md#" >}})
 
         <!--list-separator-->
 
@@ -219,7 +219,7 @@ cost of acquiring that customer(CAC)
 ### Growth {#growth}
 
 
-#### Monthly in increase in [MRR]({{<relref "monthly-recurring-revenue.md#" >}}) {#monthly-in-increase-in-mrr--monthly-recurring-revenue-dot-md}
+#### Monthly in increase in [MRR]({{<relref "20210807103653-monthly_recurring_revenue.md#" >}}) {#monthly-in-increase-in-mrr--20210807103653-monthly-recurring-revenue-dot-md}
 
 <!--list-separator-->
 
@@ -343,12 +343,12 @@ important variables that can be tweaked:
 
 #### Drill down into ROI per Marketing Program {#drill-down-into-roi-per-marketing-program}
 
-{{< figure src="/Users/max/SynologyDrive/OrgMode/org-roam/data/CB/1D1F5A-E964-4350-A851-1726A5ECB854/2021-08-01_16-42-49_image9.png" >}}
+</Users/max/SynologyDrive/OrgMode/org-roam/data/CB/1D1F5A-E964-4350-A851-1726A5ECB854/2021-08-08_18-28-23_image9.webp>
 
 
 ### Drill down into Churn Rate {#drill-down-into-churn-rate}
 
-{{< figure src="/Users/max/SynologyDrive/OrgMode/org-roam/data/9A/B52778-CB82-467C-AE7A-F2A80F598D41/2021-08-01_16-44-08_image19.png" >}}
+</Users/max/SynologyDrive/OrgMode/org-roam/data/9A/B52778-CB82-467C-AE7A-F2A80F598D41/2021-08-08_18-29-20_image19.webp>
 
 Churn Rate has a direct effect on LTV.
 We can measure customer satisfaction using customer surveys, and in
@@ -368,7 +368,7 @@ pattern.
 
 #### Drill down into [ARPU]({{<relref "20210729003208-average_revenue_per_account.md#" >}}) (Average Revenue per Customer) {#drill-down-into-arpu--20210729003208-average-revenue-per-account-dot-md----average-revenue-per-customer}
 
-{{< figure src="/Users/max/SynologyDrive/OrgMode/org-roam/data/0E/3E1645-E6F7-4C1B-BF3C-9AE863CF7CB9/2021-08-01_16-50-33_image13.png" >}}
+</Users/max/SynologyDrive/OrgMode/org-roam/data/0E/3E1645-E6F7-4C1B-BF3C-9AE863CF7CB9/2021-08-08_18-30-01_image_thumb13.webp>
 
 usually be driven up by focusing on:
 
@@ -380,7 +380,7 @@ usually be driven up by focusing on:
 
 ### Drill down into Cash {#drill-down-into-cash}
 
-{{< figure src="/Users/max/SynologyDrive/OrgMode/org-roam/data/20/9E1E35-6282-4782-A120-A351A9E00E3C/2021-08-01_16-59-36_image14.png" >}}
+</Users/max/SynologyDrive/OrgMode/org-roam/data/20/9E1E35-6282-4782-A120-A351A9E00E3C/2021-08-08_18-30-33_image_thumb14.webp>
 
 affect Cash: which is using longer term contracts and incenting your
 customers to pay for 6, 12, 24, or even 36 months up front in advance.
@@ -414,7 +414,7 @@ contracts is so important)”
 
 ## Drill down into Growth {#drill-down-into-growth}
 
-{{< figure src="/Users/max/SynologyDrive/OrgMode/org-roam/data/7E/1408C3-BF45-4CF4-8B6C-B266973D55FD/2021-08-03_09-16-40_image20.png" >}}
+</Users/max/SynologyDrive/OrgMode/org-roam/data/7E/1408C3-BF45-4CF4-8B6C-B266973D55FD/2021-08-08_18-30-58_image_thumb20.webp>
 
 It is the nature of a SaaS business to grow MRR month on month, even if you
 only added the same number of customers every month.
@@ -427,6 +427,6 @@ You can do this by focusing on:
 
 ## Other Metrics {#other-metrics}
 
-{{< figure src="/Users/max/SynologyDrive/OrgMode/org-roam/data/EE/AD036D-66E2-4654-AC99-A6500DB205AB/2021-08-03_09-21-23_image16.png" >}}
+</Users/max/SynologyDrive/OrgMode/org-roam/data/EE/AD036D-66E2-4654-AC99-A6500DB205AB/2021-08-08_18-31-33_image_thumb16.webp>
 
-{{< figure src="/Users/max/SynologyDrive/OrgMode/org-roam/data/EE/AD036D-66E2-4654-AC99-A6500DB205AB/2021-08-03_09-22-09_image17.png" >}}
+</Users/max/SynologyDrive/OrgMode/org-roam/data/EE/AD036D-66E2-4654-AC99-A6500DB205AB/2021-08-08_18-31-38_image_thumb17.webp>
