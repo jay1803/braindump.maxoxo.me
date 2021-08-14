@@ -7,7 +7,7 @@ draft = false
 ## Read Books {#read-books}
 
 
-### 2019<code>[11/11]</code> {#2019}
+### 2019<code>[14/14]</code> {#2019}
 
 
 #### <span class="org-todo done DONE">DONE</span> 零伯爵 {#零伯爵}
@@ -42,10 +42,38 @@ draft = false
 
 #### <span class="org-todo done DONE">DONE</span> 西方哲学简史 {#西方哲学简史}
 
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 13:50]</span></span>
+
+#### <span class="org-todo done DONE">DONE</span> 增长黑客 {#增长黑客}
+
+作为最早提出“增长黑客”概念的理论先驱、带领Dropbox实现500%增长的实战领军人物，
+作者在书中分享了如何跨部门搭建增长黑客团队，以及实现用户和利润双增长的具体行
+动指南。该书一经出版，便被科技公司奉为运营圭臬。
 
 
-### 2020<code>[10/10]</code> {#2020}
+#### <span class="org-todo done DONE">DONE</span> 香水 {#香水}
+
+本书描述格雷诺耶自幼受苦，生有特殊的嗅觉功能，领悟惟有少女的体香能使人神魂颠
+倒，他先后杀死26名少女，萃取她们的体味制出神奇的香水。当他罪行败露押赴刑场时，
+籍以身上的异香，逃回巴黎，被流氓等分剐而食。
+
+
+#### <span class="org-todo done DONE">DONE</span> 无缘社会 {#无缘社会}
+
+本书系NHK电视台资深采访记者作品合集。采访主题是“现代人的孤独老死”。高龄、少
+子、失业、不婚、城市化，造就了这样一批人，他们活着，没有人和他们联系，他们没
+有工作，没有配偶，没有儿女，也不回家乡；他们死了，没有人知道，即使被发现，也
+没有人认领他们的尸体，甚至无法知道他们姓甚名谁，他们的人生被总结为寥寥几个字
+的遗骨认领布告，他们被称为“无缘死者”，他们所在的社会也会渐渐从“有缘社会”变成
+“无缘社会”。日本每年3万2千人走上“无缘死”的道路。他们中间，有在公司20年没有迟
+到请假，可是一夜之间变成街头流浪汉的工薪阶层，有一个人旅行的旅者，有一生未婚
+的女性，有儿女远离自己的空巢老人，有从来只在网络上交友的年轻人，社会联系日益
+脆弱，连一般家庭的30-40岁的人也感受到了孤独死去的阴云笼罩。日本NHK电视台特别
+节目录制组，节目热播后将记者的真实采访手记合成此书，将当今社会中那些不受关注
+的人们的临终惨景呈现到大家面前，呼吁社会的警醒和反思。
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 22:24]</span></span>
+
+
+### 2020<code>[18/18]</code> {#2020}
 
 
 #### <span class="org-todo done DONE">DONE</span> 岛上书店 {#岛上书店}
@@ -71,21 +99,91 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 
 #### <span class="org-todo done DONE">DONE</span> The Personal MBA {#the-personal-mba}
 
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 13:51]</span></span>
-
 
 #### <span class="org-todo done DONE">DONE</span> 深入浅出数据分析 {#深入浅出数据分析}
 
 
 #### <span class="org-todo done DONE">DONE</span> 如何阅读一本书 {#如何阅读一本书}
 
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 13:51]</span></span>
+
+#### <span class="org-todo done DONE">DONE</span> 资本论 {#资本论}
+
+马克思在这部著作中运用辩证唯物主义和历史唯物主义的世界观和方法论揭示了资本主
+义社会的经济运动规律和资本主义产生、发展和灭亡的规律；根据对资本主义基本矛盾
+的分析，论证了资本主义为共产主义取代的历史必然性，为科学社会主义奠定了理论基
+础。这部著作在政治经济学领域实现了革命变革，创立了马克思主义政治经济学。
 
 
-### 2021<code>[20/40]</code> {#2021}
+#### <span class="org-todo done DONE">DONE</span> 苏东坡传 {#苏东坡传}
+
+本书是一部传记，讲述了苏东坡是一个秉性难改的乐天派，是悲天悯人的道德家，是散
+文作家，是新派的画家，是伟大的书法家，是酿酒的实验者，是工程师，是假道学的反
+对派，是瑜伽术的修炼者，是佛教徒，是士大夫，是皇帝的秘书，是饮酒成性者，是心
+肠慈悲的法官，是政治上的坚持己见者，是月下的漫步者，是诗人，是生性诙谐爱开玩
+笑的人。
 
 
-#### <span class="org-todo done READED">READED</span> 我承认我不曾经历沧桑 {#我承认我不曾经历沧桑}
+#### <span class="org-todo done DONE">DONE</span> 浮生六记 {#浮生六记}
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 21:46]</span></span>
+
+
+#### <span class="org-todo done DONE">DONE</span> 动物凶猛 {#动物凶猛}
+
+他们逃课、泡妞、打群架，他们由于“不必学习那些后来注定要忘掉的无用的知识”而使
+自身的动物本能获得了空前的解放； 他们深知自己的未来已被框定于固定的范畴之内，
+所以他们一点也不担心自己的前程。“一切都无须争取，我只要等待，十八岁时自然会
+轮到我。”因此他们在现实生活中就只剩下随处发泄的精力、四处寻找刺激的欲望、自
+以为是的狂傲、随波逐流漂泊不定的心灵。在“我”的世界里，高氏兄弟是山大王、汪若
+海是贰臣、于北蓓是狐狸精、米兰是交际花；在“我”的心中，家长令人厌恶、学校无聊
+乏味，而用钥匙入室窥私或顺手拿走不超过十元钱以上的物品，是一种兴趣爱好。也有
+发自内心的对异性的迷恋，但这种浪漫的感情最终还是被无法控制的兽欲所吞噬。
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 21:41]</span></span>
+
+
+#### <span class="org-todo done DONE">DONE</span> 一半是火焰，一半是海水 {#一半是火焰-一半是海水}
+
+这几部小说都是王朔描写爱情的作品。王朔笔下的爱情，尤其是在早期作品中，大都纯
+洁真挚。其中《一半是火焰 一半是海水》，是王朔被阅读最多的作品。
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 22:10]</span></span>
+
+
+#### <span class="org-todo done DONE">DONE</span> 规模与民主 {#规模与民主}
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 22:04]</span></span>
+本书运用数理分析来阐释人口规模(地域规模和人口密度)和民主之间的关系，全书考察
+了政治思想史中有关规模和民主之间关系的观点、规模对于全面反映其公民集体偏好的
+体系能力的影响、两种基本标准之间的冲突问题以及体系能力问题、规模和国家生存之
+间的关系等问题；
+
+
+#### <span class="org-todo done DONE">DONE</span> 我是你爸爸 {#我是你爸爸}
+
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 22:39]</span></span>
+人到中年与妻子离婚的马林生是一个类知识分子，至少这是他对自己的定位，在年龄和
+经济的双重压力下，他挣扎着煞费苦心地保持着自己的这一形象，为此，他必须得讲究，
+至少要讲究一点：干净。他是一家书店的小职员，有点装腔作势却活得很窝囊，富于幻
+想（幻想和一个来过书店的少女再次见面的情境）却又不切实际。为了解决和儿子之间
+日趋紧张的关系，他决定和儿子称兄道弟做朋友；对儿子给自己介绍的对象齐怀远——儿
+子同学的妈，既想亲近又不甘心（因为那个少女）。王朔用一贯幽默调侃的笔触刻画了
+一个生活在各种矛盾中的小知识分子形象，既让人忍俊不禁又让人心酸不已。
+
+
+#### <span class="org-todo done DONE">DONE</span> 看上去很美 {#看上去很美}
+
+小说以方枪枪和“我”的双重视角来审视社会、成人世界，这是一个在保育院长大的孩子，
+与父母关系淡漠，在保育院里也不太讨阿姨及其他孩子的喜欢。后来入了学，他想积极
+引起老师的注意，写入队申请，却没有成功；老师生病时帮老师批发作业，却惹代课老
+师生气。随着年龄的长大和社会环境的变化，学校停课，父亲被送进干校，他成了一个
+更加自由的没人管束的孩子（此时的大院基本是一个“无父”状态的社会），看比自己大
+的孩子打架，与同龄的孩子在大院里肆意玩闹。王朔用大量的笔墨描写了这样一个社会
+化自我的成长，再现了他们那一代人的集体无意识。
+
+
+### 2021<code>[20/42]</code> {#2021}
+
+
+#### READED 我承认我不曾经历沧桑 {#readed-我承认我不曾经历沧桑}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 21:24]</span></span>
 
@@ -95,7 +193,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 
 的虚伪，更过早地被抛入一个充满竞争与争斗的世界——试着描摹群像，剖析标本。
 
 
-#### <span class="org-todo done READED">READED</span> 悉达多 {#悉达多}
+#### READED 悉达多 {#readed-悉达多}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 21:12]</span></span>
 《悉达多》并非是佛陀的故事，它讲述了一个人的一生，千万寻常人亦会经历的一生。
@@ -104,7 +202,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 
 命的圆融统一，看似宏大，确是每个人无法回避的问题。
 
 
-#### <span class="org-todo done READED">READED</span> 人生 {#人生}
+#### READED 人生 {#readed-人生}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 21:06]</span></span>
 《人生》是路遥的一部中篇小说，发表于1982年，它以改革时期陕北高原的城乡生活为
@@ -113,7 +211,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 
 盾，也正是体现那种艰难选择的悲剧。
 
 
-#### <span class="org-todo done READED">READED</span> 生命是什么 {#生命是什么}
+#### READED 生命是什么 {#readed-生命是什么}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 12:21]</span></span>
 作者在书中致力于将生物学与量子力学协调起来，尽管写于1944年，但书中关于生命、
@@ -123,14 +221,14 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 
 探索生命这一令人望而生畏的主题，内容深刻而有趣，极具启发性。
 
 
-#### <span class="org-todo todo READING">READING</span> The intelligent investor {#the-intelligent-investor}
+#### READING The intelligent investor {#reading-the-intelligent-investor}
 
 本书主要面向个人投资者，旨在对普通人在投资策略的选择和执行方面提供相应的指导。
 本书不是一本教人“如何成为百万富翁”的书籍，而更多地将注意力集中在投资的原理和
 投资者的态度方面，指导投资者避免陷入一些经常性的错误之中。
 
 
-#### <span class="org-todo done READED">READED</span> 我与地坛 {#我与地坛}
+#### READED 我与地坛 {#readed-我与地坛}
 
 《我与地坛》收入《我与地坛》、《记忆与印象》等以记事为主的散文，配少量图片。
 《我与地坛》由中国当代著名作家史铁生著。是史铁生文学作品中，充满哲思又极为人
@@ -150,40 +248,40 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 
 解。
 
 
-#### <span class="org-todo done READED">READED</span> 从零开始读懂金融学 {#从零开始读懂金融学}
+#### READED 从零开始读懂金融学 {#readed-从零开始读懂金融学}
 
 从金融学名词货币信用、银行利率、资本运作、金融机构、金融热点等方面系统讲述了
 金融学的基本理论知识及其在现实社会生活中的应用。
 
 
-#### <span class="org-todo todo READING">READING</span> 证券分析 {#证券分析}
+#### READING 证券分析 {#reading-证券分析}
 
 《证券分析》被誉为投资者的圣经，自1934年出版以来，八十年畅销不衰。市场反复证
 明，《证券分析》是价值投资的经典之作。
 
 
-#### <span class="org-todo done READED">READED</span> 一本书读懂财报 {#一本书读懂财报}
+#### READED 一本书读懂财报 {#readed-一本书读懂财报}
 
 本书专门为零基础的初学者写作，它将帮助初学者循序渐进、轻松自如地掌握财务报表
 的相关知识，快速入门。无论你是企业管理层，是银行、咨询公司的工作人员，哪怕只
 是一
 
 
-#### <span class="org-todo todo READING">READING</span> 怎样选择成长股 {#怎样选择成长股}
+#### READING  怎样选择成长股 {#reading-怎样选择成长股}
 
 作者希望这种书能以非正式的写法，把他想讲的事情以第一人称的方式，告诉身为读者
 的大家。书内用到的大部分语言、许多例子和比喻，和作者把这些观念亲口告诉买他基
 金的人一样。他的坦诚，有时是直言不讳，让任何人都会从中受益。
 
 
-#### <span class="org-todo done READED">READED</span> 股票魔法师 {#股票魔法师}
+#### READED 股票魔法师 {#readed-股票魔法师}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-25 Thu 00:25]</span></span>
 对于股市新手，是一本非常好的教材；对于有很多投资经验的人，也是一本极好的参考
 书：如果将作者的理念应用于实际，一定会让投资者如虎添翼，在股市中左右逢源。
 
 
-#### <span class="org-todo done READED">READED</span> 文明、现代化、价值投资与中国 {#文明-现代化-价值投资与中国}
+#### READED 文明、现代化、价值投资与中国 {#readed-文明-现代化-价值投资与中国}
 
 全书包含上下两篇，上篇脱胎于在投资界口耳相传的“现代化十六讲”，作者提出了人类
 社会从1.0文明到3.0文明演化的思想，讨论了现代化的诞生、本质与铁律。作者站在全
@@ -193,29 +291,30 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-25 Thu 
 法与实践外，作者还对人类与人性、时代与未来等问题进行了思考。
 
 
-#### <span class="org-todo todo READING">READING</span> 枪炮、病菌与钢铁 {#枪炮-病菌与钢铁}
+#### READING 枪炮、病菌与钢铁 {#reading-枪炮-病菌与钢铁}
 
 本书是理解人类社会发展史方面的一个重大进展，它记录了现代世界及其诸多不平等所
 以形成的原因，也是一部真正关于全世界各民族的历史
 
 
-#### <span class="org-todo todo READING">READING</span> 巴菲特致股东的信 {#巴菲特致股东的信}
+#### READING 巴菲特致股东的信 {#reading-巴菲特致股东的信}
 
 每一封致股东信都洋洋洒洒数万言，信中回顾公司业绩、投资策略，还会就许多热点话题表达观点。
 
 
 #### <span class="org-todo done DONE">DONE</span> 巴菲特的护城河 {#巴菲特的护城河}
 
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-03-14 Sun 00:47]</span></span>
 你将获得一整套投资分析实操方法，比市场更好地预测公司的前景，找到一家公司是否
 值得投资的确定依据。
 
 
-#### <span class="org-todo todo READING">READING</span> 国民经济学原理 {#国民经济学原理}
+#### READING 国民经济学原理 {#reading-国民经济学原理}
 
 由于该书阐述了边际效用理论，故而门格尔当之无愧地成为现代经济学开创者之一。
 
 
-#### <span class="org-todo done READED">READED</span> 香帅金融学讲义 {#香帅金融学讲义}
+#### READED 香帅金融学讲义 {#readed-香帅金融学讲义}
 
 需要专业知识，也没有难懂的公式，通俗直白，助你成为现代金融社会的明眼人，看清
 财富运行的本质，做出正确决策。
@@ -235,25 +334,59 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-25 Thu 
 来的世界观。
 
 
-#### <span class="org-todo todo READING">READING</span> 金融学 {#金融学}
+#### READING 金融学 {#reading-金融学}
 
 一部分解释金融学是什么，对金融体系进行了概要介绍，并描述了公司财务报表的结构
 与运用。第二、三、四部分分别阐述了金融学的三个理论支柱
 
 
-#### <span class="org-todo todo NOTING">NOTING</span> 微积分的力量 {#微积分的力量}
+#### READED 微积分的力量 {#readed-微积分的力量}
+
+在《微积分的力量》书中，应用数学家兼“导游”斯托加茨将用一种“讲故事”和“看展览”
+的方式为你逐一揭晓答案。“我们不必为了理解微积分的重要性而学习如何做运算，就
+像我们不必为了享用美食而学习如何做佳肴一样。我将借助图片、隐喻和趣闻逸事等，
+尝试解释你们需要了解的关于微积分的知识。我也会给你们介绍有史以来颇为精致的一
+些方程和证明，就像我们在参观画展的时候不会错过其中的代表作一样。” 在高中和大
+学时期，尽管我们中的许多人都对这门课程退避三舍，但斯托加茨用一种新颖独特和接
+地气儿的方式给我们讲述了微积分的历史。相信在读完《微积分的力量》后，我们都会
+对微积分有更加立体生动的认知，就像欣赏名画、名曲那样发现微积分之美。
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-04 Wed 23:35]</span></span>
 
 
-#### <span class="org-todo todo READING">READING</span> 写给大家的AI极简史 {#写给大家的ai极简史}
+#### READING 写给大家的 AI 极简史 {#reading-写给大家的-ai-极简史}
+
+如同飞机的出现彻底改变了人类的旅行轨迹，催生出一个全新的行业，人工智能也正在
+迎来属于它的“基蒂霍克时刻”。它将在未来20年内，从根本上改变人类的生活、工作、
+经济和社会，未来，我们将无法想象没有人工智能的生活，就像现在我们无法想象没有
+电的生活一样。
+
+回看第一次工业革命，被自动化机器取代的工人愤怒地砸毁机器，但短短几十年后，自
+动化就以更高的工资和更好的社会福利惠及了人类的子孙后代，而当时砸机器的那批人
+成了巨变中迷失的一代。历史学家把这称为“恩格斯停顿”。
 
 
-#### <span class="org-todo todo READING">READING</span> 格鲁夫给经理人的第一课 {#格鲁夫给经理人的第一课}
+#### READING 格鲁夫给经理人的第一课 {#reading-格鲁夫给经理人的第一课}
+
+全球第一大计算机芯片供应商英特尔公司创办人格鲁夫在本书中，倾囊亲授执掌公司二
+十多年的经验，将制造业的“产出”概念导入企业经理人的工作核心中，创造性地提出了
+“高杠杆率”的管理方法，帮助经理人以最有效的投入获得最大的产出。
 
 
-#### <span class="org-todo todo READING">READING</span> 商业的本质 {#商业的本质}
+#### READING 商业的本质 {#reading-商业的本质}
+
+《商业的本质》是杰克•韦尔奇对过去十几年商业变革的反思和总结。他指出，科技革
+命给市场带来了巨大变化和诸多杂音，但作为管理者，不能迷失商业中最核心的东西。
+在当今的新商业环境下，要想“赢”，就必须遵从商业的规则，回归商业的本质。
+
+《商业的本质》不谈空洞的理论和概念，因为在现实中，商业成功的关键在于妥善解决
+那些层出不穷、生死攸关、不可避免的窘境。韦尔奇在《商业的本质》中结合大量企业
+的现实案例和经营困境，给出了切实的解决方案，特别是针对经济低迷时期，提出了企
+业实现快速增长的六大突破口，包括：协同力、领导力、影响业绩和成本的关键数据、
+快速敏捷的战略制定流程、组织结构优化和领导者的心理素质。同时，韦尔奇还在书中
+专门分析了中国的经济状况，对中国企业的发展做出了点评和展望。
 
 
-#### <span class="org-todo todo NOTING">NOTING</span> 规模 {#规模}
+#### READED 规模 {#readed-规模}
 
 《规模》将帮助你重新思考生命、认识自身、了解你的生活与工作，并告诉你复杂世界其
 实充满简单的逻辑，只要跳脱思维框架，打破学科限制，你就会重新看清你周遭的一切。
@@ -261,46 +394,144 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-25 Thu 
 
 #### <span class="org-todo todo TODO">TODO</span> 相对论 {#相对论}
 
+《相对论》内容包括狭义相对论、广义相对论、关于整个宇宙的一些考虑、相对论的验
+证、相对论的意义五部分。
 
-#### <span class="org-todo todo TODO">TODO</span> 销售加速公式 {#销售加速公式}
+
+#### READING 销售加速公式 {#reading-销售加速公式}
+
+企业家、销售经理和投资者都希望将他们的好点子转化为价值1亿美元的业务，他们面
+临的大挑战就是扩大销售。因为销售历来被视为一种艺术，而非一门科学。然而，在数
+字世界中，每个人的每个动作都被记录下来，大量数据唾手可得，建立销售团队也可以
+从一门艺术转化为一门科学。
+
+销售公式包括：
+
+1.  “每次都找拥有相似成功特质的销售人员。”（销售招聘公式）
+2.  “以相同的方式培训每个销售人员。”（销售培训公式）
+3.  “让销售人员对相同的销售流程负责。”（销售管理公式）
+4.  “每月为销售人员提供相同质量和数量的销售线索。”（需求生成公式）
 
 
 #### <span class="org-todo done DONE">DONE</span> 生命是孤独的旅程 {#生命是孤独的旅程}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 13:53]</span></span>
+人人生而孤独，相比于快乐与喧嚣，孤独总是如此绵长而深切，让人无助又彷徨。然而，
+孤独并不可怕，可怕的是畏惧孤独。
+
+只有接纳且拥抱孤独的人，才能看清真实的自我，在沉思中找到人生的前路。孤独会让
+你会活得更加清醒而坚韧，逐渐穿越迷茫，变得越来越强大。
+
+贾平凹先生以平易朴实的笔触，写其生活中的所思所感，所见所历，既有对过往生活的
+追忆，也有对亲友的怀念，对故乡的留恋……字里行间，遍陈生命中的孤独、苦痛与真实。
+
+生命是孤独的旅程，孤独是生命的答案。读完贾平凹先生的这本书，你恍然如悟：只有
+历经孤独的人，才能活出人生的真正滋味。
 
 
-#### <span class="org-todo done DONE">DONE</span> 经济解释(卷1) {#经济解释--卷1}
+#### <span class="org-todo done DONE">DONE</span> 经济解释 {#经济解释}
+
+这套系列图书从经济学的角度出发，融入了“新制度经济学”的研究成果，即产权和交易
+费用理论，用科学的方法来解释现实生活中的经济现象和行为，深入浅出，通俗易懂。
+书中清晰地阐释了需求的本质、缺乏与竞争的关系、价与量的关系等需求定律的重要观
+点和概念准则。并用通俗的语言、生动的生活案例阐释了重要的经济理论和概念，如收
+入、投资、财富、利润、租值、交易费用、利息理论、成本、盈利等。作者学术逻辑严
+密，由浅入深地以一个经济学人客观的思维和科学的方法论述了市场和非市场环境下的
+供需关系、价格控制理论，并结合具体的案例进行分析，对解释现实世界具有深刻的启
+发意义。
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 13:52]</span></span>
 
 
-#### <span class="org-todo done DONE">DONE</span> 经济解释(卷2) {#经济解释--卷2}
+#### READING 我是猫 {#reading-我是猫}
+
+主人公以一只猫的身份，俯视着日本当时的社会，俯视着二十世纪所谓现代文明的大潮，
+同时发出种种嘲弄和讽刺。作品通过主人公苦沙弥的生活，以诙谐的语言、细腻的笔调
+和犀利的笔锋，描绘了一批惯于谈天说地、道古论今的文人学士和势利小人，淋漓尽致
+地揭露和嘲讽了资本家、统治者，批判了金钱万能的社会和盲目崇拜西方生活方式的社
+会习气，塑造出一群自命清高、愤世嫉俗的知识分子形象。
 
 
-#### <span class="org-todo todo TODO">TODO</span> 我是猫 {#我是猫}
+#### READING 无价 {#reading-无价}
 
-
-#### <span class="org-todo todo TODO">TODO</span> 赢 {#赢}
-
-
-#### <span class="org-todo todo TODO">TODO</span> 无价 {#无价}
+威廉·庞德斯通告诉我们答案：价格只是一场集体幻觉。在心理学实验里，人们无法准
+确地估计“公平价格”，反而受到无意识、不理性、政治等不正确因素的强烈影响。
 
 
 #### <span class="org-todo todo TODO">TODO</span> 生命是什么 {#生命是什么}
 
-
-#### <span class="org-todo todo TODO">TODO</span> 悉达多 {#悉达多}
+作者在书中致力于将生物学与量子力学协调起来，尽管写于1944年，但书中关于生命、
+分子生物学、心灵等主题的评论今天看来仍十分有趣，极具启发性。可以说，这本书的
+内容为分子生物学的诞生和DNA的发现作了概念上的准备，对于希望了解生命起源理论
+的读者来说，本书无疑是最好的选择之一。薛定谔以一种令人放松和愉悦的文笔引领读
+者探索生命这一令人望而生畏的主题，内容深刻而有趣，极具启发性。
 
 
 #### <span class="org-todo todo TODO">TODO</span> 查理·芒格的原则 {#查理-芒格的原则}
 
+芒格的原则与本杰明•格雷厄姆的价值投资理论一脉相承，简单易懂，即使是普通投资
+者也可以在自己的投资组合中加以应用。芒格的投资体系原则已经为他保驾护航了40多
+年，并为几代成功投资者指引着方向。本书介绍的是芒格有关投资和人生的智慧，从投
+资的基本策略步骤，到开发影响你一生的心智模式，作者将其采访、演讲、作品和致股
+东的信加以概述，并与基金经理、价值投资者的评论相结合，你可以整体掌握查理•芒
+格的投资、学习和人生智慧。
 
-#### <span class="org-todo done DONE">DONE</span> 规模 {#规模}
+
+#### <span class="org-todo todo TODO">TODO</span> 股市真规则 {#股市真规则}
+
+主要讲述了公司价值研究、股票估值和投资策略等内容，它将帮助投资者挑选正确的股
+票、发现好的公司、理解不同行业背后的驱动力。
 
 
-### TO READ {#to-read}
+#### <span class="org-todo todo TODO">TODO</span> 精益创业 {#精益创业}
+
+创业是在充满不确定性的情况下进行产品或服务创新。新创企业还不知道他们的产品应
+该是什么样的，他们的顾客在哪里。计划和预测只能基于长期、稳定的运营历史和相对
+静止的环境。而这些条件新创企业都不具备。有时候我们自己觉得产品会非常受欢迎，
+所以花费巨大精力，在各种细小的问题上进行打磨，结果，产品推到市场后，消费者很
+残酷地表示他们不需要这个东西。如果我们的生意本身不被市场需要，那么我们失败来
+的越快越好，这意味着我们耗费更少的资金和精力在错误的事情上。
+
+埃里克将精益创业提炼为一个反馈循环：想法—开发—测量—认知—新的想法。根据这种模
+式，我们创业的第一步是把想法变为产品，而且这时开发的产品是精简的原型，投入最
+小的金钱和精力开发出体现核心价值的产品，不要在许多细枝末节上耗费过多精力。当
+极简功能的产品得到用户认可后，创业者需要把控局势，在不断的反馈和循环中测试产
+品，快速作出调整和改变，迭代优化产品，挖掘用户需求，达到爆发式增长。新创企业
+必须在消耗完启动资金之前，以最小的成本、在最短时间里找到有价值的认知。
 
 
-## BOOKSHELF<code>[0/764]</code> {#bookshelf}
+#### <span class="org-todo todo TODO">TODO</span> 当我谈跑步时,我谈些什么 {#当我谈跑步时-我谈些什么}
+
+是村上春树最受欢迎的随笔集。开始作家生涯之际，村上春树也开始长跑。从夏威夷的
+考爱岛，到马萨诸塞的剑桥；从村上市的铁人三项赛，到希腊马拉松长跑古道，他永远
+在奔跑。
+
+
+#### <span class="org-todo todo TODO">TODO</span> 跨越鸿沟 {#跨越鸿沟}
+
+“鸿沟理论”指的就是高科技产品在市场营销过程中遭遇的最大障碍：高科技企业的早期
+市场和主流市场之间存在着一条巨大的“鸿沟”，能否顺利跨越鸿沟并进入主流市场，成
+功赢得实用主义者的支持，就决定了一项高科技产品的成败。实际上每项新技术都会经
+历鸿沟。关键在予采取适当的策略令高科技企业成功地“跨越鸿沟”，摩尔在这本书中就
+告诉了人们一些欠经考验的制胜秘诀。
+
+
+#### <span class="org-todo todo TODO">TODO</span> 梯次增长 {#梯次增长}
+
+深度揭秘在面对新物种、新商业、新颠覆者不断涌现的市场环境中，微软、微软、
+Salesforce等企业如何走出商业和产品周期的危机，如何寻找新的业务和利润增长点。
+作者提出了一套关于产品创新、业务组合、商业执行、企业管理等系统而又完整的工具
+和方法论，从而帮助企业不断走向新的成功。
+
+
+#### <span class="org-todo todo TODO">TODO</span> 赢 {#赢}
+
+《赢》中，韦尔奇结合亲身管理实践及大量鲜活的案例，将其在工作与生活中“赢”的智
+慧倾囊相授，内容涉及商务活动的诸多层面，包括商业生活的要旨、企业领导的管理智
+慧、普通员工的求职与晋升之道，乃至如何实现工作与生活的平衡。本书凝聚了韦尔奇
+一生的管理智慧，是其执掌通用21年来领导艺术的总结与升华。
+
+
+## BOOKSHELF<code>[0/768]</code> {#bookshelf}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 战胜华尔街 {#战胜华尔街}
@@ -363,14 +594,6 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 相结合，你可以整体掌握查理•芒格的投资、学习和人生智慧。
 
 
-### <span class="org-todo todo TODO">TODO</span> Winning {#winning}
-
-《赢》中，韦尔奇结合亲身管理实践及大量鲜活的案例，将其在工作与生活中“赢”的智
-慧倾囊相授，内容涉及商务活动的诸多层面，包括商业生活的要旨、企业领导的管理智
-慧、普通员工的求职与晋升之道，乃至如何实现工作与生活的平衡。本书凝聚了韦尔奇
-一生的管理智慧，是其执掌通用21年来领导艺术的总结与升华。
-
-
 ### <span class="org-todo todo TODO">TODO</span> Flow - the psychology of optimal experience {#flow-the-psychology-of-optimal-experience}
 
 这本书从心理学的角度出发，深入探讨了人何时最幸福、如何通过掌控自己的意识来感
@@ -404,7 +627,8 @@ Miniaturen）。作者茨威格以诗人和艺术家的笔触，尊崇历史的�
 ### <span class="org-todo todo TODO">TODO</span> Of Human Bondage {#of-human-bondage}
 
 故事以毛姆亲身经历为蓝本，描述了身有残疾的主人公菲利普从孤儿到长大的完整过程，
-亲情、爱情、友情，校园、艺术、理想，在重重枷锁中，苦寻自由而难得，最终发现这都是人性的本来面目。
+亲情、爱情、友情，校园、艺术、理想，在重重枷锁中，苦寻自由而难得，最终发现这
+都是人性的本来面目。
 
 
 ### <span class="org-todo todo TODO">TODO</span> 经济学的思维方式 {#经济学的思维方式}
@@ -594,7 +818,8 @@ transactions in general and to the settlement phase in particular.
 
 ### <span class="org-todo todo TODO">TODO</span> 大衰退年代 {#大衰退年代}
 
-呈现了宏观经济学的全新理论，为应对停滞挑战和困扰许多发达国家的收入不平等恶化问题提供了解决方案。
+呈现了宏观经济学的全新理论，为应对停滞挑战和困扰许多发达国家的收入不平等恶化
+问题提供了解决方案。
 
 
 ### <span class="org-todo todo TODO">TODO</span> 创造力 {#创造力}
@@ -606,7 +831,8 @@ transactions in general and to the settlement phase in particular.
 
 ### <span class="org-todo todo TODO">TODO</span> 超级版图 {#超级版图}
 
-全球化并未进入深水区，与之相反，全球化正在进入超级全球化阶段，一幅全世界范围内互联互通的超级版图正在形成。
+全球化并未进入深水区，与之相反，全球化正在进入超级全球化阶段，一幅全世界范围
+内互联互通的超级版图正在形成。
 
 
 ### <span class="org-todo todo TODO">TODO</span> 笑傲股市 {#笑傲股市}
@@ -734,41 +960,84 @@ transactions in general and to the settlement phase in particular.
 
 ### <span class="org-todo todo TODO">TODO</span> 博弈论 {#博弈论}
 
+《博弈论》一书既包含了博弈数学理论的细致说明，又包含了该理论多方面的应用与实
+践。书中用丰富详实的案例，介绍了零和博弈、三人博弈、混合策略、囚徒困境等经典
+的博弈理论，每个博弈案例背后，都有一个可以运用的策略帮你解决人生难题。
+
 
 ### <span class="org-todo todo TODO">TODO</span> 一地鸡毛 {#一地鸡毛}
 
-
-### <span class="org-todo todo TODO">TODO</span> 人性的枷锁 {#人性的枷锁}
+一部琐碎人生的范本。一部关系学的教科书，再现了单位这一微观天地，鸡毛蒜皮，纤
+毫毕现，不嫌其俗，不掩其恶，“酱缸”之臭，人心之险，一一展示无遗。王朔指出，它
+一扫以往的英雄主
 
 
 ### <span class="org-todo todo TODO">TODO</span> 像计算机科学家一样思考 Python {#像计算机科学家一样思考-python}
 
+本书以培养读者以计算机科学家一样的思维方式来理解Python语言编程。贯穿全书的主
+体是如何思考、设计、开发的方法，而具体的编程语言，只是提供了一个具体场景方便
+介绍的媒介。
+
 
 ### <span class="org-todo todo TODO">TODO</span> Why Fish Don't Exist {#why-fish-don-t-exist}
 
+In Why Fish Don’t Exist, Miller digs into the passing anecdote she once heard
+about David Starr Jordan to tell his whole story. What was it that kept him
+going that day in 1906? What became of him? And who does he prove to be, in
+the end: a role model for how to thrive in a chaotic world, or a cautionary
+tale? Filled with suspense, surprise, and even a questionable death, this
+enchanting book interweaves science, biography, and a dash of memoir to
+investigate the age-old question of how to go on when everything seems lost.
+
 
 ### <span class="org-todo todo TODO">TODO</span> 伊索寓言 {#伊索寓言}
+
+《伊索寓言》，是一个充满野蛮幽默、机敏急智、文字游戏、巧施计谋和“我早就说过！”的
+世界。伟大的“寓言之父”伊索，用狐狸、狼、狮子、乌鸦、乌龟、兔子、老鼠、狗、羊、
+蛇等动物的故事讲透人性，任何人通读这部传世杰作，都会获得震撼性的启示，从而下
+定决心在今后的生活中，表现出更多的同情、慈悲和宽容。
 
 
 ### <span class="org-todo todo TODO">TODO</span> 莎士比亚戏剧集 {#莎士比亚戏剧集}
 
 
-### <span class="org-todo todo TODO">TODO</span> 股市真规则 {#股市真规则}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 刺青 {#刺青}
+
+谷崎的早期作品具有强烈的恶魔主义文学风格。对美的深度追求使得谷崎润一郎在作品
+中大胆地展示出人物异于常人而无法言说的欲望，字里行间完全颠覆了传统的审美观和
+道德观。
 
 
 ### <span class="org-todo todo TODO">TODO</span> 2001 太空漫游 {#2001-太空漫游}
 
+一块神秘的黑色石板，出现在非洲丰饶广袤的草原上。没有人知道是谁放在那里的，因
+为那里根本没有“人”。但地球未来的主宰者，却从此踏上了他们漫长的征途。300万年后
+的一个寻常日子，一块黑色石板在月球上被人类挖出。
+
 
 ### <span class="org-todo todo TODO">TODO</span> 老人与海 {#老人与海}
+
+本书讲述了一个渔夫的故事。古巴老渔夫圣地亚哥在连续八十四天没捕到鱼的情况下，
+终于独自钓上了一条大马林鱼，但这鱼实在大，把他的小船在海上拖了三天才筋疲力尽，
+被他杀死了绑在小船的一边。在归程中，他再遭到一条鲨鱼的袭击，最后回港时只剩鱼
+头鱼尾和一条脊骨。而在老圣地亚哥出海的日子里，他的忘年好友一直在海边忠诚地等
+待，满怀信心地迎接着他的归来。
 
 
 ### <span class="org-todo todo TODO">TODO</span> 百万英镑 {#百万英镑}
 
+这本中短篇选集收入作者的十三篇小说，编排次序按照原作发表年份的先后；这些故事
+或以脍炙人口（如《百万英镑》、《竞选州长》），或比较不那么为众人所熟悉（如
+《哥尔斯密的朋友再度出洋》、《火车上的食人事件》），但无不生动有趣而给人启迪。
+
 
 ### <span class="org-todo todo TODO">TODO</span> 马耳他之鹰 {#马耳他之鹰}
+
+一位美丽的女子上门委托萨姆·斯佩德跟踪和自己妹妹私奔了的男人，然而萨姆派去的搭
+档当晚就死于阴暗的小巷，而被跟踪的人也在几小时后死亡。萨姆随即发现事情与女子
+的讲述大相径庭。重重谎言包裹下，事件的核心竟然是一只中世纪的皇家贡物“马耳他之
+鹰”。一群犯罪分子围绕着它展开了尔虞我 诈的争夺，暗偷明抢、连环骗术、金钱贿赂
+与美人计轮番上阵，萨姆将如何认清他们的真面目？
 
 
 ### <span class="org-todo todo TODO">TODO</span> 弗兰肯斯坦 {#弗兰肯斯坦}
@@ -1214,12 +1483,6 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 细节营销 {#细节营销}
 
 
-### <span class="org-todo todo TODO">TODO</span> 资本论 {#资本论}
-
-
-### <span class="org-todo todo TODO">TODO</span> 增长黑客 {#增长黑客}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 白板 {#白板}
 
 
@@ -1236,9 +1499,6 @@ transactions in general and to the settlement phase in particular.
 
 
 ### <span class="org-todo todo TODO">TODO</span> 巴比伦富翁的投资理财课 {#巴比伦富翁的投资理财课}
-
-
-### <span class="org-todo todo TODO">TODO</span> 从零开始读懂金融学 {#从零开始读懂金融学}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 白夜 {#白夜}
@@ -1418,9 +1678,6 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 以自己喜欢的方式过一生 {#以自己喜欢的方式过一生}
 
 
-### <span class="org-todo todo TODO">TODO</span> 香水 {#香水}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 乌合之众 {#乌合之众}
 
 
@@ -1446,9 +1703,6 @@ transactions in general and to the settlement phase in particular.
 
 
 ### <span class="org-todo todo TODO">TODO</span> 蒙田随笔 {#蒙田随笔}
-
-
-### <span class="org-todo todo TODO">TODO</span> 精益创业 {#精益创业}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 神们自己 {#神们自己}
@@ -1487,7 +1741,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 杀死一只知更鸟 {#杀死一只知更鸟}
 
 
-### <span class="org-todo todo TODO">TODO</span> 打造Facebook {#打造facebook}
+### <span class="org-todo todo TODO">TODO</span> 打造 Facebook {#打造-facebook}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 每当我找到生命的意义，它就又变了 {#每当我找到生命的意义-它就又变了}
@@ -1583,9 +1837,6 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 富爸爸穷爸爸 {#富爸爸穷爸爸}
 
 
-### <span class="org-todo todo TODO">TODO</span> 证券分析 {#证券分析}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 花朵的秘密生命 {#花朵的秘密生命}
 
 
@@ -1607,16 +1858,10 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 重新认识资本主义三部曲 {#重新认识资本主义三部曲}
 
 
-### <span class="org-todo todo TODO">TODO</span> 史记(第四册) {#史记--第四册}
-
-
-### <span class="org-todo todo TODO">TODO</span> 史记(第三册) {#史记--第三册}
+### <span class="org-todo todo TODO">TODO</span> 史记 {#史记}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 基业长青 {#基业长青}
-
-
-### <span class="org-todo todo TODO">TODO</span> 枪炮、病菌与钢铁 {#枪炮-病菌与钢铁}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 小岛经济学 {#小岛经济学}
@@ -1628,28 +1873,16 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 商业模式新生代 {#商业模式新生代}
 
 
-### <span class="org-todo todo TODO">TODO</span> 史记(第五册) {#史记--第五册}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 心理学 {#心理学}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 本书书名无法描述本书内容 {#本书书名无法描述本书内容}
 
 
-### <span class="org-todo todo TODO">TODO</span> 史记(第一册) {#史记--第一册}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 中国通史 {#中国通史}
 
 
-### <span class="org-todo todo TODO">TODO</span> 史记(第二册) {#史记--第二册}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 笛卡尔哲学原理 {#笛卡尔哲学原理}
-
-
-### <span class="org-todo todo TODO">TODO</span> 史记(第六册) {#史记--第六册}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 先发影响力 {#先发影响力}
@@ -1850,16 +2083,10 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 五味 {#五味}
 
 
-### <span class="org-todo todo TODO">TODO</span> 无缘社会 {#无缘社会}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 我所理解的生活 {#我所理解的生活}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 我想做一个能在你的葬礼上描述你一生的人 {#我想做一个能在你的葬礼上描述你一生的人}
-
-
-### <span class="org-todo todo TODO">TODO</span> 我与地坛 {#我与地坛}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 我的孤独是一座花园 {#我的孤独是一座花园}
@@ -1871,9 +2098,6 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 铁道之旅 {#铁道之旅}
 
 
-### <span class="org-todo todo TODO">TODO</span> 我承认我不曾历经沧桑 {#我承认我不曾历经沧桑}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 我曾悲伤地爱过这个世界 {#我曾悲伤地爱过这个世界}
 
 
@@ -1883,16 +2107,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 天生敏感 {#天生敏感}
 
 
-### <span class="org-todo todo TODO">TODO</span> 我是你爸爸 {#我是你爸爸}
-
-
-### <span class="org-todo todo TODO">TODO</span> 看上去很美 {#看上去很美}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 苏东坡全集 {#苏东坡全集}
-
-
-### <span class="org-todo todo TODO">TODO</span> 动物凶猛 {#动物凶猛}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 人生最美是清欢 {#人生最美是清欢}
@@ -1902,9 +2117,6 @@ transactions in general and to the settlement phase in particular.
 
 
 ### <span class="org-todo todo TODO">TODO</span> 亲爱的安德烈 {#亲爱的安德烈}
-
-
-### <span class="org-todo todo TODO">TODO</span> 苏东坡传 {#苏东坡传}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 撒哈拉的故事 {#撒哈拉的故事}
@@ -1988,9 +2200,6 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 小窗幽记 {#小窗幽记}
 
 
-### <span class="org-todo todo TODO">TODO</span> 浮生六记 {#浮生六记}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 红与黑 {#红与黑}
 
 
@@ -2021,13 +2230,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 思维的本质 {#思维的本质}
 
 
-### <span class="org-todo todo TODO">TODO</span> 一半是火焰，一半是海水 {#一半是火焰-一半是海水}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 基因社会 {#基因社会}
-
-
-### <span class="org-todo todo TODO">TODO</span> 规模与民主 {#规模与民主}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 漫步的艺术 {#漫步的艺术}
@@ -2039,7 +2242,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 无线网络安全攻防实战进阶 {#无线网络安全攻防实战进阶}
 
 
-### <span class="org-todo todo TODO">TODO</span> 尼伯龙根之歌：德国民间史诗 {#尼伯龙根之歌-德国民间史诗}
+### <span class="org-todo todo TODO">TODO</span> 尼伯龙根之歌 {#尼伯龙根之歌}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 实现模式 {#实现模式}
@@ -2048,7 +2251,10 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 你的灯亮着吗 {#你的灯亮着吗}
 
 
-### <span class="org-todo todo TODO">TODO</span> 寂静的春天+沙乡年鉴+瓦尔登湖） {#寂静的春天-plus-沙乡年鉴-plus-瓦尔登湖}
+### <span class="org-todo todo TODO">TODO</span> 沙乡年鉴 {#沙乡年鉴}
+
+
+### <span class="org-todo todo TODO">TODO</span> 寂静的春天 {#寂静的春天}
 
 
 ### <span class="org-todo todo TODO">TODO</span> Statistical Thinking for the 21st Century {#statistical-thinking-for-the-21st-century}
@@ -2060,10 +2266,10 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 从 0 到 1 {#从-0-到-1}
 
 
-### <span class="org-todo todo TODO">TODO</span> 经典短篇小说101篇 {#经典短篇小说101篇}
+### <span class="org-todo todo TODO">TODO</span> 经典短篇小说 101 篇 {#经典短篇小说-101-篇}
 
 
-### <span class="org-todo todo TODO">TODO</span> 异类:不一样的成功启示录 {#异类-不一样的成功启示录}
+### <span class="org-todo todo TODO">TODO</span> 异类 {#异类}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 国富论 {#国富论}
@@ -2075,28 +2281,19 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 上脑与下脑 {#上脑与下脑}
 
 
-### <span class="org-todo todo TODO">TODO</span> 魔鬼经济学1 {#魔鬼经济学1}
+### <span class="org-todo todo TODO">TODO</span> 魔鬼经济学 I {#魔鬼经济学-i}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 陈寅恪与傅斯年 {#陈寅恪与傅斯年}
 
 
-### <span class="org-todo todo TODO">TODO</span> The Swift Programming Language (Swift 5.2) {#the-swift-programming-language--swift-5-dot-2}
-
-
-### <span class="org-todo todo TODO">TODO</span> Swift Playgrounds: Learn to Code 1 & 2 {#swift-playgrounds-learn-to-code-1-and-2}
-
-
-### <span class="org-todo todo TODO">TODO</span> Intro to App Development with Swift {#intro-to-app-development-with-swift}
-
-
-### <span class="org-todo todo TODO">TODO</span> App Development with Swift {#app-development-with-swift}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 失控 {#失控}
 
 
-### <span class="org-todo todo TODO">TODO</span> 科技想要什么+必然 {#科技想要什么-plus-必然}
+### <span class="org-todo todo TODO">TODO</span> 科技想要什么 {#科技想要什么}
+
+
+### <span class="org-todo todo TODO">TODO</span> 必然 {#必然}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 一只特立独行的猪 {#一只特立独行的猪}
@@ -2135,13 +2332,13 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 最简单的图形与最复杂的信息 {#最简单的图形与最复杂的信息}
 
 
-### <span class="org-todo todo TODO">TODO</span> 写出我心：普通人如何通过写作表达自己 {#写出我心-普通人如何通过写作表达自己}
+### <span class="org-todo todo TODO">TODO</span> 写出我心 {#写出我心}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 史蒂夫·乔布斯传 {#史蒂夫-乔布斯传}
 
 
-### <span class="org-todo todo TODO">TODO</span> 启示录：打造用户喜爱的产品 {#启示录-打造用户喜爱的产品}
+### <span class="org-todo todo TODO">TODO</span> 启示录 {#启示录}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 图腾与禁忌 {#图腾与禁忌}
@@ -2150,7 +2347,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 太阳照样升起 {#太阳照样升起}
 
 
-### <span class="org-todo todo TODO">TODO</span> 存在主义咖啡馆：自由、存在和杏子鸡尾酒 {#存在主义咖啡馆-自由-存在和杏子鸡尾酒}
+### <span class="org-todo todo TODO">TODO</span> 存在主义咖啡馆 {#存在主义咖啡馆}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 学会提问 {#学会提问}
@@ -2168,7 +2365,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 心思大开 {#心思大开}
 
 
-### <span class="org-todo todo TODO">TODO</span> 当下的幸福：我们并非不快乐 {#当下的幸福-我们并非不快乐}
+### <span class="org-todo todo TODO">TODO</span> 当下的幸福乐 {#当下的幸福乐}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 心流 {#心流}
@@ -2252,7 +2449,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 聪明人是如何思考的 {#聪明人是如何思考的}
 
 
-### <span class="org-todo todo TODO">TODO</span> 莎士比亚全集（1-8卷） {#莎士比亚全集-1-8卷}
+### <span class="org-todo todo TODO">TODO</span> 莎士比亚全集 {#莎士比亚全集}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 自由 {#自由}
@@ -2285,7 +2482,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 语言本能 {#语言本能}
 
 
-### <span class="org-todo todo TODO">TODO</span> 说话的魅力:刘墉沟通秘笈 {#说话的魅力-刘墉沟通秘笈}
+### <span class="org-todo todo TODO">TODO</span> 说话的魅力 {#说话的魅力}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 谁是谷歌想要的人才 {#谁是谷歌想要的人才}
@@ -2411,9 +2608,6 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 手把手教你读财报 {#手把手教你读财报}
 
 
-### <span class="org-todo todo TODO">TODO</span> 当我谈跑步时,我谈些什么 {#当我谈跑步时-我谈些什么}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 神秘的量子生命 {#神秘的量子生命}
 
 
@@ -2450,7 +2644,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 十年一梦 {#十年一梦}
 
 
-### <span class="org-todo todo TODO">TODO</span> OKR工作法 {#okr工作法}
+### <span class="org-todo todo TODO">TODO</span> OKR 工作法 {#okr-工作法}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 权力 {#权力}
@@ -2459,7 +2653,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 经济学通识课 {#经济学通识课}
 
 
-### <span class="org-todo todo TODO">TODO</span> 领导力21法则 {#领导力21法则}
+### <span class="org-todo todo TODO">TODO</span> 领导力 21 法则 {#领导力-21-法则}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 鞋狗 {#鞋狗}
@@ -2510,7 +2704,7 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 如何让你爱的人爱上你 {#如何让你爱的人爱上你}
 
 
-### <span class="org-todo todo TODO">TODO</span> 明朝那些事儿-第1部 {#明朝那些事儿-第1部}
+### <span class="org-todo todo TODO">TODO</span> 明朝那些事儿 {#明朝那些事儿}
 
 
 ### <span class="org-todo todo TODO">TODO</span> The Complete Tales and Poems of Edgar Allan Poe {#the-complete-tales-and-poems-of-edgar-allan-poe}
@@ -2588,9 +2782,6 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 后疫情时代 {#后疫情时代}
 
 
-### <span class="org-todo todo TODO">TODO</span> 趣味生活简史 {#趣味生活简史}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 时间之书 {#时间之书}
 
 
@@ -2606,12 +2797,6 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 相约星期二 {#相约星期二}
 
 
-### <span class="org-todo todo TODO">TODO</span> 牛津通识读本：数学 {#牛津通识读本-数学}
-
-
-### <span class="org-todo todo TODO">TODO</span> 微积分(上) {#微积分--上}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 哲学·科学·常识 {#哲学-科学-常识}
 
 
@@ -2622,9 +2807,6 @@ transactions in general and to the settlement phase in particular.
 
 
 ### <span class="org-todo todo TODO">TODO</span> 被重置的人生 {#被重置的人生}
-
-
-### <span class="org-todo todo TODO">TODO</span> Beyond-the-basics-of-scaling-agile-white-paper {#beyond-the-basics-of-scaling-agile-white-paper}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 自我的追寻 {#自我的追寻}
@@ -2691,9 +2873,6 @@ transactions in general and to the settlement phase in particular.
 
 
 ### <span class="org-todo todo TODO">TODO</span> 掌控 {#掌控}
-
-
-### <span class="org-todo todo TODO">TODO</span> 注册会计师全国统一考试专用教材 {#注册会计师全国统一考试专用教材}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 反套路 {#反套路}
@@ -2792,67 +2971,178 @@ transactions in general and to the settlement phase in particular.
 ### <span class="org-todo todo TODO">TODO</span> 美妙的新世界 {#美妙的新世界}
 
 
-### <span class="org-todo todo TODO">TODO</span> 明朝那些事儿-第1部 {#明朝那些事儿-第1部}
-
-
 ### <span class="org-todo todo TODO">TODO</span> 卓有成效的管理者 {#卓有成效的管理者}
-
-
-### <span class="org-todo todo TODO">TODO</span> 生吞 {#生吞}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 趣味生活简史 {#趣味生活简史}
 
 
-### <span class="org-todo todo TODO">TODO</span> 湖畔 {#湖畔}
+### <span class="org-todo todo TODO">TODO</span> 嘿，小家伙 {#嘿-小家伙}
 
 
-### <span class="org-todo todo TODO">TODO</span> 数学分析八讲 {#数学分析八讲}
+### <span class="org-todo todo TODO">TODO</span> 春风十里不如你 {#春风十里不如你}
 
 
-### <span class="org-todo todo TODO">TODO</span> 张岪与木心 {#张岪与木心}
+### <span class="org-todo todo TODO">TODO</span> 谷歌和亚马逊如何做产品 {#谷歌和亚马逊如何做产品}
 
 
-### <span class="org-todo todo TODO">TODO</span> 此生未完成 {#此生未完成}
+### <span class="org-todo todo TODO">TODO</span> 单身社会 {#单身社会}
 
 
-### <span class="org-todo todo TODO">TODO</span> 云边有个小卖部 {#云边有个小卖部}
+### <span class="org-todo todo TODO">TODO</span> 肠子 {#肠子}
 
 
-### <span class="org-todo todo TODO">TODO</span> 道德经说什么 {#道德经说什么}
+### <span class="org-todo todo TODO">TODO</span> 沉思录 {#沉思录}
 
 
-### <span class="org-todo todo TODO">TODO</span> 圆圈正义 {#圆圈正义}
+### <span class="org-todo todo TODO">TODO</span> 面纱 {#面纱}
 
 
-### <span class="org-todo todo TODO">TODO</span> 深度学习 1：应用数学与机器学习基础 {#深度学习-1-应用数学与机器学习基础}
+### <span class="org-todo todo TODO">TODO</span> 告白 {#告白}
 
 
-### <span class="org-todo todo TODO">TODO</span> ABC 谋杀案 {#abc-谋杀案}
+### <span class="org-todo todo TODO">TODO</span> 活出心花怒放的人生 {#活出心花怒放的人生}
 
 
-### <span class="org-todo todo TODO">TODO</span> 罗杰疑案 {#罗杰疑案}
+### <span class="org-todo todo TODO">TODO</span> 内向者沟通圣经 {#内向者沟通圣经}
 
 
-### <span class="org-todo todo TODO">TODO</span> 把时间当作朋友 {#把时间当作朋友}
+### <span class="org-todo todo TODO">TODO</span> 活出生命的意义 {#活出生命的意义}
 
 
-### <span class="org-todo todo TODO">TODO</span> 天朝的崩溃 {#天朝的崩溃}
+### <span class="org-todo todo TODO">TODO</span> 回归故里 {#回归故里}
 
 
-### <span class="org-todo todo TODO">TODO</span> 大雪将至 {#大雪将至}
+### <span class="org-todo todo TODO">TODO</span> 男人这东西 {#男人这东西}
 
 
-### <span class="org-todo todo TODO">TODO</span> 时间之书 {#时间之书}
+### <span class="org-todo todo TODO">TODO</span> 知乎周刊・ 脑洞大开！奇奇怪怪问题们 {#知乎周刊-脑洞大开-奇奇怪怪问题们}
 
 
-### <span class="org-todo todo TODO">TODO</span> 后疫情时代 {#后疫情时代}
+### <span class="org-todo todo TODO">TODO</span> 亲密关系 {#亲密关系}
 
 
-### <span class="org-todo todo TODO">TODO</span> 一生的远行 {#一生的远行}
+### <span class="org-todo todo TODO">TODO</span> 天国之秋 {#天国之秋}
 
 
-### <span class="org-todo todo TODO">TODO</span> 统计学习方法 {#统计学习方法}
+### <span class="org-todo todo TODO">TODO</span> 认知觉醒 {#认知觉醒}
 
 
-### <span class="org-todo todo TODO">TODO</span> 爱情笔记 {#爱情笔记}
+### <span class="org-todo todo TODO">TODO</span> 闪灵 {#闪灵}
+
+
+### <span class="org-todo todo TODO">TODO</span> 你的夏天还好吗 {#你的夏天还好吗}
+
+
+### <span class="org-todo todo TODO">TODO</span> 推理要在本格前 {#推理要在本格前}
+
+
+### <span class="org-todo todo TODO">TODO</span> 弃猫 {#弃猫}
+
+
+### <span class="org-todo todo TODO">TODO</span> 如何不喜欢一个人 {#如何不喜欢一个人}
+
+
+### <span class="org-todo todo TODO">TODO</span> 我不是教你诈 {#我不是教你诈}
+
+
+### <span class="org-todo todo TODO">TODO</span> 天上再见 {#天上再见}
+
+
+### <span class="org-todo todo TODO">TODO</span> 如何学习 {#如何学习}
+
+
+### <span class="org-todo todo TODO">TODO</span> 周期 {#周期}
+
+
+### <span class="org-todo todo TODO">TODO</span> 自我边界 {#自我边界}
+
+
+### <span class="org-todo todo TODO">TODO</span> 微习惯·瘦身篇 {#微习惯-瘦身篇}
+
+
+### <span class="org-todo todo TODO">TODO</span> 银河系边缘的小失常 {#银河系边缘的小失常}
+
+
+### <span class="org-todo todo TODO">TODO</span> 看人的艺术 {#看人的艺术}
+
+
+### <span class="org-todo todo TODO">TODO</span> 一生的旅程 {#一生的旅程}
+
+
+### <span class="org-todo todo TODO">TODO</span> 苏世民:我的经验与教训 {#苏世民-我的经验与教训}
+
+
+### <span class="org-todo todo TODO">TODO</span> 昨日的世界 {#昨日的世界}
+
+
+### <span class="org-todo todo TODO">TODO</span> 新参者 {#新参者}
+
+
+### <span class="org-todo todo TODO">TODO</span> 向上生长 {#向上生长}
+
+
+### <span class="org-todo todo TODO">TODO</span> 债务危机 {#债务危机}
+
+
+### <span class="org-todo todo TODO">TODO</span> 对赌 {#对赌}
+
+
+### <span class="org-todo todo TODO">TODO</span> 富人思维 {#富人思维}
+
+
+### <span class="org-todo todo TODO">TODO</span> 思维的发现 {#思维的发现}
+
+
+### <span class="org-todo todo TODO">TODO</span> 助推 {#助推}
+
+
+### <span class="org-todo todo TODO">TODO</span> 普林斯顿微积分读本 {#普林斯顿微积分读本}
+
+
+### <span class="org-todo todo TODO">TODO</span> UNIX环境高级编程(第3版) {#unix环境高级编程--第3版}
+
+
+### <span class="org-todo todo TODO">TODO</span> UNIX网络编程 卷1 套接字联网API（第3版） {#unix网络编程-卷1-套接字联网api-第3版}
+
+
+### <span class="org-todo todo TODO">TODO</span> 俞军产品方法论 {#俞军产品方法论}
+
+
+### <span class="org-todo todo TODO">TODO</span> Web Form Design: Filling in the Blanks {#web-form-design-filling-in-the-blanks}
+
+
+### <span class="org-todo todo TODO">TODO</span> Accessibility for Everyone {#accessibility-for-everyone}
+
+
+### <span class="org-todo todo TODO">TODO</span> Empowered Ordinary People, Extraordinary Products by Marty Cagan and Chris Jones {#empowered-ordinary-people-extraordinary-products-by-marty-cagan-and-chris-jones}
+
+
+### <span class="org-todo todo TODO">TODO</span> 实证经济学论文集 {#实证经济学论文集}
+
+
+### <span class="org-todo todo TODO">TODO</span> 微积分(上) {#微积分--上}
+
+
+### <span class="org-todo todo TODO">TODO</span> 牛津通识读本：数学 {#牛津通识读本-数学}
+
+
+### <span class="org-todo todo TODO">TODO</span> Python 高手进阶之路 {#python-高手进阶之路}
+
+
+### <span class="org-todo todo TODO">TODO</span> 用 Python 学微积分 {#用-python-学微积分}
+
+
+### <span class="org-todo todo TODO">TODO</span> 网络是怎样连接的 {#网络是怎样连接的}
+
+
+### <span class="org-todo todo TODO">TODO</span> 非对称风险 {#非对称风险}
+
+
+### <span class="org-todo todo TODO">TODO</span> 麻省理工深度思考法 {#麻省理工深度思考法}
+
+
+### <span class="org-todo todo TODO">TODO</span> 见识 {#见识}
+
+
+### <span class="org-todo todo TODO">TODO</span> 你当像鸟飞往你的山 {#你当像鸟飞往你的山}
