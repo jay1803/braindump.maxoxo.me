@@ -9,6 +9,7 @@ body {
   line-height: 1.4;
   width: 100%;
   height: 100%;
+  margin: 0;
 }
 
 @supports (font-variation-settings: normal) {
@@ -66,11 +67,17 @@ header {
 .site-title {
   padding: 0;
   margin: 0;
+  line-height: 36px;
+  display: inline-block;
+  padding-left: 5px;
 }
 
 #logo {
-  display: inline-block;
-  margin: 5px;
+  display: flex;
+  padding: 4px;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
 }
 
 #logo svg {
@@ -234,7 +241,6 @@ dt + dt + dd {
   header {
     border-right-width: 0;
     border-bottom-width: 1px;
-    padding: 10px 30px;
   }
 
   #logo {
