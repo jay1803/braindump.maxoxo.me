@@ -1,5 +1,5 @@
 +++
-title = "Demand Curve"
+title = "Absolute Advantage"
 author = ["Max"]
 draft = false
 +++

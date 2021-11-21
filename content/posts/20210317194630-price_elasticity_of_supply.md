@@ -1,5 +1,5 @@
 +++
-title = "Demand Curve"
+title = "Price Elasticity of Supply"
 author = ["Max"]
 draft = false
 +++

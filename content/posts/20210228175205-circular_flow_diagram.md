@@ -1,5 +1,5 @@
 +++
-title = "Demand Curve"
+title = "Circular-flow Diagram"
 author = ["Max"]
 draft = false
 +++

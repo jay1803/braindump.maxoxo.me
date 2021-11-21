@@ -1,5 +1,5 @@
 +++
-title = "Demand Curve"
+title = "Organizational Behavior"
 author = ["Max"]
 draft = false
 +++

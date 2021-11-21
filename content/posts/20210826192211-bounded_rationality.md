@@ -1,5 +1,5 @@
 +++
-title = "Demand Curve"
+title = "Bounded Rationality"
 author = ["Max"]
 draft = false
 +++

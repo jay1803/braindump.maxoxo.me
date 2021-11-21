@@ -1,5 +1,5 @@
 +++
-title = "Demand Curve"
+title = "Risk, Uncertainty and Profit"
 author = ["Max"]
 draft = false
 +++
