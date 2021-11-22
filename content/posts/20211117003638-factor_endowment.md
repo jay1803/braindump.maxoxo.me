@@ -1,5 +1,5 @@
 +++
-title = "Demand Curve"
+title = "Factor Endowment"
 author = ["Max"]
 draft = false
 +++

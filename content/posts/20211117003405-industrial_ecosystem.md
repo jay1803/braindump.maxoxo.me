@@ -1,5 +1,5 @@
 +++
-title = "Demand Curve"
+title = "Industrial Ecosystem"
 author = ["Max"]
 draft = false
 +++
