@@ -180,7 +180,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 
 化自我的成长，再现了他们那一代人的集体无意识。
 
 
-### 2021<code>[29/59]</code> {#2021}
+### 2021<code>[30/66]</code> {#2021}
 
 
 #### <span class="org-todo done DONE">DONE</span> 我承认我不曾经历沧桑 {#我承认我不曾经历沧桑}
@@ -457,6 +457,16 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 确地估计“公平价格”，反而受到无意识、不理性、政治等不正确因素的强烈影响。
 
 
+#### <span class="org-todo todo DOING">DOING</span> 鲜花盛开的森林 {#鲜花盛开的森林}
+
+《鲜花盛开的森林》是一部由三岛由纪夫生前亲自编选的短篇小说集，收录了各时期短
+篇小说代表作13篇，有关三岛由纪夫一生的文学主题和现实问题的萌芽都蕴含其中。包
+括写于16岁的成名之作《鲜花盛开的森林》，美学极致之作《远乘会》《海和晚霞》，
+川端康成最喜欢的《旦角》，以及展现武士精神的、悲歌高亢的晚年作品《忧国》，呈
+现了三岛由纪夫创作生涯各个时期的作品形态，结构精妙，经典耐读，彰显日本文学及
+三岛由纪夫的独特美学。
+
+
 #### <span class="org-todo todo TODO">TODO</span> 生命是什么 {#生命是什么}
 
 作者在书中致力于将生物学与量子力学协调起来，尽管写于1944年，但书中关于生命、
@@ -464,6 +474,14 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 内容为分子生物学的诞生和DNA的发现作了概念上的准备，对于希望了解生命起源理论
 的读者来说，本书无疑是最好的选择之一。薛定谔以一种令人放松和愉悦的文笔引领读
 者探索生命这一令人望而生畏的主题，内容深刻而有趣，极具启发性。
+
+
+#### <span class="org-todo todo TODO">TODO</span> 梯次增长 {#梯次增长}
+
+深度揭秘在面对新物种、新商业、新颠覆者不断涌现的市场环境中，微软、微软、
+Salesforce等企业如何走出商业和产品周期的危机，如何寻找新的业务和利润增长点。
+作者提出了一套关于产品创新、业务组合、商业执行、企业管理等系统而又完整的工具
+和方法论，从而帮助企业不断走向新的成功。
 
 
 #### <span class="org-todo todo TODO">TODO</span> 查理·芒格的原则 {#查理-芒格的原则}
@@ -513,14 +531,6 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 功赢得实用主义者的支持，就决定了一项高科技产品的成败。实际上每项新技术都会经
 历鸿沟。关键在予采取适当的策略令高科技企业成功地“跨越鸿沟”，摩尔在这本书中就
 告诉了人们一些欠经考验的制胜秘诀。
-
-
-#### <span class="org-todo todo TODO">TODO</span> 梯次增长 {#梯次增长}
-
-深度揭秘在面对新物种、新商业、新颠覆者不断涌现的市场环境中，微软、微软、
-Salesforce等企业如何走出商业和产品周期的危机，如何寻找新的业务和利润增长点。
-作者提出了一套关于产品创新、业务组合、商业执行、企业管理等系统而又完整的工具
-和方法论，从而帮助企业不断走向新的成功。
 
 
 #### <span class="org-todo todo TODO">TODO</span> 赢 {#赢}
@@ -581,6 +591,23 @@ Salesforce等企业如何走出商业和产品周期的危机，如何寻找新�
 活在此时此刻，所有的一切都是在当下发生的，而过去和未来只是一个无意义的时间概
 念。通过向当下的臣服，你才能找到真正的力量，找到获得平和与宁静的入口。在那里，
 我们能找到真正的欢乐，我们能拥抱真正的自我。
+
+
+#### <span class="org-todo done DONE">DONE</span> 增长五线：数字化时代的企业增长地图 {#增长五线-数字化时代的企业增长地图}
+
+在这本书中，王赛博士从当下企业的增长现实困境出发，提出了以增长五线为核心的新
+增长理论，通过对企业所在发展阶段的详尽剖析，结合鲜活的案例，为不同增长态势的
+企业提供全新的增长路径设计，使企业结合自身的实际情况，完成有质量的增长，为企
+业的长远发展与基业长青奠定基础。
+
+
+#### <span class="org-todo todo DOING">DOING</span> 增长结构 {#增长结构}
+
+本书作者王赛基于15年的增长战略咨询经验和70多家知名企业实操案例，沿着“增长五线”
+的脉络，以“结构”为中心，通过对企业增长进行解剖，从更微观的视角找到影响企业增长
+的动态因素，指导不同条件下的企业去调整自身的要素组合结构，构建起业务、客户、竞
+争、差异化、不对称、合作和价值七大子结构和增长图谱，从而在不确定时代中建立企业
+增长的结构底牌，让企业的增长趋向稳定、可持续，为企业长远发展与基业长青奠定基础。
 
 
 #### <span class="org-todo todo TODO">TODO</span> 为什么 {#为什么}
@@ -683,7 +710,40 @@ investigate the age-old question of how to go on when everything seems lost.
 它很懒惰，经常走捷径，直接采纳系统1的直觉型判断结果。
 
 
-## BOOKSHELF<code>[0/97]</code> {#bookshelf}
+#### <span class="org-todo todo TODO">TODO</span> 2001 太空漫游 {#2001-太空漫游}
+
+一块神秘的黑色石板，出现在非洲丰饶广袤的草原上。没有人知道是谁放在那里的，因
+为那里根本没有“人”。但地球未来的主宰者，却从此踏上了他们漫长的征途。300万年后
+的一个寻常日子，一块黑色石板在月球上被人类挖出。
+
+
+#### <span class="org-todo todo DOING">DOING</span> 拉新：快速实现用户增长 {#拉新-快速实现用户增长}
+
+运营大师加布里埃尔·温伯格，在创立鸭鸭搜索时，难以实现用户增长。通过与40多个超
+级产品的创始人和核心运营者的深度交流，他发现了快速获取新用户的各种运营手段，并
+将其完善为一套3个步骤和19种渠道的拉新指南。通过持续拉新，温伯格使鸭鸭搜索以10
+倍的增长率连续增长了5年，成功抢占了谷歌、微软等行业巨头的用户资源。目前，鸭鸭
+搜索平均日活达3437万，月访问量超过10亿次，跻身 “全球百大网站”之列。
+
+
+#### <span class="org-todo todo DOING">DOING</span> 沟通的方法 {#沟通的方法}
+
+这是脱不花“自我追问”出来的一本书——书里有她早年作为管理咨询顾问，跟大企业家提案
+的经验；有她在得到App日常管理中，和同事、老师、客户积极协调的事例；更有她牵头
+的教研团队收集的，来自一线的大量真实沟通需求和实践。真学实练，助力你在沟通的无
+限游戏中一往无前。
+
+
+#### <span class="org-todo todo DOING">DOING</span> The Cold Start Problem {#the-cold-start-problem}
+
+A venture capitalist draws on expertise developed at the premier venture
+capital firm, Andreessen Horowitz, and as an executive at Uber to address how
+tech’s most successful products have solved the dreaded "cold start
+problem”—by leveraging networks effects to launch and scale towards billions
+of users.
+
+
+## BOOKSHELF<code>[0/96]</code> {#bookshelf}
 
 
 ### <span class="org-todo todo TODO">TODO</span> 战胜华尔街 {#战胜华尔街}
@@ -1129,13 +1189,6 @@ transactions in general and to the settlement phase in particular.
 道德观。
 
 
-### <span class="org-todo todo TODO">TODO</span> 2001 太空漫游 {#2001-太空漫游}
-
-一块神秘的黑色石板，出现在非洲丰饶广袤的草原上。没有人知道是谁放在那里的，因
-为那里根本没有“人”。但地球未来的主宰者，却从此踏上了他们漫长的征途。300万年后
-的一个寻常日子，一块黑色石板在月球上被人类挖出。
-
-
 ### <span class="org-todo todo TODO">TODO</span> 老人与海 {#老人与海}
 
 本书讲述了一个渔夫的故事。古巴老渔夫圣地亚哥在连续八十四天没捕到鱼的情况下，
@@ -1428,14 +1481,6 @@ environment.
 在《增长的本质》这本书中，伊达尔戈结合经济增长以及物理学这两个看似分离的领域，
 提出了经济增长的新理论。复杂产品（从企业到机器人，应用程序到汽车）是经济知识
 的物理升华，是一个对其教育、基础设施和能力的可衡量体现。
-
-
-### <span class="org-todo todo TODO">TODO</span> 增长五线：数字化时代的企业增长地图 {#增长五线-数字化时代的企业增长地图}
-
-在这本书中，王赛博士从当下企业的增长现实困境出发，提出了以增长五线为核心的新
-增长理论，通过对企业所在发展阶段的详尽剖析，结合鲜活的案例，为不同增长态势的
-企业提供全新的增长路径设计，使企业结合自身的实际情况，完成有质量的增长，为企
-业的长远发展与基业长青奠定基础。
 
 
 ### <span class="org-todo todo TODO">TODO</span> 风险、不确定性与利润 {#风险-不确定性与利润}
