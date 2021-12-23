@@ -1,6 +1,6 @@
 +++
 title = "Operating Expenses"
-author = ["Max"]
+author = ["Max Zhang"]
 draft = false
 +++
 
