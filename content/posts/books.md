@@ -180,7 +180,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 
 化自我的成长，再现了他们那一代人的集体无意识。
 
 
-### 2021<code>[30/66]</code> {#2021}
+### 2021<code>[31/66]</code> {#2021}
 
 
 #### <span class="org-todo done DONE">DONE</span> 我承认我不曾经历沧桑 {#我承认我不曾经历沧桑}
@@ -445,6 +445,16 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 业的长远发展与基业长青奠定基础。
 
 
+#### <span class="org-todo done DONE">DONE</span> 鲜花盛开的森林 {#鲜花盛开的森林}
+
+《鲜花盛开的森林》是一部由三岛由纪夫生前亲自编选的短篇小说集，收录了各时期短
+篇小说代表作13篇，有关三岛由纪夫一生的文学主题和现实问题的萌芽都蕴含其中。包
+括写于16岁的成名之作《鲜花盛开的森林》，美学极致之作《远乘会》《海和晚霞》，
+川端康成最喜欢的《旦角》，以及展现武士精神的、悲歌高亢的晚年作品《忧国》，呈
+现了三岛由纪夫创作生涯各个时期的作品形态，结构精妙，经典耐读，彰显日本文学及
+三岛由纪夫的独特美学。
+
+
 #### <span class="org-todo todo DOING">DOING</span> 增长结构 {#增长结构}
 
 本书作者王赛基于15年的增长战略咨询经验和70多家知名企业实操案例，沿着“增长五线”
@@ -568,16 +578,6 @@ capital firm, Andreessen Horowitz, and as an executive at Uber to address how
 tech’s most successful products have solved the dreaded "cold start
 problem”—by leveraging networks effects to launch and scale towards billions
 of users.
-
-
-#### <span class="org-todo todo DOING">DOING</span> 鲜花盛开的森林 {#鲜花盛开的森林}
-
-《鲜花盛开的森林》是一部由三岛由纪夫生前亲自编选的短篇小说集，收录了各时期短
-篇小说代表作13篇，有关三岛由纪夫一生的文学主题和现实问题的萌芽都蕴含其中。包
-括写于16岁的成名之作《鲜花盛开的森林》，美学极致之作《远乘会》《海和晚霞》，
-川端康成最喜欢的《旦角》，以及展现武士精神的、悲歌高亢的晚年作品《忧国》，呈
-现了三岛由纪夫创作生涯各个时期的作品形态，结构精妙，经典耐读，彰显日本文学及
-三岛由纪夫的独特美学。
 
 
 #### <span class="org-todo todo TODO">TODO</span> 生命是什么 {#生命是什么}
