@@ -1,6 +1,6 @@
 +++
 title = "Value Proposition"
-author = ["Max"]
+author = ["Max Zhang"]
 draft = false
 +++
 

@@ -1,6 +1,6 @@
 +++
 title = "Accelerate Your Startup: Tuning the Engine"
-author = ["Max"]
+author = ["Max Zhang"]
 draft = false
 +++
 
