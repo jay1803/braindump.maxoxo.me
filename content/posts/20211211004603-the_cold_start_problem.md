@@ -1,6 +1,6 @@
 +++
 title = "The Cold Start Problem"
-author = ["Max Zhang"]
+author = ["Max"]
 draft = false
 +++
 
@@ -20,7 +20,7 @@ draft = false
 
 #### The Definitive Guide to Network Effects {#the-definitive-guide-to-network-effects}
 
-[The Cold Start Problem](#org7ca091b) is the culmination of hundreds of interviews, three years
+[The Cold Start Problem](#org07213a9) is the culmination of hundreds of interviews, three years
 of research and synthesis, and nearly two decades of experience as an investor
 and operator. It takes much of the knowledge and core concepts swirling inside
 the technology industry and frames them in the context of the beginning, middle,
@@ -67,7 +67,7 @@ fierce, copycats abound, and marketing channels are ineffective.
 
 #### [Metcalfe's Law]({{<relref "20211230125549-metcalfe_s_law.md#" >}}) {#metcalfe-s-law--20211230125549-metcalfe-s-law-dot-md}
 
-<a id="org602eb31">Metcalfe's Law</a>
+<a id="org2824f49">Metcalfe's Law</a>
  The law is defined below: The systemic value of compatibly communicating
  devices grows as a square of their number.
 
@@ -96,7 +96,7 @@ sort of ecological version of the network effect.
 As the population increases, eventually there is a natural limit based on the
 environment—often called a carrying capacity. For social animals like meerkats
 and goldfish, overpopulation looks like this, starting flat, then hitting a
-[tipping point](#orge9a41cd) before growing quickly and then saturating and falling once again:
+[tipping point](#orgfb5fd62) before growing quickly and then saturating and falling once again:
 
 
 #### When Populations (and Networks) Collapse {#when-populations--and-networks--collapse}
@@ -108,7 +108,7 @@ and goldfish, overpopulation looks like this, starting flat, then hitting a
 #### Meerkat’s Law versus Metcalfe’s Law {#meerkat-s-law-versus-metcalfe-s-law}
 
 While the terms are different, the core concepts and the math are the same: The
-Allee effect → The Network Effect Allee Threshold → [Tipping Point](#orge9a41cd) Carrying
+Allee effect → The Network Effect Allee Threshold → [Tipping Point](#orgfb5fd62) Carrying
 capacity → Saturation
 
 
@@ -122,27 +122,27 @@ stage in building network effects.
 
 There are five primary stages:
 
-1.  [The Cold Start Problem](#org7ca091b)
-2.  [Tipping Point](#orge9a41cd)
-3.  [Escape Velocity](#org16c130f)
-4.  [Hitting the Ceiling](#org5c7dbbe)
-5.  [The Moat](#orgf6434c3)
+1.  [The Cold Start Problem](#org07213a9)
+2.  [Tipping Point](#orgfb5fd62)
+3.  [Escape Velocity](#org9431ed9)
+4.  [Hitting the Ceiling](#org55aa2bb)
+5.  [The Moat](#org67d696e)
 
 
-#### 1. [The Cold Start Problem](#org7ca091b) {#1-dot}
+#### 1. [The Cold Start Problem](#org07213a9) {#1-dot}
 
-<a id="org7ca091b">The Cold Start Problem</a>
-Solving [the Cold Start Problem](#org7ca091b) requires getting all the right users and content
+<a id="org07213a9">The Cold Start Problem</a>
+Solving [the Cold Start Problem](#org07213a9) requires getting all the right users and content
 on the same network at the same time—which is difficult to execute in a launch.
 
-<a id="org6ddbd91">Atomic Network</a> [Atomic Network]({{<relref "20211230134314-atomic_network.md#" >}})
-focuses on building an “[atomic network](#org6ddbd91)”—that is, the smallest possible network
+<a id="org76c884f">Atomic Network</a> [Atomic Network]({{<relref "20211230134314-atomic_network.md#" >}})
+focuses on building an “[atomic network](#org76c884f)”—that is, the smallest possible network
 that is stable and can grow on its own.
 
 
-#### 2. [Tipping Point](#orge9a41cd) {#2-dot}
+#### 2. [Tipping Point](#orgfb5fd62) {#2-dot}
 
-<a id="orge9a41cd">Tipping Point</a>
+<a id="orgfb5fd62">Tipping Point</a>
 as a network grows, each new network starts to tip faster and faster, so that
 the entire market is more easily captured.
 
@@ -150,10 +150,11 @@ To win a market, it’s important to build many, many more networks to expand in
 the market.
 
 
-#### 3. [Escape Velocity](#org16c130f) {#3-dot}
+#### 3. [Escape Velocity](#org9431ed9) {#3-dot}
 
-<a id="org16c130f">Escape Velocity</a>
-The [Escape Velocity](#org16c130f) stage is all about working furiously to strengthen network
+<a id="org9431ed9">Escape Velocity</a>
+The [Escape Velocity](#org9431ed9) stage is all about working
+furiously to strengthen network
 effects and to sustain growth.
 
 the Engagement Effect, which increases interaction between users as networks fill in
@@ -166,16 +167,16 @@ underlying forces: the Acquisition Effect, which lets products tap into the
 network to drive low-cost, highly efficient user acquisition via viral growth
 
 
-#### 4. [Hitting the Ceiling](#org5c7dbbe) {#4-dot}
+#### 4. [Hitting the Ceiling](#org55aa2bb) {#4-dot}
 
-<a id="org5c7dbbe">Hitting the Ceiling</a>
+<a id="org55aa2bb">Hitting the Ceiling</a>
 This is driven by a variety of forces, starting with customer acquisition costs
 that often spike due to market saturation, and as viral growth slows down
 
 
-#### 5. [The Moat](#orgf6434c3) {#5-dot}
+#### 5. [The Moat](#org67d696e) {#5-dot}
 
-<a id="orgf6434c3">The Moat</a>
+<a id="org67d696e">The Moat</a>
 The final stage of the framework focuses on using network effects to fend off
 competitors, which is often the focus as the network and product matures.
 
@@ -199,7 +200,7 @@ Religion is a network. A corporation is a network. Roads are a network.
 Electricity is a network.
 
 
-## Part II: [The Cold Start Problem](#org7ca091b) {#part-ii}
+## Part II: [The Cold Start Problem](#org07213a9) {#part-ii}
 
 
 ### 4. Tiny Speck {#4-dot-tiny-speck}
@@ -211,7 +212,7 @@ The second step was a private beta-testing period with friends of the company,
 where Stewart would personally reach out, try to get them to use Slack, and
 iterate to add features and improve the experience.
 
-Each of these beta customers formed an [atomic network](#org6ddbd91)—a stable, self-sustaining
+Each of these beta customers formed an [atomic network](#org76c884f)—a stable, self-sustaining
 group of users who can drive a network effect
 
 
@@ -222,7 +223,7 @@ opposite.
 
 because when people show up to a product and none of their friends or coworkers
 are using it, they will naturally leave. What solves this? “The [Atomic
-Network](#org6ddbd91)”—the smallest network where there are enough people that everyone will
+Network](#org76c884f)”—the smallest network where there are enough people that everyone will
 stick around
 
 These networks often have “sides,” whether they are buyers and sellers, or
@@ -234,17 +235,17 @@ doing most of the work within the community
 To attract the hard side, you need to “Solve a Hard Problem”—design a product
 that is sufficiently compelling to the key subset of your network
 
-When [the Cold Start Problem](#org7ca091b) is solved, a product is able to consistently create
+When [the Cold Start Problem](#org07213a9) is solved, a product is able to consistently create
 “Magic Moments.” Users open the product and find a network that is built out,
 meaning they can generally find whoever and whatever they’re looking for. The
-network effects kick in, and the market hits its [Tipping Point](#orge9a41cd) as users start
+network effects kick in, and the market hits its [Tipping Point](#orgfb5fd62) as users start
 coming to you.
 
 
-### 5. [Anti-Network Effects](#org7e7419c) {#5-dot}
+### 5. [Anti-Network Effects](#orgd9743f8) {#5-dot}
 
-<a id="org7e7419c">Anti-Network Effects</a> [Anti-Network Effect]({{<relref "20211230131646-anti_network_effect.md#" >}})
-[Anti-network effects](#org7e7419c) are the negative force that drives new networks to zero.
+<a id="orgd9743f8">Anti-Network Effects</a> [Anti-Network Effect]({{<relref "20211230131646-anti_network_effect.md#" >}})
+[Anti-network effects](#orgd9743f8) are the negative force that drives new networks to zero.
 
 For Slack, it doesn’t make sense to use the product until your colleagues are
 also on the platform. For Uber, you can’t use the service until there are
@@ -293,20 +294,20 @@ and require a much bigger effort to get started. The size of an initial network
 helps determine a launch strategy.
 
 
-#### The Antidote to [the Cold Start Problem](#org7ca091b) {#the-antidote-to}
+#### The Antidote to [the Cold Start Problem](#org07213a9) {#the-antidote-to}
 
-Solving [the Cold Start Problem](#org7ca091b) requires a team to launch a network and quickly
+Solving [the Cold Start Problem](#org07213a9) requires a team to launch a network and quickly
 create enough density and breadth such that the user experience can improve in
 leaps and bounds
 
 Density and interconnectedness is key.
 
-The solution to [the Cold Start Problem](#org7ca091b) starts by understanding how to add a
+The solution to [the Cold Start Problem](#org07213a9) starts by understanding how to add a
 small group of the right people, at the same time, using the product in the
 right way
 
 
-### 6. The [Atomic Network](#org6ddbd91)—Credit Cards {#6-dot-the-credit-cards}
+### 6. The [Atomic Network](#org76c884f)—Credit Cards {#6-dot-the-credit-cards}
 
 For companies like Uber that exist both offline and online, it might seem
 obvious that a city-by-city approach is the right strategy. But there’s a
@@ -322,10 +323,10 @@ they aggregate consumers, merchants, and other financial institutions as a
 multi-sided network
 
 
-#### The [Atomic Network](#org6ddbd91) {#the}
+#### The [Atomic Network](#org76c884f) {#the}
 
 It needs to have enough density and stability to break through early
-[anti-network effects](#org7e7419c), and ultimately grow on its own
+[anti-network effects](#orgd9743f8), and ultimately grow on its own
 
 Many of them are counterintuitive: The networked product should be launched in
 its simplest possible form—not fully featured—so that it has a dead simple value
@@ -340,11 +341,11 @@ appropriately, “The next big thing will start out looking like a toy.”
 The next big thing will start out looking like it’s for a niche network.
 
 
-#### Picking Your [Atomic Network](#org6ddbd91) {#picking-your}
+#### Picking Your [Atomic Network](#org76c884f) {#picking-your}
 
 maybe on the order of hundreds of people, at a specific moment in time.
 
-My advice: Your product’s first [atomic network](#org6ddbd91) is probably smaller and more
+My advice: Your product’s first [atomic network](#org76c884f) is probably smaller and more
 specific than you think.
 
 The general managers and Driver Operations had an internal tool, called
@@ -399,7 +400,7 @@ actively, and actually author content whether starting a thread or responding to
 a thread-in-progress 100% of the user population benefits from the activities of
 the above groups (lurkers)
 
-<a id="orgd490d9c">1/10/100 rule</a> [1-10-100 Rule]({{<relref "20211230135106-1_10_100_rule.md#" >}})
+<a id="orgd812467">1/10/100 rule</a> [1-10-100 Rule]({{<relref "20211230135106-1_10_100_rule.md#" >}})
 the 1 percent of highly engaged users is extremely valuable.
 
 there is a “power law” curve where the 20 percent of top influencers and content
@@ -473,7 +474,7 @@ needs are unaddressed? The answer is to look at hobbies and side hustles.
 What people are doing on their nights and weekends represents all the
 underutilized time and energy in the world.
 
-But once an [atomic network](#org6ddbd91) is established, the hard side of the network is
+But once an [atomic network](#org76c884f) is established, the hard side of the network is
 willing to extend their offerings and services to go into the next vertical.
 
 
@@ -505,12 +506,12 @@ magic in its early days.
 #### The Opposite of the Magic Moment {#the-opposite-of-the-magic-moment}
 
 
-#### After [the Cold Start Problem](#org7ca091b) {#after}
+#### After [the Cold Start Problem](#org07213a9) {#after}
 
 
-## Part III: The [Tipping Point](#orge9a41cd) {#part-iii-the}
+## Part III: The [Tipping Point](#orgfb5fd62) {#part-iii-the}
 
-“[Tipping Point](#orge9a41cd),” when a product can quickly grow to take over the whole market.
+“[Tipping Point](#orgfb5fd62),” when a product can quickly grow to take over the whole market.
 
 
 ### 11. [Tinder]({{<relref "20211230135552-tinder.md#" >}}) {#11-dot-tinder--20211230135552-tinder-dot-md}
@@ -518,11 +519,11 @@ magic in its early days.
 
 #### USC Campus, 2012 {#usc-campus-2012}
 
-The [Tinder]({{<relref "20211230135552-tinder.md#" >}}) team built one [atomic network](#org6ddbd91), but soon figured out how to build the
+The [Tinder]({{<relref "20211230135552-tinder.md#" >}}) team built one [atomic network](#org76c884f), but soon figured out how to build the
 next one—just throw another party
 
 
-#### Introducing the [Tipping Point](#orge9a41cd) {#introducing-the}
+#### Introducing the [Tipping Point](#orgfb5fd62) {#introducing-the}
 
 
 ### 12. Invite-Only—[Linkedin]({{<relref "20211230140014-linkedin.md#" >}}) {#12-dot-invite-only-linkedin--20211230140014-linkedin-dot-md}
@@ -585,7 +586,7 @@ tool
 
 #### How Great Tools Help Tip Entire Markets {#how-great-tools-help-tip-entire-markets}
 
-“Come for the tool, stay for the network” circumvents [the Cold Start Problem](#org7ca091b) and
+“Come for the tool, stay for the network” circumvents [the Cold Start Problem](#org07213a9) and
 makes it easier to launch into an entire network—with PR, paid marketing,
 influencers, sales, or any number of tried-and-true channels
 
@@ -615,7 +616,7 @@ to work. It’s expensive, but it can work.
 
 eventually want to figure profitability out. But for networked products, in the
 earliest stages, sometimes it makes sense to spend—often wildly—to pay up for
-growth. The goal is to get the market to hit the [Tipping Point](#orge9a41cd), driving toward
+growth. The goal is to get the market to hit the [Tipping Point](#orgfb5fd62), driving toward
 strong positive network effects, and then pull back the subsidies
 
 [Coca-Cola ]({{<relref "20211230141352-coca_cola.md#" >}})was soon flowing in every state across the country
@@ -659,8 +660,8 @@ and [Convoy]({{<relref "20211231133130-convoy.md#" >}})
 
 but the first few years are just people powered.
 
-<a id="org996d492">Cyborg Startups</a> [Cyborg Startup]({{<relref "20211231133225-startup.md#definition" >}})
-“[cyborg startups](#org996d492),” because they combine humans (who are executing tasks
+<a id="org2a8070d">Cyborg Startups</a> [Cyborg Startup]({{<relref "20211231133225-startup.md#definition" >}})
+“[cyborg startups](#org2a8070d),” because they combine humans (who are executing tasks
 manually) with a team of software engineers who automate as much as they can
 over time
 
@@ -695,7 +696,7 @@ license and create more first-party content to accelerate their services.
 
 #### Exit Strategy {#exit-strategy}
 
-In other words, once [the Cold Start Problem](#org7ca091b) is solved, it’s important to let the
+In other words, once [the Cold Start Problem](#org07213a9) is solved, it’s important to let the
 network grow and stand up on its own—and turn off Flintstoning entirely.
 
 
@@ -779,7 +780,7 @@ early days
 -   Mindset Principled Confrontation Meritocracy and Toe-Stepping Celebrate Cities
 
 
-## Part IV: [Escape Velocity](#org16c130f) {#part-iv}
+## Part IV: [Escape Velocity](#org9431ed9) {#part-iv}
 
 
 ### 17. [Dropbox]({{<relref "20211230140136-dropbox.md#" >}}) {#17-dot-dropbox--20211230140136-dropbox-dot-md}
@@ -818,7 +819,7 @@ early days
 ### 27. Eternal September—Usenet 28. Overcrowding—[YouTube]({{<relref "20211230140354-youtube.md#" >}}) {#27-dot-eternal-september-usenet-28-dot-overcrowding-youtube--20211230140354-youtube-dot-md}
 
 
-## Part VI: [The Moat](#orgf6434c3) {#part-vi}
+## Part VI: [The Moat](#org67d696e) {#part-vi}
 
 
 ### 29. [Wimdu]({{<relref "20211230140440-wimdu.md#" >}}) versus [Airbnb]({{<relref "20211230140503-airbnb.md#" >}}) {#29-dot-wimdu--20211230140440-wimdu-dot-md--versus-airbnb--20211230140503-airbnb-dot-md}

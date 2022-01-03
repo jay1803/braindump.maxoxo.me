@@ -1,6 +1,6 @@
 +++
 title = "Books"
-author = ["Max Zhang"]
+author = ["Max"]
 draft = false
 +++
 
@@ -180,7 +180,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 
 化自我的成长，再现了他们那一代人的集体无意识。
 
 
-### 2021<code>[31/66]</code> {#2021}
+### 2021<code>[31/31]</code> {#2021}
 
 
 #### <span class="org-todo done DONE">DONE</span> 我承认我不曾经历沧桑 {#我承认我不曾经历沧桑}
@@ -453,6 +453,9 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 川端康成最喜欢的《旦角》，以及展现武士精神的、悲歌高亢的晚年作品《忧国》，呈
 现了三岛由纪夫创作生涯各个时期的作品形态，结构精妙，经典耐读，彰显日本文学及
 三岛由纪夫的独特美学。
+
+
+### 2022<code>[0/35]</code> {#2022}
 
 
 #### <span class="org-todo todo DOING">DOING</span> 增长结构 {#增长结构}
