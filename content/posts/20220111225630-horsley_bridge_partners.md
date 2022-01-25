@@ -1,5 +1,5 @@
 +++
 title = "Horsley Bridge Partners"
-author = ["Max"]
+author = ["Max Zhang"]
 draft = false
 +++
