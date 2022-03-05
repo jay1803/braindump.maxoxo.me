@@ -1,9 +1,9 @@
 +++
-title = "Customer Lifetime"
+title = "Customer Lifecycle"
 author = ["Max"]
 draft = false
 +++
 
 ## Definition {#definition}
 
-Customer lifetime = 1 / [Customer Churn Rate]({{<relref "20210803120415-churn.md#churn-rate" >}})
+是指一个用户的生命旅程，从最初知晓产品到逐渐熟悉。
