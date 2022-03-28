@@ -14,10 +14,14 @@ illustrating that good-to-great transformations never happen at once but, you
 guessed it, in turns. Every flywheel consists of a few carefully derived steps
 that logically follow each other in a loop.
 
+
+### Introducing the A/B testing Flywheel {#introducing-the-a-b-testing-flywheel}
+
 {{< figure src="/ox-hugo/2022-03-15_22-41-02_ABTestingFlywheel.png" >}}
 
+[A/B Testing Flywheel]({{<relref "20220328174037-a_b_testing_flywheel.md#" >}})
 We introduce the steps next, starting with the goal-step of being able to
-support more decisions through A/B testing.
+support more decisions through [A/B Test]({{<relref "20220108110426-a_b_test.md#" >}}).
 
 1.  Running more A/B tests to support more decisions. At the top of the flywheel
     is the goal – using A/B tests to support decision making. With every turn of
@@ -53,10 +57,31 @@ support more decisions through A/B testing.
     resource constrained, to try running A/B tests.
 
 
-### Introducing the A/B testing Flywheel {#introducing-the-a-b-testing-flywheel}
-
-
 ### The first turn {#the-first-turn}
+
+1.  Running the first A/B test. often starts with a single team trying out A/B
+    testing in one specific scenario, such as the signup flow on a website...In
+    this initial stage, A/B tests need to be chosen wisely...Note that it is
+    important to differentiate between the success of an A/B test and the success
+    of an idea being tested.
+    -   High value potential. features that have potential for high impact and relate to team goals.
+    -   Simple to execute. initial A/B tests should be as simple to configure and execute as possible.
+    -   Easy to measure. Ideally, the product should already be instrumented, and
+        data pipelines for metric computation should already exist.
+2.  Measuring value.
+3.  Increasing Interest. If the A/B test was planned and executed correctly it
+    will certainly result in learnings that will be of interest to many in the
+    company.
+4.  Investing in Infrastructure. should focus on trustworthiness, especially in the early steps.
+5.  Lowering the cost. start automating the fundamental data quality checks such
+    as the Sample Ratio Mismatch [7] and make it easy to start an A/A test to
+    validate new set-ups and new metrics
 
 
 ### Making the A/B testing Flywheel Spin {#making-the-a-b-testing-flywheel-spin}
+
+1.  Running more A/B tests.
+2.  Measuring more value.
+3.  Increasing Interest even more.
+4.  Investing in Infrastructure.
+5.  Lowering the cost of A/B testing even more.
