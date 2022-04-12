@@ -1,5 +1,5 @@
 +++
-title = "Wages Payable"
+title = "Unearned Revenues"
 author = ["Max Zhang"]
 draft = false
 +++

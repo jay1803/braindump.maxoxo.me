@@ -1,5 +1,5 @@
 +++
-title = "Wages Payable"
+title = "Total Liabilities"
 author = ["Max Zhang"]
 draft = false
 +++
