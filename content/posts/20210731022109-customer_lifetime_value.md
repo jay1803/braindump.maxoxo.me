@@ -41,3 +41,6 @@ G is a fixed $ amount of monthly growth in ARPA per account (not compounding)
 
 
 ### Net LTV {#net-ltv}
+
+
+### Customer Lifetime {#customer-lifetime}
