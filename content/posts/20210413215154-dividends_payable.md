@@ -1,5 +1,5 @@
 +++
 title = "Dividends Payable"
-author = ["Max"]
+author = ["Max Zhang"]
 draft = false
 +++

@@ -1,10 +1,10 @@
 +++
 title = "READING"
-author = ["Max"]
+author = ["Max Zhang"]
 draft = false
 +++
 
-## Read Books {#read-books}
+## BOOKS {#books}
 
 
 ### 2019<code>[14/14]</code> {#2019}
@@ -52,7 +52,7 @@ draft = false
 
 #### <span class="org-todo done DONE">DONE</span> 香水 {#香水}
 
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 21:55]</span></span>
+CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2019-08-14 Wed 21:55]</span></span>
 本书描述格雷诺耶自幼受苦，生有特殊的嗅觉功能，领悟惟有少女的体香能使人神魂颠
 倒，他先后杀死26名少女，萃取她们的体味制出神奇的香水。当他罪行败露押赴刑场时，
 籍以身上的异香，逃回巴黎，被流氓等分剐而食。
@@ -71,7 +71,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 
 脆弱，连一般家庭的30-40岁的人也感受到了孤独死去的阴云笼罩。日本NHK电视台特别
 节目录制组，节目热播后将记者的真实采访手记合成此书，将当今社会中那些不受关注
 的人们的临终惨景呈现到大家面前，呼吁社会的警醒和反思。
-CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-08-14 Sat 22:24]</span></span>
+CLOSED: [20-08-14 Sat 22:24]
 
 
 ### 2020<code>[18/18]</code> {#2020}
@@ -470,7 +470,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 ### 2022<code>[6/9]</code> {#2022}
 
 
-#### <span class="org-todo done DONE">DONE</span> The Cold Start Problem {#the-cold-start-problem}
+#### <span class="org-todo done DONE">DONE</span> [The Cold Start Problem]({{<relref "20211211004603-the_cold_start_problem.md#" >}}) {#the-cold-start-problem--dot-dot-org-roam-20211211004603-the-cold-start-problem-dot-md}
 
 A venture capitalist draws on expertise developed at the premier venture
 capital firm, Andreessen Horowitz, and as an executive at Uber to address how
@@ -479,7 +479,7 @@ problem”—by leveraging networks effects to launch and scale towards billions
 of users.
 
 
-#### <span class="org-todo done DONE">DONE</span> 为什么要学点历史 {#为什么要学点历史}
+#### <span class="org-todo done DONE">DONE</span> [为什么要学点历史]({{<relref "20220207142350-instant_history.md#" >}}) {#为什么要学点历史--dot-dot-org-roam-20220207142350-instant-history-dot-md}
 
 这本书汇集了当代历史书作中记录的所有关键时期，其中每页均为独立的“速查表”，以小
 小一张书页概述，让读者能够高效地了解历史。本书通过简明、生动的文字与图片，呈现
@@ -492,7 +492,7 @@ of users.
 懂，读者只需要花费很少的时间就可以立即掌握。
 
 
-#### <span class="org-todo done DONE">DONE</span> 投资人和你想的不一样 {#投资人和你想的不一样}
+#### <span class="org-todo done DONE">DONE</span> [投资人和你想的不一样]({{<relref "20220212125210-secrets_of_sand_hill_road_venture_capital_and_how_to_get_it.md#" >}}) {#投资人和你想的不一样--dot-dot-org-roam-20220212125210-secrets-of-sand-hill-road-venture-capital-and-how-to-get-it-dot-md}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 00:40]</span></span>
 本书揭开了风险投资的神秘面纱，向读者展示了创业生态系统中这一重要部分是如何运作
@@ -500,7 +500,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 的定价，我真希望自己在第一次寻找创业启动资金时就能读到它。”
 
 
-#### <span class="org-todo done DONE">DONE</span> 卡片笔记写作法 {#卡片笔记写作法}
+#### <span class="org-todo done DONE">DONE</span> [卡片笔记写作法]({{<relref "20220203190009-how_to_take_smart_notes.md#" >}}) {#卡片笔记写作法--dot-dot-org-roam-20220203190009-how-to-take-smart-notes-dot-md}
 
 本书是该系统的第一本中文综合指南和说明，本书分为三个部分，第一个部分从写作知识、
 写作准备、写作能力和注意事项四个角度概述写作的基本问题；第二部分总结了有效写作
@@ -509,7 +509,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 提出新的写作思路，而不用将时间浪费在寻找笔记、资料或参考文献上。
 
 
-#### <span class="org-todo done DONE">DONE</span> 第二曲线创新 {#第二曲线创新}
+#### <span class="org-todo done DONE">DONE</span> [第二曲线创新]({{<relref "20220216003555-第二曲线创新.md#" >}}) {#第二曲线创新--dot-dot-org-roam-20220216003555-第二曲线创新-dot-md}
 
 归根结底，创新的目的是增长，增长是所有企业的目标。
 
@@ -523,7 +523,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 业与个人穿过纷繁复杂的迷局，跨越事业与人生的第二曲线，打造可持续的增长引擎。
 
 
-#### <span class="org-todo done DONE">DONE</span> 故事：材质、结构、风格和银幕剧作的原理 {#故事-材质-结构-风格和银幕剧作的原理}
+#### <span class="org-todo done DONE">DONE</span> [故事：材质、结构、风格和银幕剧作的原理]({{<relref "20220219132526-story_substance_structure_style_and_the_principles_of_screenwriting.md#" >}}) {#故事-材质-结构-风格和银幕剧作的原理--dot-dot-org-roam-20220219132526-story-substance-structure-style-and-the-principles-of-screenwriting-dot-md}
 
 自1997年初版以来，《故事》一直是全世界编剧的第一必读经典，至今，仍属于美国亚马逊
 最畅销图书中的Top 1%。集结了罗伯特•麦基30年的授课经验，本书在对《教父》《阿甘正
@@ -531,7 +531,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 不应只被影视圈的人所认识，更应得到小说创作、广告策划、文案撰写人才的充分开发。
 
 
-#### <span class="org-todo todo DOING">DOING</span> 增长结构：不确定时代企业的增长底牌 {#增长结构-不确定时代企业的增长底牌}
+#### <span class="org-todo todo DOING">DOING</span> [增长结构：不确定时代企业的增长底牌]({{<relref "20211219001730-增长结构_不确定时代企业的增长底牌.md#" >}}) {#增长结构-不确定时代企业的增长底牌--dot-dot-org-roam-20211219001730-增长结构-不确定时代企业的增长底牌-dot-md}
 
 本书作者王赛基于15年的增长战略咨询经验和70多家知名企业实操案例，沿着“增长五线”
 的脉络，以“结构”为中心，通过对企业增长进行解剖，从更微观的视角找到影响企业增长
@@ -540,7 +540,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 增长的结构底牌，让企业的增长趋向稳定、可持续，为企业长远发展与基业长青奠定基础。
 
 
-#### <span class="org-todo todo DOING">DOING</span> 沟通的方法 {#沟通的方法}
+#### <span class="org-todo todo DOING">DOING</span> [沟通的方法]({{<relref "20211128130403-link_up.md#" >}}) {#沟通的方法--dot-dot-org-roam-20211128130403-link-up-dot-md}
 
 这是脱不花“自我追问”出来的一本书——书里有她早年作为管理咨询顾问，跟大企业家提案
 的经验；有她在得到App日常管理中，和同事、老师、客户积极协调的事例；更有她牵头
@@ -548,7 +548,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 限游戏中一往无前。
 
 
-#### <span class="org-todo todo DOING">DOING</span> 金阁寺 {#金阁寺}
+#### <span class="org-todo todo DOING">DOING</span> [金阁寺]({{<relref "20220203190504-金阁寺.md#" >}}) {#金阁寺--dot-dot-org-roam-20220203190504-金阁寺-dot-md}
 
 小说以第一人称写就，“我”在十几岁时因住持父亲离世，被托付到了金阁寺。整本书围绕
 着我对金阁的情感变化展开。我是个面貌抱歉的结巴，金阁是完美和永恒的化身，“世界
@@ -797,22 +797,172 @@ investigate the age-old question of how to go on when everything seems lost.
 的物理升华，是一个对其教育、基础设施和能力的可衡量体现。
 
 
-## Read Articles {#read-articles}
+## ARTICLES {#articles}
 
 
-### 2022 {#2022}
+### 2022<code>[21/26]</code> {#2022}
 
 
-#### <span class="org-todo todo TODO">TODO</span> The Product Report 2021 {#the-product-report-2021}
+#### 2022-02 February<code>[6/6]</code> {#2022-02-february}
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  The Product Report 2021
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  The Product-Led Growth Flywheel
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  Product-led growth metrics
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  How to shorten time to value with better user onboarding
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  Make Your Pirate Metrics Actionable
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  The aha moment guide: How to find, optimize, and design for your product's aha moment
 
 
-#### <span class="org-todo todo TODO">TODO</span> The Product-Led Growth Flywheel {#the-product-led-growth-flywheel}
+#### 2022-03 March<code>[17/33]</code> {#2022-03-march}
 
+<!--list-separator-->
 
-#### <span class="org-todo todo TODO">TODO</span> Getting Started on Zettelkasten Method {#getting-started-on-zettelkasten-method}
+- <span class="org-todo done DONE">DONE</span>  Product Direction - Growth
 
+<!--list-separator-->
 
-#### <span class="org-todo todo TODO">TODO</span> A Beginner’s Guide to the Zettelkasten Method {#a-beginner-s-guide-to-the-zettelkasten-method}
+- <span class="org-todo done DONE">DONE</span>  [Case Study#3 : Inside Booking.com's experimentation culture]({{<relref "20220315220943-case_study_3_inside_booking_com_s_experimentation_culture.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [Identifying Growth KPIs that are leading indicators of product success]({{<relref "20220315220451-identifying_growth_kpis_that_are_leading_indicators_of_product_success.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [What is product led growth?]({{<relref "20220315215817-what_is_product_led_growth.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [5 psychological triggers to spark a successful user activation]({{<relref "20220315215119-5_psychological_triggers_to_spark_a_successful_user_activation.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [How we implemented data and analytics for product-led growth]({{<relref "20220315213756-how_we_implemented_data_and_analytics_for_product_led_growth.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [Product Led Growth Knowledge Base]({{<relref "20220228193810-product_led_growth_knowledge_base.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [Netflix: Lessons in Experimentation]({{<relref "20220315224922-netflix_lessons_in_experimentation.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  Q[Case Study#1: Netflix : 'The 10,000 Experiment Mindset']({{<relref "20220315224555-case_study_1_netflix_the_10_000_experiment_mindset.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [How Booking.com Uses 1000's of Experiments]({{<relref "20220315224253-how_booking_com_uses_1000_s_of_experiments.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [It takes a Flywheel to Fly: Kickstarting and Keeping the A/B testing Momentum]({{<relref "20220315223857-it_takes_a_flywheel_to_fly_kickstarting_and_keeping_the_a_b_testing_momentum.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [THE NETFLIX STORY: HOW THEY GOT 150 MILLION SUBSCRIBERS]({{<relref "20220316165219-the_netflix_story_how_they_got_150_million_subscribers.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [Getting Started on Zettelkasten Method]({{<relref "20220226113051-getting_started_on_zettelkasten_method.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [Building a Culture of Experimentation]({{<relref "20220315221803-building_a_culture_of_experimentation.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [Product Monetization Strategies]({{<relref "20220315211113-product_monetization_strategies.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [Netflix: Lessons in Experimentation]({{<relref "20220315224922-netflix_lessons_in_experimentation.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo done DONE">DONE</span>  [A Beginner’s Guide to the Zettelkasten Method]({{<relref "20220226113151-a_beginner_s_guide_to_the_zettelkasten_method.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo TODO">TODO</span>  [It takes a Flywheel to Fly: Kickstarting and Keeping the A/B testing Momentum]({{<relref "20220315223857-it_takes_a_flywheel_to_fly_kickstarting_and_keeping_the_a_b_testing_momentum.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo TODO">TODO</span>  [The Surprising Power of Online Experiments]({{<relref "20220315210237-the_surprising_power_of_online_experiments.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo TODO">TODO</span>  [How to Formulate a New Experiment Idea]({{<relref "20220327130403-how_to_formulate_a_new_experiment_idea.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo TODO">TODO</span>  [Case Study#7: 🚀Product Led Growth's four signals]({{<relref "20220327130606-case_study_7_product_led_growth_s_four_signals.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo TODO">TODO</span>  [Netflix: How a DVD rental company changed the way we spend our free time]({{<relref "20220316164442-netflix_how_a_dvd_rental_company_changed_the_way_we_spend_our_free_time.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo TODO">TODO</span>  [Netflix Made 9 Big Changes, and Most Subscribers Now Have No Idea]({{<relref "20220327130827-netflix_made_9_big_changes_and_most_subscribers_now_have_no_idea.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo TODO">TODO</span>  [A Leader’s Framework for Decision Making]({{<relref "20220327131151-a_leader_s_framework_for_decision_making.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo UPCOMING">UPCOMING</span>  [The Guide to Product Metrics]({{<relref "20220315205736-the_guide_to_product_metrics.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo UPCOMING">UPCOMING</span>  [User-First Monetization — Lessons from Instagram and Strava]({{<relref "20220315210929-user_first_monetization_lessons_from_instagram_and_strava.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo UPCOMING">UPCOMING</span>  [增长黑盒 | 谈到“增长”，我们到底该研究什么？]({{<relref "20220327132109-增长黑盒_谈到_增长_我们到底该研究什么.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo UPCOMING">UPCOMING</span>  [清华大学《互联网产品管理》]({{<relref "20220327132523-清华大学_互联网产品管理.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo UPCOMING">UPCOMING</span>  [王慧文清华产品课（全集）]({{<relref "20220327132908-王慧文清华产品课_全集.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo UPCOMING">UPCOMING</span>  [凌鹏的策略思考（一）]({{<relref "20220327133856-凌鹏的策略思考_一.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo UPCOMING">UPCOMING</span>  [Gartner技术成熟度曲线（Hype Cycle）解读]({{<relref "20220327135000-gartner技术成熟度曲线_hype_cycle_解读.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo UPCOMING">UPCOMING</span>  [How To Make (almost) Anything]({{<relref "20220327135711-how_to_make_almost_anything.md#" >}})
+
+<!--list-separator-->
+
+- <span class="org-todo todo UPCOMING">UPCOMING</span>  [So You Want to Study Mathematics…]({{<relref "20220327135933-so_you_want_to_study_mathematics.md#" >}})     :math:
 
 
 ## BOOKSHELF<code>[0/1]</code> {#bookshelf}
