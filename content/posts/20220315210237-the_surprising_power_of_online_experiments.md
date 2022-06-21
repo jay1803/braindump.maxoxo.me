@@ -1,15 +1,16 @@
 +++
 title = "The Surprising Power of Online Experiments"
 author = ["Max Zhang"]
+tags = ["ref"]
 draft = false
 +++
 
-## The Surprising Power of Online Experiments {#the-surprising-power-of-online-experiments}
+## The Surprising Power of Online Experiments <span class="tag"><span class="ATTACH">ATTACH</span></span> {#the-surprising-power-of-online-experiments}
 
 
 ### Appreciate the Value of A/B Tests {#appreciate-the-value-of-a-b-tests}
 
-In an [A/B Testing]({{<relref "20220108110426-a_b_test.md#" >}}) the experimenter sets up two experiences: “A,” the control, is
+In an [A/B Testing]({{< relref "20220108110426-a_b_test.md" >}}) the experimenter sets up two experiences: “A,” the control, is
 usually the current system and considered the “champion,” and “B,” the
 treatment, is a modification that attempts to improve something—the
 “challenger.” Users are randomly assigned to the experiences, and key metrics
@@ -44,8 +45,8 @@ impact on revenue.
 
 ### Build a Large-Scale Capability {#build-a-large-scale-capability}
 
-At Google and Bing, only about 10% to 20% of experiments generate positive
-results. At Microsoft as a whole, one-third prove effective, one-third have
+At [Google]({{< relref "20220129140242-google.md" >}}) and [Bing]({{< relref "20220621235841-bing.md" >}}), only about 10% to 20% of experiments generate positive
+results. At [Microsoft]({{< relref "20220117204930-microsoft.md" >}}) as a whole, one-third prove effective, one-third have
 neutral results, and one-third have negative results.
 
 Scientifically testing nearly every proposed idea requires an infrastructure:
@@ -71,7 +72,7 @@ tool and then, after they’ve grown, switch to one of the other models.
 
 Every business group must define a suitable (usually composite) evaluation
 metric for experiments that aligns with its strategic goals.
-Getting it right—coming up with an [Overall Evaluation Criterion]({{<relref "20220414173629-overall_evaluation_criterion.md#" >}}) (OEC)—takes
+Getting it right—coming up with an [Overall Evaluation Criterion]({{< relref "20220414173629-overall_evaluation_criterion.md" >}}) (OEC)—takes
 thoughtful consideration and often extensive internal debate.
 We recommend that the OEC be adjusted annually.
 

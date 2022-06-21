@@ -1,12 +1,13 @@
 +++
 title = "Building a Culture of Experimentation"
 author = ["Max Zhang"]
+tags = ["ref"]
 draft = false
 +++
 
-## Building a Culture of Experimentation {#building-a-culture-of-experimentation}
+## Building a Culture of Experimentation <span class="tag"><span class="ATTACH">ATTACH</span></span> {#building-a-culture-of-experimentation}
 
-In December 2017, just before the busy holiday travel season, Booking.com’s
+In December 2017, just before the busy holiday travel season, [Booking.com]({{< relref "20220315221124-booking_com.md" >}})’s
 director of design proposed a radical experiment: testing an entirely new layout
 for the company’s home page.
 
