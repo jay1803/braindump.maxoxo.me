@@ -505,8 +505,324 @@ Simply put, your product should be at the center of your GTM strategy — your a
 
 {{< figure src="/ox-hugo/_20220703_180730screenshot.png" >}}
 
+If you need a refresher on [GTM Strategy]({{< relref "20210812231906-go_to_market.md#go-to-market-strategy" >}}), check out this great [presentation by Murray McCaig on the seven-step GTM strategy](https://www.marsdd.com/news-and-insights/the-seven-step-go-to-market-strategy/). McCaig, a venture capitalist and consultant with MaRS, recommends creating a detailed plan for what you’re selling, who you’re selling to, how to reach your target market, and where you should promote your product.
+
+
+### 8.1 The Four Essential Elements of a Product-Led GTM Strategy {#8-dot-1-the-four-essential-elements-of-a-product-led-gtm-strategy}
+
+Developing an effective [Product-Led GTM Strategy]({{< relref "20220703171641-product_led_go_to_market.md" >}}) requires companies to analyze each of the four must-have elements of a GTM strategy by answering these questions:
+
+
+#### #1 Customer (WHO) {#1-customer--who}
+
+Questions:
+
+-   Who is your ideal customer?
+-   What pains do your customers experience?
+-   Can you describe a day in the life of your target customer?
+-   How does your product fit into the customer’s daily activities and workflow?
+
+Outcomes:
+
+-   [Ideal Customer Profile]({{< relref "20220703183415-ideal_customer_profile.md" >}})
+-   [Strategic messaging](https://www.mykpono.com/strategic-communication-how-to-develop-strategic-messaging-and-positioning/)
+
+
+#### #2 Market (WHERE) {#2-market--where}
+
+Questions:
+
+-   What markets do you want to pursue?
+-   How big is your addressable market? Is it growing, stable, or declining?
+-   Who are the biggest players in the market?
+
+Outcomes:
+
+-   Market segmentation and analysis
+-   [Competitive positioning](https://www.mykpono.com/how-to-conduct-competitive-analysis/)
+
+
+#### #3 Product Offering and Pricing (WHAT) {#3-product-offering-and-pricing--what}
+
+Questions:
+
+-   What product are you selling? What is your product’s unique value proposition?
+-   How do you describe your product’s value?
+-   How are you different from your competitors?
+-   What is your product pricing strategy (based on usage, features, capacity, seats, etc.)?
+-   How do you know which features to build next?
+
+Outcomes:
+
+-   Product offering
+-   Value proposition
+-   Pricing strategy
+-   Product vision
+
+
+#### #4 Channels (HOW) {#4-channels--how}
+
+Questions:
+
+-   What are the most effective channels to reach your target customers?
+-   What are the most popular publications that your target customers read?
+-   What social media channels do your customers use the most?
+-   What channels enable the optimal CAC?
+-   How do your marketing channels correlate with product signup rates and won deals?
+
+Outcomes:
+
+-   Demand generation strategy
+-   Content and distribution strategy
+-   Paid media strategy
+-   PR plan
+
+
+### 8.2 Setting the Foundation for Your Customer Acquisition Process {#8-dot-2-setting-the-foundation-for-your-customer-acquisition-process}
+
+Questions:
+
+-   How do you acquire your customers?
+-   How do you retain and grow your customers?
+-   What product delivery method should you use (free trials, freemiums, etc.)?
+-   What details or plays do you need to include in your product, marketing, sales, and customer success playbooks?
+-   How do you scale your customer acquisition process?
+-   How do you consistently keep your CLV above CAC? And how can you keep increasing your CLV?
+
+Outcomes:
+
+-   Business model, including product delivery (freemium, trial, etc.)
+-   Sales playbook
+    -   Selling strategies, including positioning and competitive insights
+    -   Objection handling, prioritization, and forecasting
+-   Marketing playbook
+    -   Content and nurturing strategy
+    -   Customer segmentation
+-   Customer success playbook
+    -   Customer onboarding and training
+    -   Retention and expansion workflows and strategies
+-   Product playbook
+    -   Product vision/roadmap
+    -   Crucial customer journeys
+    -   Initial value
+    -   User onboarding and product adoption metrics
+
+For the early stage startup, the first milestone in executing a GTM strategy is reaching [Product-Market Fit]({{< relref "20210806234604-product_market_fit.md" >}}).
+[Product-Market Fit]({{< relref "20210806234604-product_market_fit.md" >}}) is an experimentation process of finding customers in a target market with a problem that your product can address, for a price (or total cost of ownership) below the level of value that’s provided in exchange.
+
+We suggest reading “[12 Things About Product-Market Fit](https://future.com/about-product-market-fit/)” by Tren Griffin, and “[Product/Market Fit: What It Really Means, How to Measure It, and Where to Find It](https://medium.com/evergreen-business-weekly/product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it-70e746be907b)” by Eric Jorgenson, for more detailed overviews.
+
+A broader but related concept, company/market fit, may be more relevant, since it combines pain-product fit and customer-message fit ideas. You can find a more detailed overview in Part 1 of [How to Develop Strategic Messaging and Positioning](https://www.mykpono.com/strategic-communication-how-to-develop-strategic-messaging-and-positioning/).
+
+Tae Hea Nahm, co-founder and managing director at Storm Ventures, and he underscored...main reason startups with a product/market fit fail to accelerate growth is due to lack of a repeatable and scalable [GTM Strategy]({{< relref "20210812231906-go_to_market.md#go-to-market-strategy" >}}).
+
+All four aspects of a GTM strategy — customer, market, product, and channels — are influenced by a product-led approach.
+
 
 ## Chapter 9: Driving Customer Acquisition and Adoption with a Product-Led Strategy <span class="tag"><span class="ATTACH">ATTACH</span></span> {#chapter-9-driving-customer-acquisition-and-adoption-with-a-product-led-strategy}
+
+{{< figure src="/ox-hugo/_20220703_191249screenshot.png" >}}
+
+[Product-Led GTM Strategy]({{< relref "20220703171641-product_led_go_to_market.md" >}}) affects the four major phases of the customer lifecycle: acquisition, adoption, retention, and expansion.
+
+
+### 9.1 The Four Steps to Leading with a Product-Led Strategy {#9-dot-1-the-four-steps-to-leading-with-a-product-led-strategy}
+
+
+#### Step 1: Drive prospects to try the product {#step-1-drive-prospects-to-try-the-product}
+
+-   First, marketing uses a single CTA, where the signup page becomes a personalized landing page.
+-   Second, a product-led approach provides marketing teams with a new dimension of data: product usage.
+
+Here is an example of this at work. Let’s take PandaDoc
+For example, PandaDoc found that shorter proposals, sent earlier in the day, with a deadline attached, are signed faster.
+
+
+#### Step 2: Design your free trial process or freemium offer <span class="tag"><span class="ATTACH">ATTACH</span></span> {#step-2-design-your-free-trial-process-or-freemium-offer}
+
+define freemium and free trial strategies:
+
+[Freemium]({{< relref "20220703193346-freemium.md" >}}) is a customer acquisition model that provides access to part of a software product to prospects free of charge, without a time limit.
+
+[Free Trial]({{< relref "20220703192450-free_trial.md" >}}) is a customer acquisition model that provides a partial or complete product to prospects free of charge for a limited time. Typically, a free trial runs for 14 or 30 days.
+
+Remember: A [Freemium]({{< relref "20220703193346-freemium.md" >}}) product does not limit the amount of time a prospect can access the software, but often limits users in some way, such as through stripped-back features or allowed amount of usage. Slack employs a freemium model, and so do Zoom.us, Dropbox, and Asana. Companies such as Atlassian, Github, and Twilio focused on the developer market, and started with freemium.
+
+When deciding whether a free trial or freemium strategy...Jason M. Lemkin outlines the math behind making freemium work in his article “[Why You Need 50 Million Active Users for Freemium to Actually Work](https://www.saastr.com/you-need-50-million-users-for-freemium-to-actually-work/)”. Suffice to say, the addressable market should be large enough for you to capture a significant chunk of it and be profitable while only converting 10 percent of free users. The pros and cons of freemium and free trial are highlighted in Table 9.1.
+
+{{< figure src="/ox-hugo/_20220703_192743bxasouukzbvteugayw9p.png" >}}
+
+<!--list-separator-->
+
+-  Freemium model considerations
+
+    There are many ways to structure a [Freemium]({{< relref "20220703193346-freemium.md" >}}) offering, including feature-limited, capacity-limited, seat-limited, customer-class-limited, support-limited, and time- or bandwidth-limited. Lincoln Murphy’s article[provides a good overview of seven types of freemium to consider](https://www.saastr.com/you-need-50-million-users-for-freemium-to-actually-work/).
+
+    Here are questions for your team to ask when considering a [Freemium]({{< relref "20220703193346-freemium.md" >}}) model:
+
+    -   How much will it cost to sustain a large segment of free customers? Is a freemium model scalable for your business?
+    -   Can we provide enough value for users to realize product benefits but still limit value to entice them to pay for a subscription?
+    -   How difficult is it to get started with the product? Does it require technical integration and broader organizational approval?
+    -   How will we nurture and prioritize freemium users that are ready to purchase?
+    -   Are we attracting the right kind of customer (i.e., a customer in our target market with a real need, an urgency to purchase, and a desire to expand the subscription)?
+
+    To recap, [Freemium]({{< relref "20220703193346-freemium.md" >}}) makes more sense when your organization is facing:
+
+    -   A large addressable market
+    -   Low costs to serve free users
+    -   Low barriers/commitment for users to start with your product
+
+<!--list-separator-->
+
+-  Free trial considerations <span class="tag"><span class="ATTACH">ATTACH</span></span>
+
+    The goal of the [Free Trial]({{< relref "20220703192450-free_trial.md" >}}) is to deliver as much value as possible to users during their trial period.
+
+    questions to consider before deciding whether a free trial strategy is right for your organization:
+
+    -   How long does it take for prospects to realize initial value on average? How long should the trial last?
+    -   What features can and should our team limit or remove from the free trial process?
+    -   How do we nurture a free-trial user? What in-product behavior correlates with an optimal trial-to-customer conversion rate?
+
+    Table 9.2 outlines important considerations for launching a successful free trial process, and shows how it maps to our own software trial process.
+
+    {{< figure src="/ox-hugo/_20220703_193155fhyajvta3me46xjxsb6g.png" >}}
+
+    {{< figure src="/ox-hugo/_20220703_193214zw0h3ugnvtaxpgmxfbxt.png" >}}
+
+<!--list-separator-->
+
+-  Personalizing the experience
+
+<!--list-separator-->
+
+-  Initial signup process considerations
+
+<!--list-separator-->
+
+-  Initial value and customer journey considerations
+
+<!--list-separator-->
+
+-  Free trial duration and usage frequency considerations
+
+<!--list-separator-->
+
+-  Free trials and a new wave of growth-hacking
+
+<!--list-separator-->
+
+-  Product demos during free trials
+
+<!--list-separator-->
+
+-  Measuring free trial success
+
+
+#### Step 3: Create onboarding experiences {#step-3-create-onboarding-experiences}
+
+<!--list-separator-->
+
+-  How Aptrinsic onboards prospects
+
+    <!--list-separator-->
+
+    -  Phase 1: Reaching initial value
+
+    <!--list-separator-->
+
+    -  Phase 2: Setting up Aptrinsic Product Mapper™
+
+    <!--list-separator-->
+
+    -  Phase 3: Designing onboarding experience
+
+    <!--list-separator-->
+
+    -  Phase 4: Sending first campaign
+
+<!--list-separator-->
+
+-  How to Ensure a Successful Prospect Onboarding Experience
+
+    <!--list-separator-->
+
+    -  1. Define onboarding goals and milestones
+
+    <!--list-separator-->
+
+    -  2. Simplify customer journeys
+
+    <!--list-separator-->
+
+    -  3. Get to initial value quickly
+
+    <!--list-separator-->
+
+    -  4. Address “zero data/empty state”
+
+    <!--list-separator-->
+
+    -  5. Define a PQL
+
+    <!--list-separator-->
+
+    -  6. Personalize the onboarding experience with custom journeys
+
+    <!--list-separator-->
+
+    -  7. Nurture with personalized communication
+
+    <!--list-separator-->
+
+    -  8. Document important customer journeys
+
+    <!--list-separator-->
+
+    -  9. Measure and track prospects through onboarding
+
+
+#### Step 4: Reaching PQLs and converting to customers {#step-4-reaching-pqls-and-converting-to-customers}
+
+<!--list-separator-->
+
+-  Prioritize prospects and PQLs based on in-product behaviors
+
+<!--list-separator-->
+
+-  Automate self-service checkout for low-touch customer segments
+
+<!--list-separator-->
+
+-  Automate just-in-time personalized engagements
+
+<!--list-separator-->
+
+-  Organize your teams to target the best accounts
+
+<!--list-separator-->
+
+-  Deliver thought leadership content at every stage of the customer lifecycle
+
+<!--list-separator-->
+
+-  Create targeted product demos for trial/freemium customers
+
+
+### 9.2 Key Takeaways {#9-dot-2-key-takeaways}
+
+-   Convince prospects to try the product with a single CTA, such as a product signup page.
+-   Understand the advantages and disadvantages to freemiums and free trials, and choose the one that works best for your company:
+    -   Freemium is best with a large addressable market, low costs of serving free users, and low barriers to start
+    -   Free trial is best if it can deliver or highlight as much product value as possible in a limited time
+-   Any part of a free trial can be personalized, including initial signup, initial value, and customer journey considerations, such as trial duration and usage frequency.
+-   Shorten the time it takes prospects to reach the PQL stage by:
+    -   Prioritizing in-product behaviors based on their value to you and your customers
+    -   Automating self-service checkout
+    -   Initiating just-in-time personalized engagements
+    -   Prioritizing target accounts with a higher potential to close
+    -   Delivering thought leadership at every stage of the customer lifecycle
+    -   Using targeted product demos
 
 
 ## Chapter 10: Product-led Customer Retention and Expansion <span class="tag"><span class="ATTACH">ATTACH</span></span> {#chapter-10-product-led-customer-retention-and-expansion}
