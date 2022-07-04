@@ -694,52 +694,82 @@ When deciding whether a free trial or freemium strategy...Jason M. Lemkin outlin
 
 -  Personalizing the experience
 
+    any part of the free trial experience can be personalized. Not only can the product be personalized, but so can the customer acquisition experience — through the free trial, pricing, messaging, and contextual engagement.
+
 <!--list-separator-->
 
 -  Initial signup process considerations
+
+    Minimizing the amount of information required for prospects to sign up, and reducing the number of steps in the signup process, are easy ways to improve the experience from the start.
+
+    Design a signup process that only highlights one action per step. Avoid asking for personal or contact information that is not essential to get started with your product, unless it increases the value your product can deliver.
 
 <!--list-separator-->
 
 -  Initial value and customer journey considerations
 
+    Prospects who sign up for your free trials should experience initial value (or a desired outcome), ideally in an experience that doesn’t turn them off.
+
+    Next, you must enable them to accomplish their goal as easily as possible to reach the initial value.
+
 <!--list-separator-->
 
 -  Free trial duration and usage frequency considerations
+
+    whenever a prospect realizes initial value and reaches PQL status, this signals a good time for your sales team to engage in a buying conversation.
 
 <!--list-separator-->
 
 -  Free trials and a new wave of growth-hacking
 
+    Free trials can support personalized growth strategies, such as extending a free trial if a prospect completes a certain number of actions or invites more team members to participate.
+
 <!--list-separator-->
 
 -  Product demos during free trials
+
+    Offer prospects a free trial, and then a personalized demo, if your product is more complex or requires more effort to set up and onboard.
 
 <!--list-separator-->
 
 -  Measuring free trial success
 
+    These are common metrics for measuring success:
+
+    -   Number of trial signups, PQLs, and closed deals
+    -   Average time from signup to PQL (time to initial value)
+    -   Trial-to-PQL conversion rate
+    -   Average engagement based on features and timeframe
+    -   Frequencies of login (daily, times/week)
+    -   Number of prospects per account
+
 
 #### Step 3: Create onboarding experiences {#step-3-create-onboarding-experiences}
 
+[User Onboarding]({{< relref "20220704195112-user_onboarding.md" >}}) is how a prospect moves through initial signup, experiences initial value, and reaches PQL status. It is designed to help users become familiar with the product and realize initial value as soon as possible.
+
+[Customer Onboarding]({{< relref "20220704195159-customer_onboarding.md" >}}) is the process of getting a newly subscribed customer (or account) up and running effectively with your product, which usually includes much guidance and hand-holding. The goal here is to set the customer up to realize the full value of your product, thereby retaining customers while also expanding business within the account, or getting referrals from your happy customers.
+
+Ideally, a person will onboard twice — first as a user, and then as a customer — but then they move into the adoption process.
+
 <!--list-separator-->
 
--  How Aptrinsic onboards prospects
+-  How Aptrinsic onboards prospects <span class="tag"><span class="ATTACH">ATTACH</span></span>
 
-    <!--list-separator-->
+    Figure 9.2 outlines how we at Aptrinsic think about onboarding our prospects and customers.
 
-    -  Phase 1: Reaching initial value
+    {{< figure src="/ox-hugo/_20220704_195348screenshot.png" >}}
 
-    <!--list-separator-->
+    -   Phase 1: Reaching initial value
+        Milestone #1: Install JS code and start collecting data
+    -   Phase 2: Setting up Aptrinsic Product Mapper™
+        Milestone #2: Collecting usage data for specific product features + becoming PQL
+    -   Phase 3: Designing onboarding experience
+        Milestone #3: Prospect launches onboarding experience for customers
+    -   Phase 4: Sending first campaign
+        Milestone #4: Prospect’s onboarding is completeWe organized our onboarding experience into four phases and defined milestones for each. The order of these phases can change, but for prospects to understand the value of our product, they have to complete all four phases.
 
-    -  Phase 2: Setting up Aptrinsic Product Mapper™
-
-    <!--list-separator-->
-
-    -  Phase 3: Designing onboarding experience
-
-    <!--list-separator-->
-
-    -  Phase 4: Sending first campaign
+    As soon as a prospect reaches PQL status, our SDR is notified to follow up with the prospect to offer a personalized demo of the full product.
 
 <!--list-separator-->
 
@@ -749,9 +779,21 @@ When deciding whether a free trial or freemium strategy...Jason M. Lemkin outlin
 
     -  1. Define onboarding goals and milestones
 
+        What set of actions must prospects complete to realize the full value of our product?
+
+        Aptrinsic example:
+
+        -   Goal: Prospect (account) launches first onboarding experience for its customers and sends first engagement campaign.
+
     <!--list-separator-->
 
     -  2. Simplify customer journeys
+
+        To recap, customer journeys should:
+
+        -   Include one action per step
+        -   Be limited to 5–7 steps to complete a milestone
+        -   Guide prospects with personal and simple messages
 
     <!--list-separator-->
 
@@ -761,9 +803,16 @@ When deciding whether a free trial or freemium strategy...Jason M. Lemkin outlin
 
     -  4. Address “zero data/empty state”
 
+        “Zero data” or “empty state” is what prospects see during their initial signup process when no data is available in the product. The way to address this issue is to guide the prospect through a journey that populates, uploads, or integrates data into your product. Benjamin Brandall, in his article “[The Most Overlooked Aspect of UX Design Could Be the Most Important](https://techcrunch.com/2015/11/22/the-most-overlooked-aspect-of-ux-design-could-be-the-most-important/)”, argues that empty state is a great opportunity for teams to highlight emotional connections with users.
+        You might get inspired by the [40 clever empty state designs for mobile apps](https://www.hongkiat.com/blog/mobile-app-empty-state-designs/) shared in this article by Nancy Young.
+
     <!--list-separator-->
 
     -  5. Define a PQL
+
+        While the definition of a PQL remains consistent from company to company,
+        For example, at Aptrinsic, a PQL is a prospect that completes Milestone 1 + Milestone 2.
+        Aptrinsic PQL = install JS code (Milestone 1) + set up Product Mapper (Milestone 2)
 
     <!--list-separator-->
 
