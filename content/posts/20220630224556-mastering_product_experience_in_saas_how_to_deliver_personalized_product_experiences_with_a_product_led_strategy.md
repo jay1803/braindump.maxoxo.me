@@ -818,20 +818,75 @@ Ideally, a person will onboard twice — first as a user, and then as a customer
 
     -  6. Personalize the onboarding experience with custom journeys
 
+        For example, a progress bar and checklist can show prospects where they are in the product setup process.
+
     <!--list-separator-->
 
     -  7. Nurture with personalized communication
+
+        In-product messages are effective for influencing customers to engage in specific ways, because they’re already in the product.
+
+        You can configure e-mails to be triggered to send automatically based on a prospect’s action or inaction, reminding them about product value and driving them back into the product with a single CTA.
+
+        Other examples of action-based (or time-based) communication triggered by a specific action or inaction include welcome e-mails and notifications that the app started collecting data or that a team member joined the product.
 
     <!--list-separator-->
 
     -  8. Document important customer journeys
 
+        During the onboarding process, prospects may complete a product tour or a walk-through, but over time they will likely forget how to accomplish a task and turn to documentation, which can guide them step by step. Detailed documentation can even assist prospects in evaluating the core values and ease of using your product. Asana provides an example of clear and helpful documentation in its resource center.
+
     <!--list-separator-->
 
     -  9. Measure and track prospects through onboarding
 
+        you must focus on these two aspects:
+
+        -   Understanding where prospects fall off (abandon the journey)
+        -   Understanding the velocity at which prospects move through milestones
+
+        For tracking, consider:
+
+        -   Number of prospects signed up
+        -   Number of prospects that started vs. number who completed journeys and milestones
+        -   How prospects complete each step in the journey
+
+        To recap, here are the nine steps:
+
+        -   Define onboarding goals and milestones
+        -   Simplify customer journeys
+        -   Get to initial value quickly
+        -   Address “zero data/empty state”
+        -   Define a PQL
+        -   Personalize the onboarding experience with custom journeys
+        -   Nurture with personalized communication
+        -   Document important customer journeys
+        -   Measure and track prospects through onboarding
+
+        Important Note: The initial signup and prospect onboarding experience is a critical step in moving users through the customer lifecycle — delivering initial value, reaching PQL, and so on. Customer adoption and retention begins as soon as a prospect starts the signup process. Every milestone on the road to reaching onboarding success has to deliver a valuable outcome. The onboarding experience is not something to be overlooked. It’s a critical aspect of making your prospects understand the ins and outs of your product and its value. By carefully and continuously analyzing the onboarding experience, your teams will understand how effective the process is and how to improve it.
+
 
 #### Step 4: Reaching PQLs and converting to customers {#step-4-reaching-pqls-and-converting-to-customers}
+
+As prospects progress through the customer lifecycle, you want them to reach two important milestones. First, newly signed prospects should reach PQL status. Second, you want them to quickly convert from PQL to a closed deal.
+
+When making buying decisions, prospects are often deciding between four options:
+
+-   Use your product
+-   Do it themselves
+-   Don’t do it all
+-   Use your competitor’s product
+
+addressing the common reasons why prospects choose not to buy:
+
+-   Lacks a clear understanding of your product’s value
+-   Has the wrong perception of the product’s functionality
+-   Doesn’t know how to use your product
+-   Wasn’t onboarded quickly enough or wasn’t re-engaged at the right time
+-   Doesn’t experience pain often enough to frequently use your product
+-   Requires features that are not part of your product
+-   Lacks budget
+-   Their tech stack doesn’t integrate well with your product
 
 <!--list-separator-->
 
@@ -840,6 +895,8 @@ Ideally, a person will onboard twice — first as a user, and then as a customer
 <!--list-separator-->
 
 -  Automate self-service checkout for low-touch customer segments
+
+    In fact, studies show that 47 percent of Baby Boomers prefer self-service, while a whopping 64 percent of millennials do too. We anticipate that a larger portion of business buyers will expect self-service options going forward.
 
 <!--list-separator-->
 
@@ -856,6 +913,12 @@ Ideally, a person will onboard twice — first as a user, and then as a customer
 <!--list-separator-->
 
 -  Create targeted product demos for trial/freemium customers
+
+    All the strategies described above in Step 4 impact at least one of the following goals:
+
+    -   Reduce the time it takes from trial to PQL and from PQL to close
+    -   Increase the Trial-to-PQL rate and PQL-to-Customer rate
+    -   Increase average CLV by focusing on the right accounts
 
 
 ### 9.2 Key Takeaways {#9-dot-2-key-takeaways}
@@ -877,13 +940,252 @@ Ideally, a person will onboard twice — first as a user, and then as a customer
 ## Chapter 10: Product-led Customer Retention and Expansion <span class="tag"><span class="ATTACH">ATTACH</span></span> {#chapter-10-product-led-customer-retention-and-expansion}
 
 
+### 10.1 How to Improve Customer Retention and Expansion {#10-dot-1-how-to-improve-customer-retention-and-expansion}
+
+
+#### 1. Orchestrate customer onboarding {#1-dot-orchestrate-customer-onboarding}
+
+Here are a couple of questions to keep in mind to help you determine which customer onboarding process(es) you need to design:
+
+-   How many people in your customer’s organization will benefit from using your product?
+-   Is your product valuable for cross-functional teams?
+
+<!--list-separator-->
+
+-  Ensure that the appropriate people are invited
+
+    Another option is to come up with the list through your product experience — for instance, when you send automated e-mails to users, you can ask if anyone else within the recipient’s organization needs to get involved in the task they are working on.
+
+    Make a target list of all people in your customer’s organization that should be using your product. If they aren’t using it now, create a plan to engage them. You may help a larger portion of the customer’s organization learn about, use, and come to depend on your product.
+
+<!--list-separator-->
+
+-  Review assigned admin and user roles
+
+    If your product is going to handle the sensitive process of direct communication with your prospects and customers, you need to clearly define roles and permissions.
+
+    Tip: Create a list of critical integrations, and design a process to ensure customers complete this process.
+
+<!--list-separator-->
+
+-  Train every user in your customer’s organization
+
+    The more customers use your product, the more dependent and engaged they will become. Training can play a critical role in getting your customers to use your product regularly.
+
+    -   Invite teammates and set up admin and access preferences
+    -   Integrate with customer’s systems and third-party data sources
+    -   Train everyone in your customer’s organization
+    -   Ask your customer to share their goals and objectives, so your team can track success
+    -   Set payment process
+
+
+#### 2. Closely monitor user behavior {#2-dot-closely-monitor-user-behavior}
+
+[Value Gap]({{< relref "20220702174017-value_gap.md" >}}) which is a discrepancy between what a customer expects and what is actually received (or their perception of what they received). In most cases, a Value Gap is a result of a decline in customer engagement in general because this often prevents them from experiencing your product’s most important features.
+
+To get at this understanding, answer the following:
+
+-   How often do your most profitable customers log in?
+-   What features and product-usage frequencies correlate with renewals?
+-   What early customer behavior signs can inform an upsell and cross-sell strategy?
+-   What usage metrics help predict a user’s desire to upgrade their current subscription?
+
+Here are examples of scenarios your teams can monitor and design behavior-based triggers around:
+
+-   Decline in engagement
+-   Increase in engagement
+-   Reaching usage limit
+-   Readiness to upgrade
+
+Tip: Create competency around understanding your product’s valued features, engagement frequencies, and other customer behavior data that correlate with higher CLV via renewals, upsells, and cross-sells.
+
+
+#### 3. Focus on continuous product adoption and customer nurturing {#3-dot-focus-on-continuous-product-adoption-and-customer-nurturing}
+
+product adoption and customer nurturing work best when you continually engage customers throughout the lifecycle and deliver relevant, contextual messages in a timely manner.
+
+
+#### 4. Anticipate renewal, upgrade, and cross-sell opportunities with behavior-based analytics {#4-dot-anticipate-renewal-upgrade-and-cross-sell-opportunities-with-behavior-based-analytics}
+
+For example, if your pricing tiers are based on certain usage, then reaching the upper threshold of usage can be an effective trigger to automate an in-product or e-mail message prompting the customer to upgrade.
+
+
+#### 5. Apply break-even analysis {#5-dot-apply-break-even-analysis}
+
+<!--list-separator-->
+
+-  Product-led GTM is a continuous process
+
+
+### 10.2 Key Takeaways {#10-dot-2-key-takeaways}
+
+-   Retention, adoption and expansion all start when customers experience your product from initial signup.
+-   Identify your product champions and share the entire customer onboarding experience with them.
+-   To improve customer retention and expansion with a product-led GTM strategy:
+    -   Orchestrate customer onboarding — educate customers on the product and its value
+    -   Invite the people who will most benefit from using your product
+    -   Review assigned and user roles
+    -   Integrate with the customer’s data system and third-party data sources
+    -   Train every user in the customer’s organization
+-   Closely monitor user behavior for frequency and use of specific features.
+-   Continually engage customers throughout the lifecycle and deliver relevant, contextual messages in a timely manner.
+-   Anticipate renewal, upgrade, and cross-sell opportunities by monitoring customer behavior and connecting via digital channels such as e-mail.
+-   Apply break-even analysis to discover how quickly a customer becomes profitable.
+
+
 ## Chapter 11: The Anatomy of Personalized Customer Engagement <span class="tag"><span class="ATTACH">ATTACH</span></span> {#chapter-11-the-anatomy-of-personalized-customer-engagement}
+
+{{< figure src="/ox-hugo/_20220706_194748uodsy14rlvrxflvu7vic-1.png" >}}
+
+
+### 11.1 Customer Segmentation {#11-dot-1-customer-segmentation}
+
+[User Segmentation]({{< relref "20210910164255-user_segmentation.md" >}}) = Demographics + Behavioral Data
+
+For a step-by-step process on segmenting customers, see this detailed article — “[Customer Segmentation: A Guide to the Best B2B Practices](http://labs.openviewpartners.com/customer-segmentation/#.WaB0TXeGNp9)”
+
+
+### 11.2 Customer Journey and Velocity {#11-dot-2-customer-journey-and-velocity}
+
+Tip: Map customer journeys that lead to important desired outcomes; understand how quickly customers travel through these journeys and any associated risk of losing customers before they reach their goals.
+
+
+### 11.3 In-Product Behavior and Habit Creation {#11-dot-3-in-product-behavior-and-habit-creation}
+
+Tip: Describe a day in the life of your ideal customer to understand how your product fits in, and what triggers will cause the customer to re-engage with your product.
+
+
+### 11.4 Moment of Joy {#11-dot-4-moment-of-joy}
+
+Tip: Identify core use cases and journeys where your team can create joyful moments to reinforce the value delivered with the product.
+
+
+### 11.5 Nurturing and Contextual Engagements {#11-dot-5-nurturing-and-contextual-engagements}
+
+Contextual Engagement = Customer + Trigger (Timing/Action) + Message + Channel
+
+Let’s analyze what we mean by contextual engagement with the example depicted in Figure 11.1:
+
+-   Customer (WHO): Someone at his tenth day in a free trial process
+-   Trigger (WHEN): Hasn’t completed the journey to initial value
+-   Message (WHAT): Show the benefits of reaching initial value
+-   Channel (WHERE): In-product message + e-mail for a personalized experience
+
+
+### 11.6 The Importance of Omnichannel and Real-Time Personalization {#11-dot-6-the-importance-of-omnichannel-and-real-time-personalization}
+
+An omnichannel approach helps companies create contextual engagement that looks and feels the same for customers across channels and devices.
+
+
+### 11.7 Experimentation and Optimization {#11-dot-7-experimentation-and-optimization}
+
+
+### 11.8 Key Takeaways {#11-dot-8-key-takeaways}
+
+There are eight ways to personalize customer engagement:
+
+-   Segmentation: Based on demographic and behavioral data, including interaction with ads, e-mail opens, and website visits.
+-   Customer Journey and Velocity: Understand how quickly customers travel through product journeys, and personalize these journeys to help them reach their goals.
+-   In-product Behavior and Habits: Understand the how three essential elements — motivation, ability, and trigger — apply to your customer’s day.
+-   Moment of Joy: Create joyful moments and use personalized messages to make customers feel empowered.
+-   Nurturing and Contextual Engagements: Based on in-product action, know the who, when, what, and where to help customers complete their journeys.
+-   Omnichannel and Real-time: Create and quickly deliver contextual engagements that look consistent across channels.
+-   Personalize Everything: Every aspect of a GTM strategy and the marketing mix can be personalized.
 
 
 ## Chapter 12: The Anatomy of a Product-led Organization <span class="tag"><span class="ATTACH">ATTACH</span></span> {#chapter-12-the-anatomy-of-a-product-led-organization}
 
+Note: To be successful with a product-led GTM strategy, it must become part of your organizational DNA. A leadership team should lead this change in your company, providing all necessary guidance and resources to align all key departments. If the CEO can’t ensure this alignment, is there another C-level role tasked with solving this?
+
+
+### 12.1 Product Playbook {#12-dot-1-product-playbook}
+
+
+#### Making informed decisions about what to build next {#making-informed-decisions-about-what-to-build-next}
+
+
+#### Guiding customers to use your product {#guiding-customers-to-use-your-product}
+
+
+#### Collecting relevant feedback from the right customers {#collecting-relevant-feedback-from-the-right-customers}
+
+
+#### Assigning product operational responsibility {#assigning-product-operational-responsibility}
+
+
+### 12.2 Marketing Playbook {#12-dot-2-marketing-playbook}
+
+
+#### Focusing on product signups {#focusing-on-product-signups}
+
+
+#### Focusing on the right segments and nurturing prospects to PQLs {#focusing-on-the-right-segments-and-nurturing-prospects-to-pqls}
+
+
+#### Developing thought leadership content based on customer in-product behavior {#developing-thought-leadership-content-based-on-customer-in-product-behavior}
+
+
+### 12.3 Sales playbook {#12-dot-3-sales-playbook}
+
+
+#### Prioritize PQLs and improve forecast {#prioritize-pqls-and-improve-forecast}
+
+
+#### Optimize the land-and-expand strategy {#optimize-the-land-and-expand-strategy}
+
+
+### 12.4 Customer Success Playbook {#12-dot-4-customer-success-playbook}
+
+
+#### Improve customer onboarding and training {#improve-customer-onboarding-and-training}
+
+
+#### Prevent customer support issues {#prevent-customer-support-issues}
+
+
+### 12.5 Key Takeaways {#12-dot-5-key-takeaways}
+
+-   A product-led GTM strategy requires a complete alignment of the product, marketing, sales, and customer success teams, along with changes to the team playbooks.
+-   The product playbook will use a unified customer profile based on detailed in-product behavior to decide what to build next, and learn how new features and updates are adopted. A new product operations role could evolve — one that supports all of the teams with processes, workflows, and technologies.
+-   The marketing playbook will focus on product signups, nurturing prospects to PQLs, and developing thought leadership content based on in-product behavior.
+-   The sales playbook will learn from in-product behavior when customers are ready to buy, renew, and/or upgrade, which will allow sales to then prioritize PQLs and optimize their land-and-expand strategies.
+-   The customer success playbook lays out how to piece together customer data and build workflows for manual customer outreach. This team will need to improve customer onboarding and training, while working to prevent customer support issues.
+
 
 ## Chapter 13: SaaS Metrics: Measuring Success with a Product-led GTM <span class="tag"><span class="ATTACH">ATTACH</span></span> {#chapter-13-saas-metrics-measuring-success-with-a-product-led-gtm}
+
+{{< figure src="/ox-hugo/_20220706_221215screenshot.png" >}}
+
+There is plenty of material available on SaaS metrics; we will reference a few valuable resources in this section.
+
+
+### 13.1 Step 1: Tracking Customer Progression Through a Lifecycle <span class="tag"><span class="ATTACH">ATTACH</span></span> {#13-dot-1-step-1-tracking-customer-progression-through-a-lifecycle}
+
+{{< figure src="/ox-hugo/_20220706_221252screenshot.png" >}}
+
+
+#### Measuring Effectiveness with Conversion Rates <span class="tag"><span class="ATTACH">ATTACH</span></span> {#measuring-effectiveness-with-conversion-rates}
+
+Visitor-to-Signup Rate is the percentage of visitors that visit your page and then sign up. It is calculated by dividing the number of product signups by the number of visitors to a signup page. The visitor-to-signup rate shows how effectively your company convinces visitors to sign up for free trials or a freemium.
+
+Signup-to-PQL Rate is the percentage of prospects that complete profile and in-product engagement requirements to become PQLs. It is calculated by dividing the number of PQLs by the number of signups. The signup-to-PQL rate provides insights into how effectively your company engages prospects in the early stages of reaching initial value.
+
+PQL-to-Customer Rate is the percentage of PQLs that convert to customers. It is calculated by dividing the number of customers by the number of PQLs. The PQL-to-customer rate shows how effectively your company converts PQLs to customers.
+
+Signup-to-Customer Rate is the percentage of signups that become paying customers. It is calculated by dividing the number of customers by the number of signups. The signup-to-customer rate shows how your company, on average, converts signups to customers.
+
+Customer Churn Rate is the percentage of customers lost due to churn (i.e., cancellation or failure to renew). It is calculated by dividing the number of churned customers by the number of customers at the start of the period for which the churn rate is calculated.
+
+Monthly Recurring Revenue (MRR) Churn Rate (a.k.a. Gross Revenue Churn) is the percentage of MRR revenue lost from existing customers at the start of the period for which MRR churn is calculated. MRR churn rate is always positive (positive churn rate means the company loses money), because it does not include upsell and cross-sell.
+
+MRR Expansion Rate (aka Net Revenue Retention Rate) is the percentage of MRR that is gained due to upsells and cross-sells to existing customers for the period for which MRR expansion is calculated. It is calculated by dividing the amount of expansion MRR by the starting MRR.
+
+Net MRR Churn (a.k.a. Net Revenue Churn) is the percentage of MRR change based on churned and expansion MRR for the same period. It is calculated by subtracting expansion MRR from churned MRR and dividing that by MRR at the start of the period. Net MRR churn is the percentage of MRR lost from existing customers in a period.
+
+{{< figure src="/ox-hugo/_20220706_221354screenshot.png" >}}
+
+
+#### Breaking down churn metrics {#breaking-down-churn-metrics}
 
 
 ## Chapter 14: Three Pillars that Support a Successful Product-led GTM Strategy <span class="tag"><span class="ATTACH">ATTACH</span></span> {#chapter-14-three-pillars-that-support-a-successful-product-led-gtm-strategy}
