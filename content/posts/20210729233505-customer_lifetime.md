@@ -15,3 +15,27 @@ draft = false
 3.  [Purchase]({{< relref "20220305090525-purchase.md" >}})
 4.  [Retention]({{< relref "20210731183135-retention.md" >}})
 5.  [Customer Loyalty]({{< relref "20220305091800-customer_loyalty.md" >}})
+
+
+## Elements {#elements}
+
+
+### Customer Lifecycle Length {#customer-lifecycle-length}
+
+衡量一个用户从生命周期的一个阶段进入下一个阶段所需要的时长。
+包括：
+
+
+#### Days from Signup to PQL {#days-from-signup-to-pql}
+
+
+#### Days from PQL to Customer {#days-from-pql-to-customer}
+
+
+#### Days from Signup to Customer {#days-from-signup-to-customer}
+
+
+#### Days to Break-Even {#days-to-break-even}
+
+
+#### Average Customer Life {#average-customer-life}
