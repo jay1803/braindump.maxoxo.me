@@ -1,10 +1,11 @@
 +++
 title = "Your Guide to Product-Led Marketing"
 author = ["Max Zhang"]
+tags = ["ref"]
 draft = false
 +++
 
-## Your Guide to Product-Led Marketing {#your-guide-to-product-led-marketing}
+## Your Guide to Product-Led Marketing <span class="tag"><span class="ATTACH">ATTACH</span></span> {#your-guide-to-product-led-marketing}
 
 
 ### 1. Template gallery {#1-dot-template-gallery}

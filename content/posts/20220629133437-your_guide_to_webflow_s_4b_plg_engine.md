@@ -7,7 +7,7 @@ draft = false
 
 ## Your guide to Webflow’s $4B PLG engine <span class="tag"><span class="ATTACH">ATTACH</span></span> {#your-guide-to-webflow-s-4b-plg-engine}
 
-[Webflow]({{< relref "20220630225218-webflow.md" >}}), the web design and hosting platform, recently hit milestones that most product-led growth (PLG) companies only dream of:
+[Webflow]({{< relref "20220630225218-webflow.md" >}}), the web design and hosting platform, recently hit milestones that most product-led growth ([PLG]({{< relref "20220707205151-product_led_growth.md" >}})) companies only dream of:
 
 -   $100 million in annual recurring revenue (ARR)
 -   200,000+ customers

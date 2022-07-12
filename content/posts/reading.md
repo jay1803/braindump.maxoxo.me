@@ -1,6 +1,7 @@
 +++
 title = "READING"
 author = ["Max Zhang"]
+tags = ["ref"]
 draft = false
 +++
 
@@ -45,7 +46,7 @@ draft = false
 
 #### <span class="org-todo done DONE">DONE</span> 增长黑客 {#增长黑客}
 
-作为最早提出“增长黑客”概念的理论先驱、带领Dropbox实现500%增长的实战领军人物，
+作为最早提出“增长黑客”概念的理论先驱、带领 Dropbox 实现 500%增长的实战领军人物，
 作者在书中分享了如何跨部门搭建增长黑客团队，以及实现用户和利润双增长的具体行
 动指南。该书一经出版，便被科技公司奉为运营圭臬。
 
@@ -54,21 +55,21 @@ draft = false
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2019-08-14 Wed 21:55]</span></span>
 本书描述格雷诺耶自幼受苦，生有特殊的嗅觉功能，领悟惟有少女的体香能使人神魂颠
-倒，他先后杀死26名少女，萃取她们的体味制出神奇的香水。当他罪行败露押赴刑场时，
+倒，他先后杀死 26 名少女，萃取她们的体味制出神奇的香水。当他罪行败露押赴刑场时，
 籍以身上的异香，逃回巴黎，被流氓等分剐而食。
 
 
 #### <span class="org-todo done DONE">DONE</span> 无缘社会 {#无缘社会}
 
-本书系NHK电视台资深采访记者作品合集。采访主题是“现代人的孤独老死”。高龄、少
+本书系 NHK 电视台资深采访记者作品合集。采访主题是“现代人的孤独老死”。高龄、少
 子、失业、不婚、城市化，造就了这样一批人，他们活着，没有人和他们联系，他们没
 有工作，没有配偶，没有儿女，也不回家乡；他们死了，没有人知道，即使被发现，也
 没有人认领他们的尸体，甚至无法知道他们姓甚名谁，他们的人生被总结为寥寥几个字
 的遗骨认领布告，他们被称为“无缘死者”，他们所在的社会也会渐渐从“有缘社会”变成
-“无缘社会”。日本每年3万2千人走上“无缘死”的道路。他们中间，有在公司20年没有迟
+“无缘社会”。日本每年 3 万 2 千人走上“无缘死”的道路。他们中间，有在公司 20 年没有迟
 到请假，可是一夜之间变成街头流浪汉的工薪阶层，有一个人旅行的旅者，有一生未婚
 的女性，有儿女远离自己的空巢老人，有从来只在网络上交友的年轻人，社会联系日益
-脆弱，连一般家庭的30-40岁的人也感受到了孤独死去的阴云笼罩。日本NHK电视台特别
+脆弱，连一般家庭的 30-40 岁的人也感受到了孤独死去的阴云笼罩。日本 NHK 电视台特别
 节目录制组，节目热播后将记者的真实采访手记合成此书，将当今社会中那些不受关注
 的人们的临终惨景呈现到大家面前，呼吁社会的警醒和反思。
 CLOSED: [20-08-14 Sat 22:24]
@@ -217,7 +218,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 
 #### <span class="org-todo done DONE">DONE</span> 人生 {#人生}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 21:06]</span></span>
-《人生》是路遥的一部中篇小说，发表于1982年，它以改革时期陕北高原的城乡生活为
+《人生》是路遥的一部中篇小说，发表于 1982 年，它以改革时期陕北高原的城乡生活为
 时空背景，叙述了高中毕业生高加林回到土地又离开土地，再回到土地这样人生的变化
 过程。高加林同农村姑娘刘巧珍、城市姑娘黄亚萍之间的感情纠葛构成了故事发展的矛
 盾，也正是体现那种艰难选择的悲剧。
@@ -226,9 +227,9 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 
 #### <span class="org-todo done DONE">DONE</span> 生命是什么 {#生命是什么}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-27 Sat 12:21]</span></span>
-作者在书中致力于将生物学与量子力学协调起来，尽管写于1944年，但书中关于生命、
+作者在书中致力于将生物学与量子力学协调起来，尽管写于 1944 年，但书中关于生命、
 分子生物学、心灵等主题的评论今天看来仍深刻精辟，极具启发性。可以说，这本书的
-内容为分子生物学的诞生和DNA的发现作了概念上的准备，对于希望了解生命起源理论的
+内容为分子生物学的诞生和 DNA 的发现作了概念上的准备，对于希望了解生命起源理论的
 读者来说，本书无疑是最好的选择之一。薛定谔以一种令人放松和愉悦的文笔引领读者
 探索生命这一令人望而生畏的主题，内容深刻而有趣，极具启发性。
 
@@ -276,7 +277,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-02-25 Thu 
 #### <span class="org-todo done DONE">DONE</span> 文明、现代化、价值投资与中国 {#文明-现代化-价值投资与中国}
 
 全书包含上下两篇，上篇脱胎于在投资界口耳相传的“现代化十六讲”，作者提出了人类
-社会从1.0文明到3.0文明演化的思想，讨论了现代化的诞生、本质与铁律。作者站在全
+社会从 1.0 文明到 3.0 文明演化的思想，讨论了现代化的诞生、本质与铁律。作者站在全
 体人类的角度，思考人类未来的共同命运；同时，对中国未来的现代化演进进程做出了
 预测。下篇收录了作者二十余年来的重要演讲、思考与书评，其中包括作者在北京大学
 光华管理学院、哥伦比亚大学商学院等的几次著名演讲，除了涉及价值投资的观念、方
@@ -306,7 +307,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-03-14 Sun 
 
 #### <span class="org-todo done DONE">DONE</span> 无穷的开始 {#无穷的开始}
 
-描述了我们当前知识中最深刻的4条支线——进化、量子物理学、知识和运算，以及它们带
+描述了我们当前知识中最深刻的 4 条支线——进化、量子物理学、知识和运算，以及它们带
 来的世界观。
 
 
@@ -347,7 +348,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 
 #### <span class="org-todo done DONE">DONE</span> 销售加速公式 {#销售加速公式}
 
-企业家、销售经理和投资者都希望将他们的好点子转化为价值1亿美元的业务，他们面
+企业家、销售经理和投资者都希望将他们的好点子转化为价值 1 亿美元的业务，他们面
 临的大挑战就是扩大销售。因为销售历来被视为一种艺术，而非一门科学。然而，在数
 字世界中，每个人的每个动作都被记录下来，大量数据唾手可得，建立销售团队也可以
 从一门艺术转化为一门科学。
@@ -428,7 +429,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 
 #### <span class="org-todo done DONE">DONE</span> 引爆用户增长 {#引爆用户增长}
 
-全书共7章，行文逻辑是：首先正确理解增长，然后制定增长战略，最后实现用户增长。
+全书共 7 章，行文逻辑是：首先正确理解增长，然后制定增长战略，最后实现用户增长。
 先虚后实，前面偏重于分析和思考，后面侧重于具体的落地和执行。
 
 
@@ -436,7 +437,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 
 本书作者曾在增长黑客之父肖恩•埃利斯麾下担任增长负责人，用亲身经历为你总结出增
 长黑客必备的套路、内力和兵法。本书不仅有逻辑清晰的理论体系、干货满满的实践心
-得，还有Pinterest､SoFi､探探､Keep 等中美知名互联网公司增长专家倾囊相授的一线实
+得，还有 Pinterest､SoFi､探探､Keep 等中美知名互联网公司增长专家倾囊相授的一线实
 战经验。
 
 
@@ -460,17 +461,17 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2021-07-29 Thu 
 #### <span class="org-todo done DONE">DONE</span> 鲜花盛开的森林 {#鲜花盛开的森林}
 
 《鲜花盛开的森林》是一部由三岛由纪夫生前亲自编选的短篇小说集，收录了各时期短
-篇小说代表作13篇，有关三岛由纪夫一生的文学主题和现实问题的萌芽都蕴含其中。包
-括写于16岁的成名之作《鲜花盛开的森林》，美学极致之作《远乘会》《海和晚霞》，
+篇小说代表作 13 篇，有关三岛由纪夫一生的文学主题和现实问题的萌芽都蕴含其中。包
+括写于 16 岁的成名之作《鲜花盛开的森林》，美学极致之作《远乘会》《海和晚霞》，
 川端康成最喜欢的《旦角》，以及展现武士精神的、悲歌高亢的晚年作品《忧国》，呈
 现了三岛由纪夫创作生涯各个时期的作品形态，结构精妙，经典耐读，彰显日本文学及
 三岛由纪夫的独特美学。
 
 
-### 2022<code>[6/9]</code> {#2022}
+### 2022<code>[8/16]</code> {#2022}
 
 
-#### <span class="org-todo done DONE">DONE</span> [The Cold Start Problem]({{<relref "20211211004603-the_cold_start_problem.md#" >}}) {#the-cold-start-problem--dot-dot-org-roam-20211211004603-the-cold-start-problem-dot-md}
+#### <span class="org-todo done DONE">DONE</span> [The Cold Start Problem]({{< relref "20211211004603-the_cold_start_problem.md" >}}) {#the-cold-start-problem--dot-dot-org-roam-20211211004603-the-cold-start-problem-dot-md}
 
 A venture capitalist draws on expertise developed at the premier venture
 capital firm, Andreessen Horowitz, and as an executive at Uber to address how
@@ -479,7 +480,7 @@ problem”—by leveraging networks effects to launch and scale towards billions
 of users.
 
 
-#### <span class="org-todo done DONE">DONE</span> [为什么要学点历史]({{<relref "20220207142350-instant_history.md#" >}}) {#为什么要学点历史--dot-dot-org-roam-20220207142350-instant-history-dot-md}
+#### <span class="org-todo done DONE">DONE</span> [为什么要学点历史]({{< relref "20220207142350-instant_history.md" >}}) {#为什么要学点历史--dot-dot-org-roam-20220207142350-instant-history-dot-md}
 
 这本书汇集了当代历史书作中记录的所有关键时期，其中每页均为独立的“速查表”，以小
 小一张书页概述，让读者能够高效地了解历史。本书通过简明、生动的文字与图片，呈现
@@ -492,7 +493,7 @@ of users.
 懂，读者只需要花费很少的时间就可以立即掌握。
 
 
-#### <span class="org-todo done DONE">DONE</span> [投资人和你想的不一样]({{<relref "20220212125210-secrets_of_sand_hill_road_venture_capital_and_how_to_get_it.md#" >}}) {#投资人和你想的不一样--dot-dot-org-roam-20220212125210-secrets-of-sand-hill-road-venture-capital-and-how-to-get-it-dot-md}
+#### <span class="org-todo done DONE">DONE</span> [投资人和你想的不一样]({{< relref "20220212125210-secrets_of_sand_hill_road_venture_capital_and_how_to_get_it.md" >}}) {#投资人和你想的不一样--dot-dot-org-roam-20220212125210-secrets-of-sand-hill-road-venture-capital-and-how-to-get-it-dot-md}
 
 CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 00:40]</span></span>
 本书揭开了风险投资的神秘面纱，向读者展示了创业生态系统中这一重要部分是如何运作
@@ -500,7 +501,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 的定价，我真希望自己在第一次寻找创业启动资金时就能读到它。”
 
 
-#### <span class="org-todo done DONE">DONE</span> [卡片笔记写作法]({{<relref "20220203190009-how_to_take_smart_notes.md#" >}}) {#卡片笔记写作法--dot-dot-org-roam-20220203190009-how-to-take-smart-notes-dot-md}
+#### <span class="org-todo done DONE">DONE</span> [卡片笔记写作法]({{< relref "20220203190009-how_to_take_smart_notes.md" >}}) {#卡片笔记写作法--dot-dot-org-roam-20220203190009-how-to-take-smart-notes-dot-md}
 
 本书是该系统的第一本中文综合指南和说明，本书分为三个部分，第一个部分从写作知识、
 写作准备、写作能力和注意事项四个角度概述写作的基本问题；第二部分总结了有效写作
@@ -509,7 +510,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 提出新的写作思路，而不用将时间浪费在寻找笔记、资料或参考文献上。
 
 
-#### <span class="org-todo done DONE">DONE</span> [第二曲线创新]({{<relref "20220216003555-第二曲线创新.md#" >}}) {#第二曲线创新--dot-dot-org-roam-20220216003555-第二曲线创新-dot-md}
+#### <span class="org-todo done DONE">DONE</span> [第二曲线创新]({{< relref "20220216003555-第二曲线创新.md" >}}) {#第二曲线创新--dot-dot-org-roam-20220216003555-第二曲线创新-dot-md}
 
 归根结底，创新的目的是增长，增长是所有企业的目标。
 
@@ -523,32 +524,15 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 业与个人穿过纷繁复杂的迷局，跨越事业与人生的第二曲线，打造可持续的增长引擎。
 
 
-#### <span class="org-todo done DONE">DONE</span> [故事：材质、结构、风格和银幕剧作的原理]({{<relref "20220219132526-story_substance_structure_style_and_the_principles_of_screenwriting.md#" >}}) {#故事-材质-结构-风格和银幕剧作的原理--dot-dot-org-roam-20220219132526-story-substance-structure-style-and-the-principles-of-screenwriting-dot-md}
+#### <span class="org-todo done DONE">DONE</span> [故事：材质、结构、风格和银幕剧作的原理]({{< relref "20220219132526-story_substance_structure_style_and_the_principles_of_screenwriting.md" >}}) {#故事-材质-结构-风格和银幕剧作的原理--dot-dot-org-roam-20220219132526-story-substance-structure-style-and-the-principles-of-screenwriting-dot-md}
 
-自1997年初版以来，《故事》一直是全世界编剧的第一必读经典，至今，仍属于美国亚马逊
-最畅销图书中的Top 1%。集结了罗伯特•麦基30年的授课经验，本书在对《教父》《阿甘正
+自 1997 年初版以来，《故事》一直是全世界编剧的第一必读经典，至今，仍属于美国亚马逊
+最畅销图书中的 Top 1%。集结了罗伯特•麦基 30 年的授课经验，本书在对《教父》《阿甘正
 传》《星球大战》等经典影片的详细分析中，清晰阐述了故事创作的核心原理，其指导意义
 不应只被影视圈的人所认识，更应得到小说创作、广告策划、文案撰写人才的充分开发。
 
 
-#### <span class="org-todo todo DOING">DOING</span> [增长结构：不确定时代企业的增长底牌]({{<relref "20211219001730-增长结构_不确定时代企业的增长底牌.md#" >}}) {#增长结构-不确定时代企业的增长底牌--dot-dot-org-roam-20211219001730-增长结构-不确定时代企业的增长底牌-dot-md}
-
-本书作者王赛基于15年的增长战略咨询经验和70多家知名企业实操案例，沿着“增长五线”
-的脉络，以“结构”为中心，通过对企业增长进行解剖，从更微观的视角找到影响企业增长
-的动态因素，指导不同条件下的企业去调整自身的要素组合结构，构建起业务、客户、竞
-争、差异化、不对称、合作和价值七大子结构和增长图谱，从而在不确定时代中建立企业
-增长的结构底牌，让企业的增长趋向稳定、可持续，为企业长远发展与基业长青奠定基础。
-
-
-#### <span class="org-todo todo DOING">DOING</span> [沟通的方法]({{<relref "20211128130403-link_up.md#" >}}) {#沟通的方法--dot-dot-org-roam-20211128130403-link-up-dot-md}
-
-这是脱不花“自我追问”出来的一本书——书里有她早年作为管理咨询顾问，跟大企业家提案
-的经验；有她在得到App日常管理中，和同事、老师、客户积极协调的事例；更有她牵头
-的教研团队收集的，来自一线的大量真实沟通需求和实践。真学实练，助力你在沟通的无
-限游戏中一往无前。
-
-
-#### <span class="org-todo todo DOING">DOING</span> [金阁寺]({{<relref "20220203190504-金阁寺.md#" >}}) {#金阁寺--dot-dot-org-roam-20220203190504-金阁寺-dot-md}
+#### <span class="org-todo done DONE">DONE</span> [金阁寺]({{< relref "20220203190504-金阁寺.md" >}}) {#金阁寺--dot-dot-org-roam-20220203190504-金阁寺-dot-md}
 
 小说以第一人称写就，“我”在十几岁时因住持父亲离世，被托付到了金阁寺。整本书围绕
 着我对金阁的情感变化展开。我是个面貌抱歉的结巴，金阁是完美和永恒的化身，“世界
@@ -557,6 +541,68 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 在我想做出格事情时，总会看到金阁显形，从而做不成……绝望之余 ，“我”将金阁付之一
 炬，亦打算与金阁同归于尽，然而在大火烧起之后，我放弃跟金阁同归于尽的想法，决定
 一个人好好活下去。
+
+
+#### <span class="org-todo done DONE">DONE</span> [Mastering Product Experience (in SaaS): How to Deliver Personalized Product Experiences with a Product-led Strategy]({{< relref "20220630224556-mastering_product_experience_in_saas_how_to_deliver_personalized_product_experiences_with_a_product_led_strategy.md" >}}) {#mastering-product-experience--in-saas--how-to-deliver-personalized-product-experiences-with-a-product-led-strategy--dot-dot-org-roam-20220630224556-mastering-product-experience-in-saas-how-to-deliver-personalized-product-experiences-with-a-product-led-strategy-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [The Calculus Lifesaver: All the Tools You Need to Excel at Calculus]({{< relref "20220529005432-the_calculus_lifesaver_all_the_tools_you_need_to_excel_at_calculus.md" >}}) {#the-calculus-lifesaver-all-the-tools-you-need-to-excel-at-calculus--dot-dot-org-roam-20220529005432-the-calculus-lifesaver-all-the-tools-you-need-to-excel-at-calculus-dot-md}
+
+本书阐述了求解微积分的技巧, 详细讲解了微积分基础、极限、连续、微分、导数的应用、积分、无穷级数、泰勒级数与幂级数等内容，旨在教会读者如何思考问题从而找到解题 所需的知识点, 着重训练大家自己解答问题的能力.
+本书适用于大学低年级学生、高中高年级学生、想学习微积分的数学爱好者以及广大数 学教师. 本书既可作为教材、习题集, 也可作为学习指南, 同时还有利于教师备课.
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [增长结构：不确定时代企业的增长底牌]({{< relref "20211219001730-增长结构_不确定时代企业的增长底牌.md" >}}) {#增长结构-不确定时代企业的增长底牌--dot-dot-org-roam-20211219001730-增长结构-不确定时代企业的增长底牌-dot-md}
+
+本书作者王赛基于 15 年的增长战略咨询经验和 70 多家知名企业实操案例，沿着“增长五线”
+的脉络，以“结构”为中心，通过对企业增长进行解剖，从更微观的视角找到影响企业增长
+的动态因素，指导不同条件下的企业去调整自身的要素组合结构，构建起业务、客户、竞
+争、差异化、不对称、合作和价值七大子结构和增长图谱，从而在不确定时代中建立企业
+增长的结构底牌，让企业的增长趋向稳定、可持续，为企业长远发展与基业长青奠定基础。
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [沟通的方法]({{< relref "20211128130403-link_up.md" >}}) {#沟通的方法--dot-dot-org-roam-20211128130403-link-up-dot-md}
+
+这是脱不花“自我追问”出来的一本书——书里有她早年作为管理咨询顾问，跟大企业家提案
+的经验；有她在得到 App 日常管理中，和同事、老师、客户积极协调的事例；更有她牵头
+的教研团队收集的，来自一线的大量真实沟通需求和实践。真学实练，助力你在沟通的无
+限游戏中一往无前。
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Product-Led Onboarding: How to Turn New Users Into Lifelong Customers]({{< relref "20220711200616-product_led_onboarding_how_to_turn_new_users_into_lifelong_customers.md" >}}) {#product-led-onboarding-how-to-turn-new-users-into-lifelong-customers--dot-dot-org-roam-20220711200616-product-led-onboarding-how-to-turn-new-users-into-lifelong-customers-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Product-Led Growth:How to Build a Product That Sells Itself]({{< relref "20220630224517-product_led_growth_how_to_build_a_product_that_sells_itself.md" >}}) {#product-led-growth-how-to-build-a-product-that-sells-itself--dot-dot-org-roam-20220630224517-product-led-growth-how-to-build-a-product-that-sells-itself-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Product-Led SEO: The Why Behind Building Your Organic Growth Strategy]({{< relref "20220711203150-product_led_seo_the_why_behind_building_your_organic_growth_strategy.md" >}}) {#product-led-seo-the-why-behind-building-your-organic-growth-strategy--dot-dot-org-roam-20220711203150-product-led-seo-the-why-behind-building-your-organic-growth-strategy-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [OpenView 2021 Product Benchmarks Report]({{< relref "20220711203654-openview_2021_product_benchmarks_report.md" >}}) {#openview-2021-product-benchmarks-report--dot-dot-org-roam-20220711203654-openview-2021-product-benchmarks-report-dot-md}
+
+
+#### 商业的本质 {#商业的本质}
+
+《商业的本质》是杰克•韦尔奇对过去十几年商业变革的反思和总结。他指出，科技革
+命给市场带来了巨大变化和诸多杂音，但作为管理者，不能迷失商业中最核心的东西。
+在当今的新商业环境下，要想“赢”，就必须遵从商业的规则，回归商业的本质。
+
+《商业的本质》不谈空洞的理论和概念，因为在现实中，商业成功的关键在于妥善解决
+那些层出不穷、生死攸关、不可避免的窘境。韦尔奇在《商业的本质》中结合大量企业
+的现实案例和经营困境，给出了切实的解决方案，特别是针对经济低迷时期，提出了企
+业实现快速增长的六大突破口，包括：协同力、领导力、影响业绩和成本的关键数据、
+快速敏捷的战略制定流程、组织结构优化和领导者的心理素质。同时，韦尔奇还在书中
+专门分析了中国的经济状况，对中国企业的发展做出了点评和展望。
+
+
+#### SOMEDAY [第一性原理 : 混沌大学第二部创新必修教科书]({{< relref "20220410204512-第一性原理_混沌大学第二部创新必修教科书.md" >}}) {#someday-第一性原理-混沌大学第二部创新必修教科书--dot-dot-org-roam-20220410204512-第一性原理-混沌大学第二部创新必修教科书-dot-md}
+
+本书是李善友教授继《第二曲线创新》之后的全新力作。什么是第一性原理？为何它影响甚
+至决定着我们所做的每一件事、企业的每一项创新？混沌大学的创新教科书《第一性原理》
+将为创业者、企业家深度解析第一性原理这个万事万物的根本性命题，追根溯源，迎接思维
+的蜕变。
+本书将“第一性原理”的思想引入创新与商业领域，用 8 个思维模型和实践方法，帮助企业与
+个人厘清问题的本质，直达本源。
 
 
 #### The intelligent investor {#the-intelligent-investor}
@@ -568,7 +614,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 
 #### 证券分析 {#证券分析}
 
-《证券分析》被誉为投资者的圣经，自1934年出版以来，八十年畅销不衰。市场反复证
+《证券分析》被誉为投资者的圣经，自 1934 年出版以来，八十年畅销不衰。市场反复证
 明，《证券分析》是价值投资的经典之作。
 
 
@@ -604,7 +650,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 #### 写给大家的 AI 极简史 {#写给大家的-ai-极简史}
 
 如同飞机的出现彻底改变了人类的旅行轨迹，催生出一个全新的行业，人工智能也正在
-迎来属于它的“基蒂霍克时刻”。它将在未来20年内，从根本上改变人类的生活、工作、
+迎来属于它的“基蒂霍克时刻”。它将在未来 20 年内，从根本上改变人类的生活、工作、
 经济和社会，未来，我们将无法想象没有人工智能的生活，就像现在我们无法想象没有
 电的生活一样。
 
@@ -620,27 +666,13 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 “高杠杆率”的管理方法，帮助经理人以最有效的投入获得最大的产出。
 
 
-#### 商业的本质 {#商业的本质}
-
-《商业的本质》是杰克•韦尔奇对过去十几年商业变革的反思和总结。他指出，科技革
-命给市场带来了巨大变化和诸多杂音，但作为管理者，不能迷失商业中最核心的东西。
-在当今的新商业环境下，要想“赢”，就必须遵从商业的规则，回归商业的本质。
-
-《商业的本质》不谈空洞的理论和概念，因为在现实中，商业成功的关键在于妥善解决
-那些层出不穷、生死攸关、不可避免的窘境。韦尔奇在《商业的本质》中结合大量企业
-的现实案例和经营困境，给出了切实的解决方案，特别是针对经济低迷时期，提出了企
-业实现快速增长的六大突破口，包括：协同力、领导力、影响业绩和成本的关键数据、
-快速敏捷的战略制定流程、组织结构优化和领导者的心理素质。同时，韦尔奇还在书中
-专门分析了中国的经济状况，对中国企业的发展做出了点评和展望。
-
-
 #### 拉新：快速实现用户增长 {#拉新-快速实现用户增长}
 
-运营大师加布里埃尔·温伯格，在创立鸭鸭搜索时，难以实现用户增长。通过与40多个超
+运营大师加布里埃尔·温伯格，在创立鸭鸭搜索时，难以实现用户增长。通过与 40 多个超
 级产品的创始人和核心运营者的深度交流，他发现了快速获取新用户的各种运营手段，并
-将其完善为一套3个步骤和19种渠道的拉新指南。通过持续拉新，温伯格使鸭鸭搜索以10
-倍的增长率连续增长了5年，成功抢占了谷歌、微软等行业巨头的用户资源。目前，鸭鸭
-搜索平均日活达3437万，月访问量超过10亿次，跻身 “全球百大网站”之列。
+将其完善为一套 3 个步骤和 19 种渠道的拉新指南。通过持续拉新，温伯格使鸭鸭搜索以 10
+倍的增长率连续增长了 5 年，成功抢占了谷歌、微软等行业巨头的用户资源。目前，鸭鸭
+搜索平均日活达 3437 万，月访问量超过 10 亿次，跻身 “全球百大网站”之列。
 
 
 #### 无价 {#无价}
@@ -651,9 +683,9 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 
 #### 生命是什么 {#生命是什么}
 
-作者在书中致力于将生物学与量子力学协调起来，尽管写于1944年，但书中关于生命、
+作者在书中致力于将生物学与量子力学协调起来，尽管写于 1944 年，但书中关于生命、
 分子生物学、心灵等主题的评论今天看来仍十分有趣，极具启发性。可以说，这本书的
-内容为分子生物学的诞生和DNA的发现作了概念上的准备，对于希望了解生命起源理论
+内容为分子生物学的诞生和 DNA 的发现作了概念上的准备，对于希望了解生命起源理论
 的读者来说，本书无疑是最好的选择之一。薛定谔以一种令人放松和愉悦的文笔引领读
 者探索生命这一令人望而生畏的主题，内容深刻而有趣，极具启发性。
 
@@ -661,7 +693,7 @@ CLOSED: <span class="timestamp-wrapper"><span class="timestamp">[2022-02-15 Tue 
 #### 梯次增长 {#梯次增长}
 
 深度揭秘在面对新物种、新商业、新颠覆者不断涌现的市场环境中，微软、微软、
-Salesforce等企业如何走出商业和产品周期的危机，如何寻找新的业务和利润增长点。
+Salesforce 等企业如何走出商业和产品周期的危机，如何寻找新的业务和利润增长点。
 作者提出了一套关于产品创新、业务组合、商业执行、企业管理等系统而又完整的工具
 和方法论，从而帮助企业不断走向新的成功。
 
@@ -669,7 +701,7 @@ Salesforce等企业如何走出商业和产品周期的危机，如何寻找新�
 #### 查理·芒格的原则 {#查理-芒格的原则}
 
 芒格的原则与本杰明•格雷厄姆的价值投资理论一脉相承，简单易懂，即使是普通投资
-者也可以在自己的投资组合中加以应用。芒格的投资体系原则已经为他保驾护航了40多
+者也可以在自己的投资组合中加以应用。芒格的投资体系原则已经为他保驾护航了 40 多
 年，并为几代成功投资者指引着方向。本书介绍的是芒格有关投资和人生的智慧，从投
 资的基本策略步骤，到开发影响你一生的心智模式，作者将其采访、演讲、作品和致股
 东的信加以概述，并与基金经理、价值投资者的评论相结合，你可以整体掌握查理•芒
@@ -696,7 +728,7 @@ Salesforce等企业如何走出商业和产品周期的危机，如何寻找新�
 《赢》中，韦尔奇结合亲身管理实践及大量鲜活的案例，将其在工作与生活中“赢”的智
 慧倾囊相授，内容涉及商务活动的诸多层面，包括商业生活的要旨、企业领导的管理智
 慧、普通员工的求职与晋升之道，乃至如何实现工作与生活的平衡。本书凝聚了韦尔奇
-一生的管理智慧，是其执掌通用21年来领导艺术的总结与升华。
+一生的管理智慧，是其执掌通用 21 年来领导艺术的总结与升华。
 
 
 #### 为什么 {#为什么}
@@ -735,7 +767,7 @@ Salesforce等企业如何走出商业和产品周期的危机，如何寻找新�
 
 《魔鬼逻辑学》 是一本简单的逻辑学入门读物，为读者们提供了一个清晰简明的、具有
 普遍性的逻辑标准，以轻松易懂的方式，循序渐进地阐述逻辑学的基本准则，并且深刻
-揭示21种逻辑谬误，告诉你如何将逻辑运用在日常生活与工作中，让你的思考、决策、
+揭示 21 种逻辑谬误，告诉你如何将逻辑运用在日常生活与工作中，让你的思考、决策、
 表达、写作具有清晰的逻辑，这本书足以改变你的思维世界。
 
 
@@ -783,11 +815,11 @@ investigate the age-old question of how to go on when everything seems lost.
 #### 思考，快与慢 {#思考-快与慢}
 
 在书中，卡尼曼会带领我们体验一次思维的终极之旅。他认为，我们的大脑有快与慢两
-种作决定的方式。常用的无意识的“系统1”依赖情感、记忆和经验迅速作出判断，它见闻
-广博，使我们能够迅速对眼前的情况作出反应。但系统1也很容易上当，它固守“眼见即
+种作决定的方式。常用的无意识的“系统 1”依赖情感、记忆和经验迅速作出判断，它见闻
+广博，使我们能够迅速对眼前的情况作出反应。但系统 1 也很容易上当，它固守“眼见即
 为事实”的原则，任由损失厌恶和乐观偏见之类的错觉引导我们作出错误的选择。有意识
-的“系统2”通过调动注意力来分析和解决问题，并作出决定，它比较慢，不容易出错，但
-它很懒惰，经常走捷径，直接采纳系统1的直觉型判断结果。
+的“系统 2”通过调动注意力来分析和解决问题，并作出决定，它比较慢，不容易出错，但
+它很懒惰，经常走捷径，直接采纳系统 1 的直觉型判断结果。
 
 
 #### 增长的本质 {#增长的本质}
@@ -797,184 +829,16 @@ investigate the age-old question of how to go on when everything seems lost.
 的物理升华，是一个对其教育、基础设施和能力的可衡量体现。
 
 
-## ARTICLES {#articles}
+### BOOKSHELF<code>[0/0]</code> {#bookshelf}
 
 
-### 2022<code>[21/26]</code> {#2022}
-
-
-#### 2022-02 February<code>[6/6]</code> {#2022-02-february}
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  The Product Report 2021
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  The Product-Led Growth Flywheel
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  Product-led growth metrics
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  How to shorten time to value with better user onboarding
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  Make Your Pirate Metrics Actionable
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  The aha moment guide: How to find, optimize, and design for your product's aha moment
-
-
-#### 2022-03 March<code>[17/33]</code> {#2022-03-march}
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  Product Direction - Growth
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [Case Study#3 : Inside Booking.com's experimentation culture]({{<relref "20220315220943-case_study_3_inside_booking_com_s_experimentation_culture.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [Identifying Growth KPIs that are leading indicators of product success]({{<relref "20220315220451-identifying_growth_kpis_that_are_leading_indicators_of_product_success.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [What is product led growth?]({{<relref "20220315215817-what_is_product_led_growth.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [5 psychological triggers to spark a successful user activation]({{<relref "20220315215119-5_psychological_triggers_to_spark_a_successful_user_activation.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [How we implemented data and analytics for product-led growth]({{<relref "20220315213756-how_we_implemented_data_and_analytics_for_product_led_growth.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [Product Led Growth Knowledge Base]({{<relref "20220228193810-product_led_growth_knowledge_base.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [Netflix: Lessons in Experimentation]({{<relref "20220315224922-netflix_lessons_in_experimentation.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  Q[Case Study#1: Netflix : 'The 10,000 Experiment Mindset']({{<relref "20220315224555-case_study_1_netflix_the_10_000_experiment_mindset.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [How Booking.com Uses 1000's of Experiments]({{<relref "20220315224253-how_booking_com_uses_1000_s_of_experiments.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [It takes a Flywheel to Fly: Kickstarting and Keeping the A/B testing Momentum]({{<relref "20220315223857-it_takes_a_flywheel_to_fly_kickstarting_and_keeping_the_a_b_testing_momentum.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [THE NETFLIX STORY: HOW THEY GOT 150 MILLION SUBSCRIBERS]({{<relref "20220316165219-the_netflix_story_how_they_got_150_million_subscribers.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [Getting Started on Zettelkasten Method]({{<relref "20220226113051-getting_started_on_zettelkasten_method.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [Building a Culture of Experimentation]({{<relref "20220315221803-building_a_culture_of_experimentation.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [Product Monetization Strategies]({{<relref "20220315211113-product_monetization_strategies.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [Netflix: Lessons in Experimentation]({{<relref "20220315224922-netflix_lessons_in_experimentation.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo done DONE">DONE</span>  [A Beginner’s Guide to the Zettelkasten Method]({{<relref "20220226113151-a_beginner_s_guide_to_the_zettelkasten_method.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo TODO">TODO</span>  [It takes a Flywheel to Fly: Kickstarting and Keeping the A/B testing Momentum]({{<relref "20220315223857-it_takes_a_flywheel_to_fly_kickstarting_and_keeping_the_a_b_testing_momentum.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo TODO">TODO</span>  [The Surprising Power of Online Experiments]({{<relref "20220315210237-the_surprising_power_of_online_experiments.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo TODO">TODO</span>  [How to Formulate a New Experiment Idea]({{<relref "20220327130403-how_to_formulate_a_new_experiment_idea.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo TODO">TODO</span>  [Case Study#7: 🚀Product Led Growth's four signals]({{<relref "20220327130606-case_study_7_product_led_growth_s_four_signals.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo TODO">TODO</span>  [Netflix: How a DVD rental company changed the way we spend our free time]({{<relref "20220316164442-netflix_how_a_dvd_rental_company_changed_the_way_we_spend_our_free_time.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo TODO">TODO</span>  [Netflix Made 9 Big Changes, and Most Subscribers Now Have No Idea]({{<relref "20220327130827-netflix_made_9_big_changes_and_most_subscribers_now_have_no_idea.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo TODO">TODO</span>  [A Leader’s Framework for Decision Making]({{<relref "20220327131151-a_leader_s_framework_for_decision_making.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo UPCOMING">UPCOMING</span>  [The Guide to Product Metrics]({{<relref "20220315205736-the_guide_to_product_metrics.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo UPCOMING">UPCOMING</span>  [User-First Monetization — Lessons from Instagram and Strava]({{<relref "20220315210929-user_first_monetization_lessons_from_instagram_and_strava.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo UPCOMING">UPCOMING</span>  [增长黑盒 | 谈到“增长”，我们到底该研究什么？]({{<relref "20220327132109-增长黑盒_谈到_增长_我们到底该研究什么.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo UPCOMING">UPCOMING</span>  [清华大学《互联网产品管理》]({{<relref "20220327132523-清华大学_互联网产品管理.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo UPCOMING">UPCOMING</span>  [王慧文清华产品课（全集）]({{<relref "20220327132908-王慧文清华产品课_全集.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo UPCOMING">UPCOMING</span>  [凌鹏的策略思考（一）]({{<relref "20220327133856-凌鹏的策略思考_一.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo UPCOMING">UPCOMING</span>  [Gartner技术成熟度曲线（Hype Cycle）解读]({{<relref "20220327135000-gartner技术成熟度曲线_hype_cycle_解读.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo UPCOMING">UPCOMING</span>  [How To Make (almost) Anything]({{<relref "20220327135711-how_to_make_almost_anything.md#" >}})
-
-<!--list-separator-->
-
-- <span class="org-todo todo UPCOMING">UPCOMING</span>  [So You Want to Study Mathematics…]({{<relref "20220327135933-so_you_want_to_study_mathematics.md#" >}})     :math:
-
-
-## BOOKSHELF<code>[0/1]</code> {#bookshelf}
-
-
-### 战胜华尔街 {#战胜华尔街}
+#### 战胜华尔街 {#战胜华尔街}
 
 林奇专门为业余投资者写的一本股票投资策略实践指南：林奇本人是如何具体实践自己
-的投资方法，如何选股，如何管理投资组合，从而连续13年战胜市场的
+的投资方法，如何选股，如何管理投资组合，从而连续 13 年战胜市场的
 
 
-### 彼得·林奇的成功投资 {#彼得-林奇的成功投资}
+#### 彼得·林奇的成功投资 {#彼得-林奇的成功投资}
 
 作者用浅显生动的语言娓娓道出了股票投资的诸多技巧，向广大的中小投资者提供了简
 单易学的投资分析方法，这些方法是作者多年的经验总结，具有很强的实践性，对于业
@@ -984,7 +848,7 @@ investigate the age-old question of how to go on when everything seems lost.
 家做得还出色。
 
 
-### 阅读与写作 {#阅读与写作}
+#### 阅读与写作 {#阅读与写作}
 
 语文学习中的两大重点和难点——阅读与写作，它们分别是什么？要怎样学习提高？如何
 选择适合自己的课外读物？如何提高自己的阅读兴趣和鉴赏水平？如何写出一篇有意思
@@ -994,34 +858,34 @@ investigate the age-old question of how to go on when everything seems lost.
 书在知识性之外，增加了趣味性和欣赏性。
 
 
-### The Disappearance of Childhood {#the-disappearance-of-childhood}
+#### The Disappearance of Childhood {#the-disappearance-of-childhood}
 
 “童年”是一个被发明出来的概念，印刷术普及之前，儿童与成人之间靠口语传播，彼此
 分享基本相同的文化世界，所以人类并没有“童年”；印刷术普及之后，文字成为主导，
 成人掌握着文字和知识的世界，儿童与成人之 间出现了一道文化鸿沟，“童年”诞生了。
 
 
-### 苏格拉底之死 {#苏格拉底之死}
+#### 苏格拉底之死 {#苏格拉底之死}
 
 本书收录的四篇对话录，为苏格拉底的学生柏拉图所著。通过记述苏格拉底之死这一历
 史事件，柏拉图发展了他的哲学，同时，也向世人展示了苏格拉底独特的生活、思想和
 人格魅力。
 
 
-### Charlie Munger - The Complete Investor {#charlie-munger-the-complete-investor}
+#### Charlie Munger - The Complete Investor {#charlie-munger-the-complete-investor}
 
 作者将其采访、演讲、作品和致股东的信加以概述，并与基金经理、价值投资者的评论
 相结合，你可以整体掌握查理•芒格的投资、学习和人生智慧。
 
 
-### Flow - the psychology of optimal experience {#flow-the-psychology-of-optimal-experience}
+#### Flow - the psychology of optimal experience {#flow-the-psychology-of-optimal-experience}
 
 这本书从心理学的角度出发，深入探讨了人何时最幸福、如何通过掌控自己的意识来感
 受生活的乐趣。书中分析了乐趣产生的八大要素，包括挑战与能力相当的工作、知行合
 一、目标明确、即时回馈、掌控自如等，方法既简单又不失深度，值得每个人细细品味。
 
 
-### Notes from Underground {#notes-from-underground}
+#### Notes from Underground {#notes-from-underground}
 
 《地下室手记》是俄国作家陀思妥耶夫斯基创作的长篇小说。该书由主角地下室人以第
 一人称的方式叙述，地下室人是名年约四十岁左右的退休公务员，他的内心充满了病态
@@ -1030,7 +894,7 @@ investigate the age-old question of how to go on when everything seems lost.
 溯自己的一段往事，以及他与一名妓女丽莎相识的经过。
 
 
-### The World Minute of Waterloo {#the-world-minute-of-waterloo}
+#### The World Minute of Waterloo {#the-world-minute-of-waterloo}
 
 《人类群星闪耀时》的内容正如它的副标题——十四篇历史特写（Vierzehn historische
 Miniaturen）。作者茨威格以诗人和艺术家的笔触，尊崇历史的真相，以其完全个人的
@@ -1044,80 +908,80 @@ Miniaturen）。作者茨威格以诗人和艺术家的笔触，尊崇历史的�
 的黑夜。
 
 
-### Of Human Bondage {#of-human-bondage}
+#### Of Human Bondage {#of-human-bondage}
 
 故事以毛姆亲身经历为蓝本，描述了身有残疾的主人公菲利普从孤儿到长大的完整过程，
 亲情、爱情、友情，校园、艺术、理想，在重重枷锁中，苦寻自由而难得，最终发现这
 都是人性的本来面目。
 
 
-### 经济学的思维方式 {#经济学的思维方式}
+#### 经济学的思维方式 {#经济学的思维方式}
 
 通过本书，我们将会了解价格、投资和国际贸易等方方面面的知识，也会对媒体、政治
 家、公知的言论保持警醒和怀疑，不再不加批判地用“穷人”和“富人”来区分不同的人群。
 我们还会对房租管制、贸易平衡、贫富差距、统计数据产生全新的认识。
 
 
-### 穷查理宝典 {#穷查理宝典}
+#### 穷查理宝典 {#穷查理宝典}
 
-《穷查理宝典》首次收录了查理过去20年来主要的公开演讲，书中十一篇讲稿全面展现
+《穷查理宝典》首次收录了查理过去 20 年来主要的公开演讲，书中十一篇讲稿全面展现
 了这个传奇人物的聪明才智。此外，“芒格主义：查理的即席谈话”一章收录的是他以往
 在伯克希尔·哈撒韦公司和西科金融公司年会上犀利和幽默的评论。贯穿《穷查理宝典》
 全书的是芒格展示出来的聪慧、机智，其令人敬服的价值观和深不可测的修辞天赋。他
-拥有百科全书式的知识，所以从古代的雄辩家，到18、19世纪的欧洲文豪，再到当代的
+拥有百科全书式的知识，所以从古代的雄辩家，到 18、19 世纪的欧洲文豪，再到当代的
 流行文化偶像，这些人的名言他都能信手拈来，并用这些来强调终身学习和保持求知欲
 望的好处。
 
 
-### 决策的艺术 {#决策的艺术}
+#### 决策的艺术 {#决策的艺术}
 
 本书提供的这套科学流程让你能以最少的时间、财力、精力消耗做出最优决策。这套流
 程高度灵活，适合商业和专业决策、个人事务决策、家庭事务决策，可以说适合你做出
 的任何决策。
 
 
-### 写作法宝 {#写作法宝}
+#### 写作法宝 {#写作法宝}
 
 《写作法宝》一书，以其合理的建议、清晰的表述、温和的风格而为读者称道。本书为
 所有想要写作的人而写，不论你想写的是人、地方、科技、商务、运动、艺术还是你自
 己。书中的原则和观点，已经被几代作家和学生分享。
 
 
-### 用数字说话 {#用数字说话}
+#### 用数字说话 {#用数字说话}
 
 浓缩了许多好书的精华内容、无数科学家和评论家的集体智慧。在图书泛滥、随读随弃的年代。
 
 
-### 机构投资的创新之路 {#机构投资的创新之路}
+#### 机构投资的创新之路 {#机构投资的创新之路}
 
-耶鲁捐赠基金的投资策略历经时间考验，所创造的业绩骄人如故。史文森在任的23年间，
-耶鲁基金每年收益大幅超越市场，价值增加200多亿美元，遥遥领先于美国同行，是世界
+耶鲁捐赠基金的投资策略历经时间考验，所创造的业绩骄人如故。史文森在任的 23 年间，
+耶鲁基金每年收益大幅超越市场，价值增加 200 多亿美元，遥遥领先于美国同行，是世界
 上长期业绩最好的机构投资者之一。
 
 
-### 国家竞争优势 {#国家竞争优势}
+#### 国家竞争优势 {#国家竞争优势}
 
-在《国家竞争优势》中，波特基于10个主要发达国家的研究，根据企业凭以竞争的生产
+在《国家竞争优势》中，波特基于 10 个主要发达国家的研究，根据企业凭以竞争的生产
 率，第一次给出了理论解释。诸如自然资源和劳动力之类的传统比较优势，波特解释了
 它们作为财富的源泉是如何被替代的，以及对于竞争力泛泛的宏观经济解释是不充分的。
 
 
-### 第二曲线 {#第二曲线}
+#### 第二曲线 {#第二曲线}
 
 如果组织和企业能在第一曲线到达巅峰之前，找到带领企业二次腾飞的“第二曲线”，并
 且第二曲线必须在第一曲线达到顶点前开始增长，弥补第二曲线投入初期的资源（金钱、
 时间和精力）消耗，那么企业永续增长的愿景就能实现。
 
 
-### 红 {#红}
+#### 红 {#红}
 
-以一个普通男生的口吻，讲述了作者从20岁到23岁，从大学到工作、从国内到国外的真
+以一个普通男生的口吻，讲述了作者从 20 岁到 23 岁，从大学到工作、从国内到国外的真
 诚记载。没有大道理，没有矫揉造作，没有精心的推敲杜撰，记录了三年中生活的零散
 片段，有自言自语，也有对生活的感悟。以时间为载体，散文的格式，将日记、随笔、
 笔记、甚至是墙上的便条联系到一起。带领读者走进安东尼的漫长的岁月。
 
 
-### 写给无神论者 {#写给无神论者}
+#### 写给无神论者 {#写给无神论者}
 
 主题在于一个人即使是一个无信仰者，但是他也能发现宗教是有用的、有趣的并且给人
 带来安慰的 。在这部刺激的完全属于作者首创的并且即将面临着争议的作品中，德波顿
@@ -1126,55 +990,55 @@ Miniaturen）。作者茨威格以诗人和艺术家的笔触，尊崇历史的�
 够安慰怀疑论者当下思想的一面，让人们去感受美丽和睿智的东西。
 
 
-### 影响商业的50本书 {#影响商业的50本书}
+#### 影响商业的 50 本书 {#影响商业的-50-本书}
 
 本书的解读将从亚当·斯密的《国富论》开始，你可能听过这本书，却不一定知道它出版
 的那一年，美国发布《独立宣言》，历史在大跨度的勾连中散发出迷人的气息。
 
 
-### 佛祖都说了些什么 {#佛祖都说了些什么}
+#### 佛祖都说了些什么 {#佛祖都说了些什么}
 
 作者相信，一切看似高深莫测的学问，都能通过逻辑和理性来一一厘清其脉络。佛学这
 门深深写入中国文化基因的学问，它的发展与流变是怎样的？当我们说出“有缘”“报应”
 这些来源于佛教的词汇时，它们本来的意义是什么？
 
 
-### 大国大城 {#大国大城}
+#### 大国大城 {#大国大城}
 
-只有在聚集中经济发展才能走向均衡，地理的因素不容忽视，只有以追求人均GDP的均衡
-取代追求区域GDP的均衡，才能充分发挥出大国的国家竞争力，最终提升全体人民的公共
+只有在聚集中经济发展才能走向均衡，地理的因素不容忽视，只有以追求人均 GDP 的均衡
+取代追求区域 GDP 的均衡，才能充分发挥出大国的国家竞争力，最终提升全体人民的公共
 利益。
 
 
-### 好文案一句话就够了 {#好文案一句话就够了}
+#### 好文案一句话就够了 {#好文案一句话就够了}
 
-书中给出了9大锦囊、77个技巧，以实际案例示范改善写作方式，3秒钟即可帮助读者引
+书中给出了 9 大锦囊、77 个技巧，以实际案例示范改善写作方式，3秒钟即可帮助读者引
 爆创意。让人忍不住把书常置办公桌，如同字典一般，随时翻阅，让创作灵感随叫随到。
 
 
-### 时间的秩序 {#时间的秩序}
+#### 时间的秩序 {#时间的秩序}
 
 为什么我们记得过去，而非未来？时间“流逝”意味着什么？是我们存在于时间之内，还
 是时间存在于我们之中？卡洛·罗韦利用诗意的文字，邀请我们思考这一亘古难题——时间
 的本质。
 
 
-### 金钱不能买什么 {#金钱不能买什么}
+#### 金钱不能买什么 {#金钱不能买什么}
 
 迈克尔•桑德尔论述了当下最为突出的道德问题之一：在我们这个世界，任何事物都可以
 出售，这个世界难道没有问题？如果是这样，我们又该如何防止市场价值观侵蚀本不该
 由它们主导的领域？市场的道德界限又何在？
 
 
-### 冬牧场 {#冬牧场}
+#### 冬牧场 {#冬牧场}
 
-2010年冬天，李娟跟随一家熟识的哈萨克牧民深入阿勒泰南部的冬季牧场、沙漠，度过
+2010 年冬天，李娟跟随一家熟识的哈萨克牧民深入阿勒泰南部的冬季牧场、沙漠，度过
 了一段艰辛迥异的荒野生活。李娟是第一位描写哈萨克民族冬牧生活的汉族作家，她以
 饱含深情又不失节制的文字，呈现出阿尔泰最后一批“荒野主人”冬季转场时的独特生存
 景观。
 
 
-### 一个孤独漫步者的遐想 {#一个孤独漫步者的遐想}
+#### 一个孤独漫步者的遐想 {#一个孤独漫步者的遐想}
 
 《一个孤独漫步者的遐想》是法国大文豪让·雅克·卢梭临终遗作，是他在生命最后的日
 子里，在“再没有兄弟、邻人、朋友，没有任何人可以往来”的悲凄境况下，坦然展露的
@@ -1182,7 +1046,7 @@ Miniaturen）。作者茨威格以诗人和艺术家的笔触，尊崇历史的�
 的高尚情怀。
 
 
-### Securities Operations {#securities-operations}
+#### Securities Operations {#securities-operations}
 
 Securities Operations focuses on the settlement aspects of a securities
 transaction. As financial analysts make a greater effort toward quantifying
@@ -1190,31 +1054,31 @@ and managing operational risk, they are paying more attention to securities
 transactions in general and to the settlement phase in particular.
 
 
-### 理想国 {#理想国}
+#### 理想国 {#理想国}
 
 是西方政治思想传统\*代表性的作品，是西方\*部系统论述乌托邦思想的著作，被称为“关
 于正义的学说”，它奠定了西方正义学说的基础。
 
 
-### 阅读与写作 {#阅读与写作}
+#### 阅读与写作 {#阅读与写作}
 
 是培养学生具有一定的文章阅读与写作理论水平、较高的鉴赏与写作能力的专业基础课
 程，具有较强的基础性、综合性和实践性特点。
 
 
-### 文章例话 {#文章例话}
+#### 文章例话 {#文章例话}
 
 本小书选录了二十四篇文章……我决不说这些文章以外再没有好文章，我只想给读者看看，
 这样的文章就是好文章了。要写好文章绝不是铺一张纸，拿一支笔，摇头晃脑硬想一阵
 就能办到的事儿：读了这二十四篇之后至少可以悟到这一点。
 
 
-### 文心 {#文心}
+#### 文心 {#文心}
 
 这是一本专讲读和写的书，设定的拟想读者是中学生，也包括教学环节另一端的中学教师
 
 
-### 非零和时代 {#非零和时代}
+#### 非零和时代 {#非零和时代}
 
 本书将生物进化和人类的文化演进进行比较，从细菌的化石一路叙述到石器时代的石斧，
 从中世纪伊斯兰教的商业模式一路叙述到世界贸易组织，探寻不同文化共有的发展轨迹
@@ -1222,7 +1086,7 @@ transactions in general and to the settlement phase in particular.
 地球形成一个统一的大脑。
 
 
-### 伟大的中国工业革命 {#伟大的中国工业革命}
+#### 伟大的中国工业革命 {#伟大的中国工业革命}
 
 中国崛起无疑是人类历史上自英国工业革命以来为壮观的全球性历史事件。而当代西方
 主流经济学理论，尤其是关于经济发展的制度经济学理论，却无力解释中国的崛起。作
@@ -1230,95 +1094,95 @@ transactions in general and to the settlement phase in particular.
 解释中国的增长奇迹，以及为什么中国义无反顾的崛起是不可阻挡的。
 
 
-### 大衰退年代 {#大衰退年代}
+#### 大衰退年代 {#大衰退年代}
 
 呈现了宏观经济学的全新理论，为应对停滞挑战和困扰许多发达国家的收入不平等恶化
 问题提供了解决方案。
 
 
-### 创造力 {#创造力}
+#### 创造力 {#创造力}
 
-积极心理学大师希斯赞特米哈伊历时30年潜心研究的经典之作。他访谈了包括14位诺贝
-尔奖得主在内的91名创新者，分析他们的人格特征，以及他们在创新过程中的“心流”体
+积极心理学大师希斯赞特米哈伊历时 30 年潜心研究的经典之作。他访谈了包括 14 位诺贝
+尔奖得主在内的 91 名创新者，分析他们的人格特征，以及他们在创新过程中的“心流”体
 验，总结出创造力产生的运作方式，提出了令每个人的生活变得丰富而充盈的实用建议。
 
 
-### 超级版图 {#超级版图}
+#### 超级版图 {#超级版图}
 
 全球化并未进入深水区，与之相反，全球化正在进入超级全球化阶段，一幅全世界范围
 内互联互通的超级版图正在形成。
 
 
-### 笑傲股市 {#笑傲股市}
+#### 笑傲股市 {#笑傲股市}
 
-欧奈尔在这本书中总结了他的选股模式CAN SLIM，每一个字母都代表一种尚未发动大涨
-势的潜在优质股的特征。本书包含的买入和卖出规则都是通过对20世纪每一年最赚钱的
+欧奈尔在这本书中总结了他的选股模式 CAN SLIM，每一个字母都代表一种尚未发动大涨
+势的潜在优质股的特征。本书包含的买入和卖出规则都是通过对 20 世纪每一年最赚钱的
 股票进行深入分析后得出的，反映出股市的真实运行状况。
 
 
-### 崩溃 {#崩溃}
+#### 崩溃 {#崩溃}
 
 今天，一些人类社会也因面临类似的问题而生灵涂炭、家园残破，就像卢旺达和海地发
 生的悲剧；即使那风景如画、人间天堂般的美国蒙大拿州，也早已危机四伏。面对这一
 切，我们该如何抉择，才能避免自己走上崩溃之路？
 
 
-### 金融心理学 {#金融心理学}
+#### 金融心理学 {#金融心理学}
 
 《金融心理学》是一本研究投资者心理和股票市场价格变化之间关系的经典图书。作者
 让我们看到，股票市场巧妙地把客观的交易方法和主观的心理因素结合在一起，许多技
 术性分析的结论都印证了这一点。
 
 
-### 巴菲特之道 {#巴菲特之道}
+#### 巴菲特之道 {#巴菲特之道}
 
 伴随着巴菲特的个人经历和职业历程，这本书还介绍了很多重要人物，从本杰明·格雷厄
 姆到菲利普·费雪，再到查理·芒格，他们影响了巴菲特的投资观。
 
 
-### 西方将主宰多久 {#西方将主宰多久}
+#### 西方将主宰多久 {#西方将主宰多久}
 
-伊恩•莫里斯站在长达5万年的东西方人类发展史上，指出为什么西方的统治地位既非长
+伊恩•莫里斯站在长达 5 万年的东西方人类发展史上，指出为什么西方的统治地位既非长
 期注定，也非短期偶然。这两种理论都无法解释为何在落后的情况下，近现代西方的发
 展反而远远超过东方。
 
 
-### 科学发现的逻辑 {#科学发现的逻辑}
+#### 科学发现的逻辑 {#科学发现的逻辑}
 
 《科学发现的逻辑》主要讨论知识理论的两个基本问题：划界和归纳问题。作者论证科
 学与非科学的划界标准不是可证实性而是可证伪性，科学的方法不是归纳法而是演绎检
 验法。
 
 
-### 开放社会及其敌人 {#开放社会及其敌人}
+#### 开放社会及其敌人 {#开放社会及其敌人}
 
 在这部巨著中，波卡尔把笔墨集中于对柏拉图、黑格尔和马克思三个思想家的社会政治
 哲学的批判上，认为正是他们的思想构成现代极权主义的来源，但对于“开放社会”究竟
 是什么，却很少正面提及更没有加以系统说明。
 
 
-### 自由的未来 {#自由的未来}
+#### 自由的未来 {#自由的未来}
 
 本书写作目的在呼吁自我节制，恢复自由和民主之间的平衡。它并不反对民主，但它的
 确认为可能会有过分民主的情况。自由民主政治的精意在于建立起一套丰富、复杂又机
 巧的社会秩序，不受任何单一的理念主控一切。
 
 
-### 神的历史 {#神的历史}
+#### 神的历史 {#神的历史}
 
 这是一本关于犹太教、伊斯兰教和基督教之神的书。全书以犹太人从巴比伦时期的异教
 偶像崇拜逐渐转型到史无前例的一神概念为开端，接着叙述了基督教与伊斯兰教如何在
 这个革命性观念的基础上，重新塑造适合他们社会和政治环境需求的一神概念。
 
 
-### 股票大作手回忆录 {#股票大作手回忆录}
+#### 股票大作手回忆录 {#股票大作手回忆录}
 
 埃德温•勒菲弗的《股票大作手回忆录》一书，不但用鲜活的笔触，复原了他充满激情的
 生活历程，更从专业的角度，详细介绍了李弗莫尔的各种技巧，并用最准备的表述，无
 限接近了他的思想最深邃处
 
 
-### 股票大作手操盘术 {#股票大作手操盘术}
+#### 股票大作手操盘术 {#股票大作手操盘术}
 
 由华尔街传奇股票操盘手杰西·利弗莫尔亲笔所著，系统介绍了他自己独创的基于时间与
 价格两大要素的股市交易法则，配有他具体操盘的详细记录。此外，译者还结合当下股
@@ -1326,74 +1190,74 @@ transactions in general and to the settlement phase in particular.
 尔的交易思想更加易于被理解和掌握。
 
 
-### 道氏理论 {#道氏理论}
+#### 道氏理论 {#道氏理论}
 
 道氏理论也不仅仅是查尔斯·亨利·道个人的理论，它是以道氏为代表的，随后又由后来
 的几代开拓者不断总结、不断发展、不断完善、不断创新的理论。当今的年代是一个理
 论创新的年代，一百多年来道氏理论也在发展，也在创新。
 
 
-### 理性乐观派 {#理性乐观派}
+#### 理性乐观派 {#理性乐观派}
 
 这本大胆的书涵盖了人类的整个历史，从石器时代说到互联网，从旧制度的积重难返讲
 到蒸汽机的发明，从新近的人口爆炸谈到气候变化可能的后果。
 
 
-### 飘 {#飘}
+#### 飘 {#飘}
 
 精明的她对爱情却无比单纯。看着她那么固执，甚至盲目地爱着自己虚构出的一尊没有
 生命的偶像，看着她和真爱的瑞特渐行渐远，我们在叹息的同时总会被她对阿希礼的痴
 迷、傻气所感动，虽然这爱是个错误。
 
 
-### 禅与摩托车维修艺术 {#禅与摩托车维修艺术}
+#### 禅与摩托车维修艺术 {#禅与摩托车维修艺术}
 
 在一个炎热的夏天，父子两人和约翰夫妇骑摩托车从明尼苏达到加州，跨越美国大陆，
 旅行的过程与一个青年斐德洛研修科学技术与西方经典，寻求自我的解脱，以及探寻生
 命的意义的过程相互穿插。
 
 
-### 面纱 {#面纱}
+#### 面纱 {#面纱}
 
 《面纱》讲述了：容貌娇美而又爱慕虚荣的英国女子凯蒂，为了避免自己变成一位老姑
-娘，接受了生性孤僻的医生瓦尔特·费恩的求婚。她离开了上世纪20年代伦敦浮华而空虚
+娘，接受了生性孤僻的医生瓦尔特·费恩的求婚。她离开了上世纪 20 年代伦敦浮华而空虚
 的社交圈，随瓦尔特远赴神秘的东方殖民地——香港。
 
 
-### 失乐园 {#失乐园}
+#### 失乐园 {#失乐园}
 
 本书讲述的是一场悲剧性的婚外恋，从一个侧面反映了都市生活和当代日本人的种种心
 态。作品情节生动曲折，真切感人，文字优美。本书在日本出版后曾长期雄踞畅销书排
 行榜榜首，改编成同名电影和电视剧上演后家喻户晓。
 
 
-### 滚雪球 {#滚雪球}
+#### 滚雪球 {#滚雪球}
 
 这本他生平唯一授权的官方传记，以从未有过的视角，揭开了巴菲特的真实人生。
 
 
-### 博弈论 {#博弈论}
+#### 博弈论 {#博弈论}
 
 《博弈论》一书既包含了博弈数学理论的细致说明，又包含了该理论多方面的应用与实
 践。书中用丰富详实的案例，介绍了零和博弈、三人博弈、混合策略、囚徒困境等经典
 的博弈理论，每个博弈案例背后，都有一个可以运用的策略帮你解决人生难题。
 
 
-### 一地鸡毛 {#一地鸡毛}
+#### 一地鸡毛 {#一地鸡毛}
 
 一部琐碎人生的范本。一部关系学的教科书，再现了单位这一微观天地，鸡毛蒜皮，纤
 毫毕现，不嫌其俗，不掩其恶，“酱缸”之臭，人心之险，一一展示无遗。王朔指出，它
 一扫以往的英雄主
 
 
-### 像计算机科学家一样思考 Python {#像计算机科学家一样思考-python}
+#### 像计算机科学家一样思考 Python {#像计算机科学家一样思考-python}
 
-本书以培养读者以计算机科学家一样的思维方式来理解Python语言编程。贯穿全书的主
+本书以培养读者以计算机科学家一样的思维方式来理解 Python 语言编程。贯穿全书的主
 体是如何思考、设计、开发的方法，而具体的编程语言，只是提供了一个具体场景方便
 介绍的媒介。
 
 
-### 伊索寓言 {#伊索寓言}
+#### 伊索寓言 {#伊索寓言}
 
 《伊索寓言》，是一个充满野蛮幽默、机敏急智、文字游戏、巧施计谋和“我早就说过！”的
 世界。伟大的“寓言之父”伊索，用狐狸、狼、狮子、乌鸦、乌龟、兔子、老鼠、狗、羊、
@@ -1401,17 +1265,17 @@ transactions in general and to the settlement phase in particular.
 定决心在今后的生活中，表现出更多的同情、慈悲和宽容。
 
 
-### 莎士比亚戏剧集 {#莎士比亚戏剧集}
+#### 莎士比亚戏剧集 {#莎士比亚戏剧集}
 
 
-### 刺青 {#刺青}
+#### 刺青 {#刺青}
 
 谷崎的早期作品具有强烈的恶魔主义文学风格。对美的深度追求使得谷崎润一郎在作品
 中大胆地展示出人物异于常人而无法言说的欲望，字里行间完全颠覆了传统的审美观和
 道德观。
 
 
-### 老人与海 {#老人与海}
+#### 老人与海 {#老人与海}
 
 本书讲述了一个渔夫的故事。古巴老渔夫圣地亚哥在连续八十四天没捕到鱼的情况下，
 终于独自钓上了一条大马林鱼，但这鱼实在大，把他的小船在海上拖了三天才筋疲力尽，
@@ -1420,14 +1284,14 @@ transactions in general and to the settlement phase in particular.
 待，满怀信心地迎接着他的归来。
 
 
-### 百万英镑 {#百万英镑}
+#### 百万英镑 {#百万英镑}
 
 这本中短篇选集收入作者的十三篇小说，编排次序按照原作发表年份的先后；这些故事
 或以脍炙人口（如《百万英镑》、《竞选州长》），或比较不那么为众人所熟悉（如
 《哥尔斯密的朋友再度出洋》、《火车上的食人事件》），但无不生动有趣而给人启迪。
 
 
-### 马耳他之鹰 {#马耳他之鹰}
+#### 马耳他之鹰 {#马耳他之鹰}
 
 一位美丽的女子上门委托萨姆·斯佩德跟踪和自己妹妹私奔了的男人，然而萨姆派去的搭
 档当晚就死于阴暗的小巷，而被跟踪的人也在几小时后死亡。萨姆随即发现事情与女子
@@ -1436,33 +1300,33 @@ transactions in general and to the settlement phase in particular.
 与美人计轮番上阵，萨姆将如何认清他们的真面目？
 
 
-### 数学之美 {#数学之美}
+#### 数学之美 {#数学之美}
 
 读了“数学之美”，才发现大学时学的数学知识，比如马尔可夫链、矩阵计算，甚至余弦
 函数原来都如此亲切，并且栩栩如生，才发现自然语言和信息处理这么有趣。
 
 
-### 浪潮之巅 {#浪潮之巅}
+#### 浪潮之巅 {#浪潮之巅}
 
 除了讲述科技顶尖企业的发展规律，对于华尔街如何左右科技公司，以及金融风暴对科
 技产业的冲击，也多有着墨。
 
 
-### 大学之路 {#大学之路}
+#### 大学之路 {#大学之路}
 
 在书中，作者阐述了英美著名教育家的教育理念，系统地介绍了英美名校的特色和差异，
 比较了中美两国在教育上的差异，并且结合自己的亲身体会，对年轻人给出了自我发展
 的建议。
 
 
-### 智能时代 {#智能时代}
+#### 智能时代 {#智能时代}
 
 作者吴军在《智能时代：大数据与智能革命重新定义未来》中指出，首先，我们在过去
 认为非常难以解决的问题，会因为大数据和机器智能的使用而迎刃而解，比如解决癌症
 个性化治疗的难题。
 
 
-### 公司进化论 {#公司进化论}
+#### 公司进化论 {#公司进化论}
 
 在本书中，摩尔根据自身独特的五阶段品类生命周期理论和“鸿沟”模型，科学地刻画了
 企业如何选择适合其所处情势的创新类型，巧妙地加以利用“机会之窗”、外部资源和内
@@ -1470,7 +1334,7 @@ transactions in general and to the settlement phase in particular.
 或服务到大规模运营再转向复杂产品系统的演化过程。
 
 
-### 阿含经校注 {#阿含经校注}
+#### 阿含经校注 {#阿含经校注}
 
 汉译四部《阿含经》——《杂阿含经》、《中阿含经》、《长阿含经》与《增一阿含经》，
 是由佛陀的圣弟子于佛陀般涅槃的当年夏安居时结集出来的，忠实地汇集了佛陀自成佛
@@ -1479,7 +1343,7 @@ transactions in general and to the settlement phase in particular.
 的“根本佛法”。
 
 
-### 竞争战略 {#竞争战略}
+#### 竞争战略 {#竞争战略}
 
 竞争战略是指企业在同一使用价值的竞争上采取进攻或防守的长期行为。波特在本书中
 提出了三种卓有成效的竞争战略：总成本领先战略、差异化战略和集中战略，并对这三
@@ -1490,16 +1354,16 @@ transactions in general and to the settlement phase in particular.
 战略的新领域，对全球企业发展和管理学研究的进步做出了重要贡献。
 
 
-### 竞争优势 {#竞争优势}
+#### 竞争优势 {#竞争优势}
 
 《竞争优势》编辑推荐：作为世界上最知名的管理学大师、最伟大的商业思想家之一，
 迈克尔•波特已在企业竞争的领域研究了数十年。 《竞争战略 》、《竞争优势》等“竞
 争系列”作品是其代表性经典著作，也被誉为管理界的“圣经”。
 
 
-### 国家竞争优势 {#国家竞争优势}
+#### 国家竞争优势 {#国家竞争优势}
 
-《国家竞争优势(上)》基于10个主要发达国家的研究，根据企业凭以竞争的生产率，迈
+《国家竞争优势(上)》基于 10 个主要发达国家的研究，根据企业凭以竞争的生产率，迈
 克尔•波特第一次对此给出了全面的理论解释，也就是他在《国家竞争优势(上)》一书中
 提出的“国家竞争优势钻石理论”，一种理解国家或地区全球竞争地位的全新方法，现在
 已经成为国际商业思维中不可或缺的一部分。波特的“集群”观点或相互联系的企业、供
@@ -1507,24 +1371,24 @@ transactions in general and to the settlement phase in particular.
 估地区的竞争优势和制定公共政策的一种新方式。
 
 
-### 百年孤独 {#百年孤独}
+#### 百年孤独 {#百年孤独}
 
 《百年孤独》是魔幻现实主义文学的代表作，描写了布恩迪亚家族七代人的传奇故事，
 以及加勒比海沿岸小镇马孔多的百年兴衰，反映了拉丁美洲一个世纪以来风云变幻的历
 史。作品融入神话传说、民间故事、宗教典故等神秘因素，巧妙地糅合了现实与虚幻，
-展现出一个瑰丽的想象世界，成为20世纪最重要的经典文学巨著之一。1982年加西亚•马
+展现出一个瑰丽的想象世界，成为 20 世纪最重要的经典文学巨著之一。1982 年加西亚•马
 尔克斯获得诺贝尔文学奖，奠定世界级文学大师的地位，很大程度上乃是凭借《百年孤
 独》的巨大影响。
 
 
-### 科学管理原理 {#科学管理原理}
+#### 科学管理原理 {#科学管理原理}
 
 泰勒的管理理论看似简单，其实内涵丰富，并非能被一个时代完全吸收。只有亲自翻阅
 大师的著作，才能领会管理的真谛；也只有实践大师的理论，才能实现管理的目标——“使
 雇主的财富最大化，同时也使每一位雇员的财富最大化”。
 
 
-### 创新者的窘境 {#创新者的窘境}
+#### 创新者的窘境 {#创新者的窘境}
 
 在《创新者的窘境》中，管理大师克里斯坦森指出，一些看似很完美的商业动作——对主
 流客户所需、赢利能力最强的产品进行精准投资和技术研发——最终却很可能毁掉一家优
@@ -1535,15 +1399,15 @@ transactions in general and to the settlement phase in particular.
 握产业增长的下一波浪潮。
 
 
-### 创新者的解答 {#创新者的解答}
+#### 创新者的解答 {#创新者的解答}
 
-《创新者的解答》讲述为了追求创新成长机会，美国电信巨子AT&T在短短10年间，总共
-耗费了500亿美元。企业为了保持成功记录，会面对成长的压力以达成持续获利的目标。
+《创新者的解答》讲述为了追求创新成长机会，美国电信巨子 AT&amp;T 在短短 10 年间，总共
+耗费了 500 亿美元。企业为了保持成功记录，会面对成长的压力以达成持续获利的目标。
 但是如果追求成长的方向出现偏误，后果往往比没有成长更糟。因此，如何创新，并选
 对正确方向，是每个企业最大的难题。
 
 
-### 精益思想 {#精益思想}
+#### 精益思想 {#精益思想}
 
 本书的成功在于它对精益生产方式做了最好的总结，为读者提供了精益的核心原则，实
 地考察了美国、德国、日本若干具有代表性的大小企业推行精益的实际情况和心得，为
@@ -1554,7 +1418,7 @@ transactions in general and to the settlement phase in particular.
 起来；依靠客户需求拉动价值流；不断改善，追求尽善尽美。
 
 
-### 产品开发流程原则：第二代精益产品开发 {#产品开发流程原则-第二代精益产品开发}
+#### 产品开发流程原则：第二代精益产品开发 {#产品开发流程原则-第二代精益产品开发}
 
 In this book, Reinertsen provides an examination of product development
 practices. He explains why invisible and unmanaged queues are the underlying
@@ -1563,7 +1427,7 @@ form and how they undermine the speed, quality, and efficiency in product
 development.
 
 
-### 人民的大亨：亨利·福特和美国世纪 {#人民的大亨-亨利-福特和美国世纪}
+#### 人民的大亨：亨利·福特和美国世纪 {#人民的大亨-亨利-福特和美国世纪}
 
 How a Michigan farm boy became the richest man in America is a classic,
 almost mythic tale, but never before has Henry Ford’s outsized genius been
@@ -1579,7 +1443,7 @@ woman. A rabid anti-Semite, he nonetheless embraced African American workers
 in the era of Jim Crow.
 
 
-### 唯一佳径：弗雷德里克·温斯洛·泰罗和效率之谜 {#唯一佳径-弗雷德里克-温斯洛-泰罗和效率之谜}
+#### 唯一佳径：弗雷德里克·温斯洛·泰罗和效率之谜 {#唯一佳径-弗雷德里克-温斯洛-泰罗和效率之谜}
 
 A young man named Frederick Winslow Taylor chose a factory over Harvard --
 and his decision has made all the difference in the world as we know it
@@ -1591,17 +1455,17 @@ lasting contribution America has made to Western thought since the Federalist
 Papers".
 
 
-### 解析极限编程：拥抱变化 {#解析极限编程-拥抱变化}
+#### 解析极限编程：拥抱变化 {#解析极限编程-拥抱变化}
 
-这本书介绍了XP背后的思想——它的根源、哲学、情节等。它将帮助读者选择是否在项目
-中使用XP时做出明智的决策。本书的另一个目的是帮助那些已经在使用 XP的读者更好地
-理解它。 对程序员而言，XP做出的承诺是他们每天能够处理真正重要的工作，而不必单
+这本书介绍了 XP 背后的思想——它的根源、哲学、情节等。它将帮助读者选择是否在项目
+中使用 XP 时做出明智的决策。本书的另一个目的是帮助那些已经在使用 XP 的读者更好地
+理解它。 对程序员而言，XP 做出的承诺是他们每天能够处理真正重要的工作，而不必单
 独面对令人担忧的状况。他们将能够集中全力来使他们的系统获得成功。他们将做出最
-适合由他们来做的决策。对于客户和管理人员而言，XP的承诺是他们将从每个编程周期
+适合由他们来做的决策。对于客户和管理人员而言，XP 的承诺是他们将从每个编程周期
 中获得最多的利益。他们将能够在开发的中途更改项目的方向而不用承担太高的成本。
 
 
-### 丰田生产方式 {#丰田生产方式}
+#### 丰田生产方式 {#丰田生产方式}
 
 《丰田生产方式》是丰田汽车公司前副社长大野耐一先生最经典的作品，系统揭开了丰
 田公司卓越的秘密，涵盖其及时化（JIT）、自动化、看板方式、标准作业、精益化等生
@@ -1609,7 +1473,7 @@ Papers".
 重要的标杆，成为国际通用的企业教科书。
 
 
-### 胜券在握：包以德战略的商业应用 {#胜券在握-包以德战略的商业应用}
+#### 胜券在握：包以德战略的商业应用 {#胜券在握-包以德战略的商业应用}
 
 This is the first book to describe Boyd’s strategy in terms familiar to
 business leaders and to show how they apply to today’s business problems.
@@ -1620,7 +1484,7 @@ the one that wins. Although Boyd never wrote a business book himself, he read
 and commented on every version of this manuscript until his death in 1997.
 
 
-### 管理的实践 {#管理的实践}
+#### 管理的实践 {#管理的实践}
 
 《管理的实践》提供了观念、原则和工具，是一套极具系统化的管理知识。这本书问市
 后，不仅在美国一炮而红，而且在全球各地也都非常成功，包括在欧洲，拉丁美洲，尤
@@ -1628,16 +1492,16 @@ and commented on every version of this manuscript until his death in 1997.
 石。
 
 
-### 杜兰特和斯隆：通用汽车两巨头传奇 {#杜兰特和斯隆-通用汽车两巨头传奇}
+#### 杜兰特和斯隆：通用汽车两巨头传奇 {#杜兰特和斯隆-通用汽车两巨头传奇}
 
-《杜兰特和斯隆》讲述的不仅仅是他们两个人的传奇，也是20世纪美国汽车业形成时代
+《杜兰特和斯隆》讲述的不仅仅是他们两个人的传奇，也是 20 世纪美国汽车业形成时代
 的故事。佩尔弗雷以其新闻记者的直觉和小说家的流畅与气魄，为读者描绘了杜兰特和
 斯隆那迥然不同而同样动人心魄的奋斗历程以及通用汽车公司本身发展壮大的曲折故事，
-同时将历史上一段非凡的时代刻画得栩栩如生，全景式地反映了美国20世纪前半叶充满
+同时将历史上一段非凡的时代刻画得栩栩如生，全景式地反映了美国 20 世纪前半叶充满
 动荡而又高速发展变化的社会生活，是一本呕心沥血之作。
 
 
-### 制订B计划：向更好的业务模式突破 {#制订b计划-向更好的业务模式突破}
+#### 制订 B 计划：向更好的业务模式突破 {#制订-b-计划-向更好的业务模式突破}
 
 As John Mullins and Randy Komisar explain in Getting to Plan B, new
 businesses are fraught with uncertainty. To succeed, you must change the plan
@@ -1647,21 +1511,21 @@ failing-and that many successful businesses barely resemble their founders'
 original idea.
 
 
-### 四步创业法 {#四步创业法}
+#### 四步创业法 {#四步创业法}
 
-《四步创业法》获李开复推荐，是精益创业理论的奠基之作。作者Steven Gary Blank博
+《四步创业法》获李开复推荐，是精益创业理论的奠基之作。作者 Steven Gary Blank 博
 士是硅谷资深企业家，他一共创办了八家企业，并担任多家硅谷公司的董事和创业顾问。
-本书总结作者25年创业经验，提出全新的客户发展方法 （诣在弥补传统产品开发方法的
+本书总结作者 25 年创业经验，提出全新的客户发展方法 （诣在弥补传统产品开发方法的
 缺陷） ，掀起了硅谷近年精益创业 的浪潮。
 
 
-### 我在通用汽车的岁月：斯隆自传 {#我在通用汽车的岁月-斯隆自传}
+#### 我在通用汽车的岁月：斯隆自传 {#我在通用汽车的岁月-斯隆自传}
 
 《我在通用汽车的岁月》对通用诸如计划和战略、持续经营、财务成长以及领导等企业
 基本的管理政策和战略概念的早期创新和发展进行了详细描述。
 
 
-### 创业者的客户开发指南 {#创业者的客户开发指南}
+#### 创业者的客户开发指南 {#创业者的客户开发指南}
 
 This book is both an introduction for those unfamiliar with lean concepts and
 highly actionable for lean practitioners. It is a user friendly guide,
@@ -1675,9 +1539,9 @@ achieve market traction, or well established companies seeking to spark new
 innovation.
 
 
-### 组织行为学 {#组织行为学}
+#### 组织行为学 {#组织行为学}
 
-本书共6篇19章，围绕组织行为学这个中心内容，分别从个体行为、群体行为、组织系统
+本书共 6 篇 19 章，围绕组织行为学这个中心内容，分别从个体行为、群体行为、组织系统
 和组织动力的角度，论述了组织管理中“人”的行为问题。尤其是作者从大量的研究案例
 和数据中归纳出许多新颖而独辟蹊径的观点，如群体；冲突的观点，作者认为一定程度
 的冲突有利于改善组织的运作绩效等，此类论述常常使人耳目一新。本书不仅语言生动
@@ -1686,7 +1550,7 @@ innovation.
 消化了本书的核心内容。
 
 
-### Ready, Fire, Aim: Zero to $100 Million in No Time Flat {#ready-fire-aim-zero-to-100-million-in-no-time-flat}
+#### Ready, Fire, Aim: Zero to $100 Million in No Time Flat {#ready-fire-aim-zero-to-100-million-in-no-time-flat}
 
 Whether you're thinking about starting a new business or growing an existing
 one, Ready, Fire, Aim has what you need to succeed in your entrepreneurial
@@ -1698,24 +1562,24 @@ teaches you the different skills needed in order to excel in this dynamic
 environment.
 
 
-### 风险、不确定性与利润 {#风险-不确定性与利润}
+#### 风险、不确定性与利润 {#风险-不确定性与利润}
 
-《风险不确定性与利润》讲述在20世纪的一百年中，经济学思想经历了三个交叠而又充
+《风险不确定性与利润》讲述在 20 世纪的一百年中，经济学思想经历了三个交叠而又充
 满争论的阶段。第一阶段是由马歇尔集大成、并梳理为新古典主义经济学思想的“边际革
 命”阶段；第二阶段是“凯恩斯革命”，对新古典主义经济学自由放任原则产生怀疑的阶段；
-第三阶段出现在20世纪60年代末期，史称“新古典主义的反凯恩期革命”，这场革命实际
+第三阶段出现在 20 世纪 60 年代末期，史称“新古典主义的反凯恩期革命”，这场革命实际
 上经过很长的酝酿，有很多支持者，其中最重要的人物就是《风险不确定性与利润》作
 者弗兰克·H·奈特。
 
 
-### 2001 太空漫游 {#2001-太空漫游}
+#### 2001 太空漫游 {#2001-太空漫游}
 
 一块神秘的黑色石板，出现在非洲丰饶广袤的草原上。没有人知道是谁放在那里的，因
-为那里根本没有“人”。但地球未来的主宰者，却从此踏上了他们漫长的征途。300万年后
+为那里根本没有“人”。但地球未来的主宰者，却从此踏上了他们漫长的征途。300 万年后
 的一个寻常日子，一块黑色石板在月球上被人类挖出。
 
 
-### 陶渊明诗 {#陶渊明诗}
+#### 陶渊明诗 {#陶渊明诗}
 
 陶渊明是两汉至南北朝时期最杰出的诗人，同时也是卓越的词赋家与散文家。在中国文
 学史上享有崇高的地位。他的诗从内容上可分为田园诗、饮酒诗和咏怀诗三大类。其中
@@ -1724,16 +1588,661 @@ environment.
 了他的高尚节操和对人生的哲学思考，对后世的诗歌创作产生了深远的影响。
 
 
-### 相对论 {#相对论}
+#### 相对论 {#相对论}
 
 《相对论》内容包括狭义相对论、广义相对论、关于整个宇宙的一些考虑、相对论的验
 证、相对论的意义五部分。
 
 
-### 我是猫 {#我是猫}
+#### 我是猫 {#我是猫}
 
 主人公以一只猫的身份，俯视着日本当时的社会，俯视着二十世纪所谓现代文明的大潮，
 同时发出种种嘲弄和讽刺。作品通过主人公苦沙弥的生活，以诙谐的语言、细腻的笔调
 和犀利的笔锋，描绘了一批惯于谈天说地、道古论今的文人学士和势利小人，淋漓尽致
 地揭露和嘲讽了资本家、统治者，批判了金钱万能的社会和盲目崇拜西方生活方式的社
 会习气，塑造出一群自命清高、愤世嫉俗的知识分子形象。
+
+
+## ARTICLES {#articles}
+
+
+### 2022<code>[41/42]</code> {#2022}
+
+
+#### <span class="org-todo done DONE">DONE</span> The Product Report 2021 <span class="tag"><span class="report">report</span></span> {#the-product-report-2021}
+
+
+#### <span class="org-todo done DONE">DONE</span> The Product-Led Growth Flywheel <span class="tag"><span class="growth">growth</span></span> {#the-product-led-growth-flywheel}
+
+
+#### <span class="org-todo done DONE">DONE</span> Product-led growth metrics <span class="tag"><span class="growth">growth</span></span> {#product-led-growth-metrics}
+
+
+#### <span class="org-todo done DONE">DONE</span> How to shorten time to value with better user onboarding <span class="tag"><span class="growth">growth</span></span> {#how-to-shorten-time-to-value-with-better-user-onboarding}
+
+
+#### <span class="org-todo done DONE">DONE</span> Make Your Pirate Metrics Actionable <span class="tag"><span class="growth">growth</span></span> {#make-your-pirate-metrics-actionable}
+
+
+#### <span class="org-todo done DONE">DONE</span> The aha moment guide: How to find, optimize, and design for your product's aha moment <span class="tag"><span class="growth">growth</span></span> {#the-aha-moment-guide-how-to-find-optimize-and-design-for-your-product-s-aha-moment}
+
+
+#### <span class="org-todo done DONE">DONE</span> Product Direction - Growth <span class="tag"><span class="growth">growth</span></span> {#product-direction-growth}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Case Study#3 : Inside Booking.com's experimentation culture]({{< relref "20220315220943-case_study_3_inside_booking_com_s_experimentation_culture.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#case-study-3-inside-booking-dot-com-s-experimentation-culture--dot-dot-org-roam-20220315220943-case-study-3-inside-booking-com-s-experimentation-culture-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Identifying Growth KPIs that are leading indicators of product success]({{< relref "20220315220451-identifying_growth_kpis_that_are_leading_indicators_of_product_success.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#identifying-growth-kpis-that-are-leading-indicators-of-product-success--dot-dot-org-roam-20220315220451-identifying-growth-kpis-that-are-leading-indicators-of-product-success-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [What is product led growth?]({{< relref "20220315215817-what_is_product_led_growth.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#what-is-product-led-growth--dot-dot-org-roam-20220315215817-what-is-product-led-growth-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [5 psychological triggers to spark a successful user activation]({{< relref "20220315215119-5_psychological_triggers_to_spark_a_successful_user_activation.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#5-psychological-triggers-to-spark-a-successful-user-activation--dot-dot-org-roam-20220315215119-5-psychological-triggers-to-spark-a-successful-user-activation-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [How we implemented data and analytics for product-led growth]({{< relref "20220315213756-how_we_implemented_data_and_analytics_for_product_led_growth.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#how-we-implemented-data-and-analytics-for-product-led-growth--dot-dot-org-roam-20220315213756-how-we-implemented-data-and-analytics-for-product-led-growth-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Product Led Growth Knowledge Base]({{< relref "20220228193810-product_led_growth_knowledge_base.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#product-led-growth-knowledge-base--dot-dot-org-roam-20220228193810-product-led-growth-knowledge-base-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Netflix: Lessons in Experimentation]({{< relref "20220315224922-netflix_lessons_in_experimentation.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#netflix-lessons-in-experimentation--dot-dot-org-roam-20220315224922-netflix-lessons-in-experimentation-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> Q[Case Study#1: Netflix : 'The 10,000 Experiment Mindset']({{< relref "20220315224555-case_study_1_netflix_the_10_000_experiment_mindset.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#q-case-study-1-netflix-the-10-000-experiment-mindset--dot-dot-org-roam-20220315224555-case-study-1-netflix-the-10-000-experiment-mindset-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [How Booking.com Uses 1000's of Experiments]({{< relref "20220315224253-how_booking_com_uses_1000_s_of_experiments.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#how-booking-dot-com-uses-1000-s-of-experiments--dot-dot-org-roam-20220315224253-how-booking-com-uses-1000-s-of-experiments-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [It takes a Flywheel to Fly: Kickstarting and Keeping the A/B testing Momentum]({{< relref "20220315223857-it_takes_a_flywheel_to_fly_kickstarting_and_keeping_the_a_b_testing_momentum.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#it-takes-a-flywheel-to-fly-kickstarting-and-keeping-the-a-b-testing-momentum--dot-dot-org-roam-20220315223857-it-takes-a-flywheel-to-fly-kickstarting-and-keeping-the-a-b-testing-momentum-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [THE NETFLIX STORY: HOW THEY GOT 150 MILLION SUBSCRIBERS]({{< relref "20220316165219-the_netflix_story_how_they_got_150_million_subscribers.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#the-netflix-story-how-they-got-150-million-subscribers--dot-dot-org-roam-20220316165219-the-netflix-story-how-they-got-150-million-subscribers-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Getting Started on Zettelkasten Method]({{< relref "20220226113051-getting_started_on_zettelkasten_method.md" >}}) <span class="tag"><span class="productivity">productivity</span></span> {#getting-started-on-zettelkasten-method--dot-dot-org-roam-20220226113051-getting-started-on-zettelkasten-method-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Building a Culture of Experimentation]({{< relref "20220315221803-building_a_culture_of_experimentation.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#building-a-culture-of-experimentation--dot-dot-org-roam-20220315221803-building-a-culture-of-experimentation-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Product Monetization Strategies]({{< relref "20220315211113-product_monetization_strategies.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#product-monetization-strategies--dot-dot-org-roam-20220315211113-product-monetization-strategies-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Netflix: Lessons in Experimentation]({{< relref "20220315224922-netflix_lessons_in_experimentation.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#netflix-lessons-in-experimentation--dot-dot-org-roam-20220315224922-netflix-lessons-in-experimentation-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [A Beginner’s Guide to the Zettelkasten Method]({{< relref "20220226113151-a_beginner_s_guide_to_the_zettelkasten_method.md" >}}) <span class="tag"><span class="productivity">productivity</span></span> {#a-beginner-s-guide-to-the-zettelkasten-method--dot-dot-org-roam-20220226113151-a-beginner-s-guide-to-the-zettelkasten-method-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [It takes a Flywheel to Fly: Kickstarting and Keeping the A/B testing Momentum]({{< relref "20220315223857-it_takes_a_flywheel_to_fly_kickstarting_and_keeping_the_a_b_testing_momentum.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#it-takes-a-flywheel-to-fly-kickstarting-and-keeping-the-a-b-testing-momentum--dot-dot-org-roam-20220315223857-it-takes-a-flywheel-to-fly-kickstarting-and-keeping-the-a-b-testing-momentum-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Product Marketing the PLG Way: A Collection of Best Practices]({{< relref "20220413132051-product_marketing_the_plg_way_a_collection_of_best_practices.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#product-marketing-the-plg-way-a-collection-of-best-practices--dot-dot-org-roam-20220413132051-product-marketing-the-plg-way-a-collection-of-best-practices-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [What is Money, Anyway?]({{< relref "20220329170945-what_is_money_anyway.md" >}}) <span class="tag"><span class="financial">financial</span></span> {#what-is-money-anyway--dot-dot-org-roam-20220329170945-what-is-money-anyway-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Inside Product: Introduction to Feature Priority using ICE and GIST]({{< relref "20220412142124-inside_product_introduction_to_feature_priority_using_ice_impact_confidence_ease_and_gist_goals_ideas_step_projects_and_tasks.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#inside-product-introduction-to-feature-priority-using-ice-and-gist--dot-dot-org-roam-20220412142124-inside-product-introduction-to-feature-priority-using-ice-impact-confidence-ease-and-gist-goals-ideas-step-projects-and-tasks-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Why you should stop using product roadmaps and try the GIST Framework]({{< relref "20220412143738-why_you_should_stop_using_product_roadmaps_and_try_the_gist_framework.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#why-you-should-stop-using-product-roadmaps-and-try-the-gist-framework--dot-dot-org-roam-20220412143738-why-you-should-stop-using-product-roadmaps-and-try-the-gist-framework-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Learn faster with a Growth Process]({{< relref "20220621232511-learn_faster_with_a_growth_process.md" >}}) {#learn-faster-with-a-growth-process--dot-dot-org-roam-20220621232511-learn-faster-with-a-growth-process-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [The Surprising Power of Online Experiments]({{< relref "20220315210237-the_surprising_power_of_online_experiments.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#the-surprising-power-of-online-experiments--dot-dot-org-roam-20220315210237-the-surprising-power-of-online-experiments-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Fundamentals Of Statistics For Data Scientists and Analysts]({{< relref "20220426182940-fundamentals_of_statistics_for_data_scientists_and_analysts.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#fundamentals-of-statistics-for-data-scientists-and-analysts--dot-dot-org-roam-20220426182940-fundamentals-of-statistics-for-data-scientists-and-analysts-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [ICE Prioritization Done Right]({{< relref "20220414191628-ice_prioritization_done_right.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#ice-prioritization-done-right--dot-dot-org-roam-20220414191628-ice-prioritization-done-right-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [A/B Testing: The Basics!]({{< relref "20220426182630-a_b_testing_the_basics.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#a-b-testing-the-basics--dot-dot-org-roam-20220426182630-a-b-testing-the-basics-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Growth is about systems, not hacks or ideas]({{< relref "20220622132622-growth_is_about_systems_not_hacks_or_ideas.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#growth-is-about-systems-not-hacks-or-ideas--dot-dot-org-roam-20220622132622-growth-is-about-systems-not-hacks-or-ideas-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Successful growth teams are the ones who failed the most!]({{< relref "20220622134206-successful_growth_teams_are_the_ones_who_failed_the_most.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#successful-growth-teams-are-the-ones-who-failed-the-most--dot-dot-org-roam-20220622134206-successful-growth-teams-are-the-ones-who-failed-the-most-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Learn faster with a Growth Process]({{< relref "20220621232511-learn_faster_with_a_growth_process.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#learn-faster-with-a-growth-process--dot-dot-org-roam-20220621232511-learn-faster-with-a-growth-process-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Airbnb: The Growth Story You Didn't Know]({{< relref "20220622133826-airbnb_the_growth_story_you_didn_t_know.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#airbnb-the-growth-story-you-didn-t-know--dot-dot-org-roam-20220622133826-airbnb-the-growth-story-you-didn-t-know-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Your guide to PLG benchmarks]({{< relref "20220629131409-your_guide_to_plg_benchmarks.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#your-guide-to-plg-benchmarks--dot-dot-org-roam-20220629131409-your-guide-to-plg-benchmarks-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Top 12 books on SaaS product-led growth]({{< relref "20220629132216-top_12_books_on_saas_product_led_growth.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#top-12-books-on-saas-product-led-growth--dot-dot-org-roam-20220629132216-top-12-books-on-saas-product-led-growth-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [现代图片选择器（PHPicker）在 SwiftUI 应用]({{< relref "20220704123732-现代图片选择器_phpicker_在_swiftui_应用.md" >}}) {#现代图片选择器-phpicker-在-swiftui-应用--dot-dot-org-roam-20220704123732-现代图片选择器-phpicker-在-swiftui-应用-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [How to set the Minimum Detectable Effect in AB-Tests]({{< relref "20220529204218-how_to_set_the_minimum_detectable_effect_in_ab_tests.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#how-to-set-the-minimum-detectable-effect-in-ab-tests--dot-dot-org-roam-20220529204218-how-to-set-the-minimum-detectable-effect-in-ab-tests-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Free Trial vs. Freemium: Use the MOAT Framework to Decide]({{< relref "20220711201011-free_trial_vs_freemium_use_the_moat_framework_to_decide.md" >}}) {#free-trial-vs-dot-freemium-use-the-moat-framework-to-decide--dot-dot-org-roam-20220711201011-free-trial-vs-freemium-use-the-moat-framework-to-decide-dot-md}
+
+
+### READING LIST<code>[1/155]</code> {#reading-list}
+
+
+#### <span class="org-todo done DONE">DONE</span> [Modern GTM playbook for B2B SaaS]({{< relref "20220704192034-modern_gtm_playbook_for_b2b_saas.md" >}}) {#modern-gtm-playbook-for-b2b-saas--dot-dot-org-roam-20220704192034-modern-gtm-playbook-for-b2b-saas-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [使用 DevOps 规划高效工作负荷简介]({{< relref "20220709004711-使用_devops_规划高效工作负荷简介.md" >}}) {#使用-devops-规划高效工作负荷简介--dot-dot-org-roam-20220709004711-使用-devops-规划高效工作负荷简介-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Virality and Product-channel fit: The Story Behind Looms Explosive Growth]({{< relref "20220712231004-virality_and_product_channel_fit_the_story_behind_looms_explosive_growth.md" >}}) {#virality-and-product-channel-fit-the-story-behind-looms-explosive-growth--dot-dot-org-roam-20220712231004-virality-and-product-channel-fit-the-story-behind-looms-explosive-growth-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [How Zapier Grew Signups and Activations from their Blog by 400 Percent in 1 Year]({{< relref "20220712231103-how_zapier_grew_signups_and_activations_from_their_blog_by_400_percent_in_1_year.md" >}}) {#how-zapier-grew-signups-and-activations-from-their-blog-by-400-percent-in-1-year--dot-dot-org-roam-20220712231103-how-zapier-grew-signups-and-activations-from-their-blog-by-400-percent-in-1-year-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Zoom Product Metrics]({{< relref "20220712231325-zoom_product_metrics.md" >}}) {#zoom-product-metrics--dot-dot-org-roam-20220712231325-zoom-product-metrics-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Product-Led Growth Benchmarks 2022]({{< relref "20220712094243-product_led_growth_benchmarks_2022.md" >}}) {#product-led-growth-benchmarks-2022--dot-dot-org-roam-20220712094243-product-led-growth-benchmarks-2022-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Branding: Are You a Dragon Slayer or Patron Saint?]({{< relref "20220711202219-branding_are_you_a_dragon_slayer_or_patron_saint.md" >}}) {#branding-are-you-a-dragon-slayer-or-patron-saint--dot-dot-org-roam-20220711202219-branding-are-you-a-dragon-slayer-or-patron-saint-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Enterprise software leaders: add a PLG backbone in 2022]({{< relref "20220711204757-enterprise_software_leaders_add_a_plg_backbone_in_2022.md" >}}) {#enterprise-software-leaders-add-a-plg-backbone-in-2022--dot-dot-org-roam-20220711204757-enterprise-software-leaders-add-a-plg-backbone-in-2022-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [The Most Successful SMB SaaS Acquisition Channel Ever Built]({{< relref "20220707184351-the_most_successful_smb_saas_acquisition_channel_ever_built.md" >}}) {#the-most-successful-smb-saas-acquisition-channel-ever-built--dot-dot-org-roam-20220707184351-the-most-successful-smb-saas-acquisition-channel-ever-built-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [Fighting and Leveraging Inertia in Sales]({{< relref "20220707184435-fighting_and_leveraging_inertia_in_sales.md" >}}) {#fighting-and-leveraging-inertia-in-sales--dot-dot-org-roam-20220707184435-fighting-and-leveraging-inertia-in-sales-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [Customer Segmentation: A Step-by-Step Guide for Growth]({{< relref "20220706194951-customer_segmentation_a_step_by_step_guide_for_growth.md" >}}) {#customer-segmentation-a-step-by-step-guide-for-growth--dot-dot-org-roam-20220706194951-customer-segmentation-a-step-by-step-guide-for-growth-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [Onboarding never stops]({{< relref "20220704195848-onboarding_never_stops.md" >}}) {#onboarding-never-stops--dot-dot-org-roam-20220704195848-onboarding-never-stops-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [Product managers for the digital world]({{< relref "20220706220902-product_managers_for_the_digital_world.md" >}}) {#product-managers-for-the-digital-world--dot-dot-org-roam-20220706220902-product-managers-for-the-digital-world-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [10 Monetization Tips for Mobile Games in 2017]({{< relref "20220706220343-10_monetization_tips_for_mobile_games_in_2017.md" >}}) {#10-monetization-tips-for-mobile-games-in-2017--dot-dot-org-roam-20220706220343-10-monetization-tips-for-mobile-games-in-2017-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Why Software Is Eating The World]({{< relref "20220701100834-why_software_is_eating_the_world.md" >}}) <span class="tag"><span class="technoligy">technoligy</span></span> {#why-software-is-eating-the-world--dot-dot-org-roam-20220701100834-why-software-is-eating-the-world-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [The product qualified lead (PQL)]({{< relref "20220703173809-the_product_qualified_lead_pql.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#the-product-qualified-lead--pql----dot-dot-org-roam-20220703173809-the-product-qualified-lead-pql-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Amazon’s Friction-Killing Tactics To Make Products More Seamless]({{< relref "20220703174100-amazon_s_friction_killing_tactics_to_make_products_more_seamless.md" >}}) {#amazon-s-friction-killing-tactics-to-make-products-more-seamless--dot-dot-org-roam-20220703174100-amazon-s-friction-killing-tactics-to-make-products-more-seamless-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [The seven-step go-to-market strategy]({{< relref "20220703182645-the_seven_step_go_to_market_strategy.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#the-seven-step-go-to-market-strategy--dot-dot-org-roam-20220703182645-the-seven-step-go-to-market-strategy-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Freemium is Back! But You’ll Need 50 Million Active Users for Freemium to Actually Work as a Business Model.]({{< relref "20220703192915-freemium_is_back_but_you_ll_need_50_million_active_users_for_freemium_to_actually_work_as_a_business_model.md" >}}) {#freemium-is-back-but-you-ll-need-50-million-active-users-for-freemium-to-actually-work-as-a-business-model-dot--dot-dot-org-roam-20220703192915-freemium-is-back-but-you-ll-need-50-million-active-users-for-freemium-to-actually-work-as-a-business-model-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Marketing Qualified Leads Are Cool, But I’ll Take Product Qualified Leads Any Day]({{< relref "20220703182826-marketing_qualified_leads_are_cool_but_i_ll_take_product_qualified_leads_any_day.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#marketing-qualified-leads-are-cool-but-i-ll-take-product-qualified-leads-any-day--dot-dot-org-roam-20220703182826-marketing-qualified-leads-are-cool-but-i-ll-take-product-qualified-leads-any-day-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Product/Market Fit: What it really means, How to Measure it, and Where to find it]({{< relref "20220703190821-product_market_fit_what_it_really_means_how_to_measure_it_and_where_to_find_it.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it--dot-dot-org-roam-20220703190821-product-market-fit-what-it-really-means-how-to-measure-it-and-where-to-find-it-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [12 Things About Product-Market Fit]({{< relref "20220703190848-12_things_about_product_market_fit.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#12-things-about-product-market-fit--dot-dot-org-roam-20220703190848-12-things-about-product-market-fit-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [How To Track Customer Acquisitions]({{< relref "20220702152043-how_to_track_customer_acquisitions.md" >}}) <span class="tag"><span class="marketing">marketing</span></span> {#how-to-track-customer-acquisitions--dot-dot-org-roam-20220702152043-how-to-track-customer-acquisitions-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [How Sales Comp Plans Impact Customer Churn]({{< relref "20220703165951-how_sales_comp_plans_impact_customer_churn.md" >}}) {#how-sales-comp-plans-impact-customer-churn--dot-dot-org-roam-20220703165951-how-sales-comp-plans-impact-customer-churn-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Marketing Strategy Playbook (20 min video)]({{< relref "20220702152433-marketing_strategy_playbook_20_min_video.md" >}}) <span class="tag"><span class="marketing">marketing</span></span> {#marketing-strategy-playbook--20-min-video----dot-dot-org-roam-20220702152433-marketing-strategy-playbook-20-min-video-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Ideal Customer Profile (ICP): How To Create A Comprehensive Customer Profile]({{< relref "20220702152620-ideal_customer_profile_icp_how_to_create_a_comprehensive_customer_profile.md" >}}) <span class="tag"><span class="marketing">marketing</span></span> {#ideal-customer-profile--icp--how-to-create-a-comprehensive-customer-profile--dot-dot-org-roam-20220702152620-ideal-customer-profile-icp-how-to-create-a-comprehensive-customer-profile-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [Competitive Analysis: How To Conduct A Comprehensive Competitive Analysis]({{< relref "20220702152715-competitive_analysis_how_to_conduct_a_comprehensive_competitive_analysis.md" >}}) <span class="tag"><span class="marketing">marketing</span></span> {#competitive-analysis-how-to-conduct-a-comprehensive-competitive-analysis--dot-dot-org-roam-20220702152715-competitive-analysis-how-to-conduct-a-comprehensive-competitive-analysis-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Freemium vs Free Trial vs Hybrid Customer Acquisition Model in SaaS]({{< relref "20220702152749-freemium_vs_free_trial_vs_hybrid_customer_acquisition_model_in_saas.md" >}}) <span class="tag"><span class="marketing">marketing</span></span> {#freemium-vs-free-trial-vs-hybrid-customer-acquisition-model-in-saas--dot-dot-org-roam-20220702152749-freemium-vs-free-trial-vs-hybrid-customer-acquisition-model-in-saas-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [How to Design Marketing Campaigns: The Importance of Market Segmentation]({{< relref "20220702152820-how_to_design_marketing_campaigns_the_importance_of_market_segmentation.md" >}}) <span class="tag"><span class="marketing">marketing</span></span> {#how-to-design-marketing-campaigns-the-importance-of-market-segmentation--dot-dot-org-roam-20220702152820-how-to-design-marketing-campaigns-the-importance-of-market-segmentation-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Strategic Communication: How to Develop Strategic Messaging and Positioning]({{< relref "20220702152857-strategic_communication_how_to_develop_strategic_messaging_and_positioning.md" >}}) {#strategic-communication-how-to-develop-strategic-messaging-and-positioning--dot-dot-org-roam-20220702152857-strategic-communication-how-to-develop-strategic-messaging-and-positioning-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [How To Design Lead Nurturing, Lead Scoring, and Drip Email Campaigns]({{< relref "20220702152923-how_to_design_lead_nurturing_lead_scoring_and_drip_email_campaigns.md" >}}) {#how-to-design-lead-nurturing-lead-scoring-and-drip-email-campaigns--dot-dot-org-roam-20220702152923-how-to-design-lead-nurturing-lead-scoring-and-drip-email-campaigns-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Idea Prioritization With ICE and The Confidence Meter]({{< relref "20220412143837-idea_prioritization_with_ice_and_the_confidence_meter.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#idea-prioritization-with-ice-and-the-confidence-meter--dot-dot-org-roam-20220412143837-idea-prioritization-with-ice-and-the-confidence-meter-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Why I’m Killing the Marketing Qualified Lead]({{< relref "20220703173155-why_i_m_killing_the_marketing_qualified_lead.md" >}}) {#why-i-m-killing-the-marketing-qualified-lead--dot-dot-org-roam-20220703173155-why-i-m-killing-the-marketing-qualified-lead-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [How we built a $1M ARR open source SaaS]({{< relref "20220629131212-how_we_built_a_1m_arr_open_source_saas.md" >}}) <span class="tag"><span class="startup">startup</span></span> {#how-we-built-a-1m-arr-open-source-saas--dot-dot-org-roam-20220629131212-how-we-built-a-1m-arr-open-source-saas-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Life Is Not Short]({{< relref "20220629131317-life_is_not_short.md" >}}) {#life-is-not-short--dot-dot-org-roam-20220629131317-life-is-not-short-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [The B2B Buying Journey]({{< relref "20220630222044-the_b2b_buying_journey.md" >}}) {#the-b2b-buying-journey--dot-dot-org-roam-20220630222044-the-b2b-buying-journey-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [2022 Product benchmarks - Openview]({{< relref "20220630222454-2022_product_benchmarks_openview.md" >}}) {#2022-product-benchmarks-openview--dot-dot-org-roam-20220630222454-2022-product-benchmarks-openview-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Your guide to growth amid uncertainty]({{< relref "20220629131731-your_guide_to_growth_amid_uncertainty.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#your-guide-to-growth-amid-uncertainty--dot-dot-org-roam-20220629131731-your-guide-to-growth-amid-uncertainty-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Case Study#11: Learning First Principles Thinking from Elon Musk]({{< relref "20220629131818-case_study_11_learning_first_principles_thinking_from_elon_musk.md" >}}) {#case-study-11-learning-first-principles-thinking-from-elon-musk--dot-dot-org-roam-20220629131818-case-study-11-learning-first-principles-thinking-from-elon-musk-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [The Reddit Story]({{< relref "20220629131857-the_reddit_story.md" >}}) {#the-reddit-story--dot-dot-org-roam-20220629131857-the-reddit-story-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Not everything has to be a PRD]({{< relref "20220629132030-not_everything_has_to_be_a_prd.md" >}}) {#not-everything-has-to-be-a-prd--dot-dot-org-roam-20220629132030-not-everything-has-to-be-a-prd-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Your guide to Webflow’s $4B PLG engine]({{< relref "20220629133437-your_guide_to_webflow_s_4b_plg_engine.md" >}}) {#your-guide-to-webflow-s-4b-plg-engine--dot-dot-org-roam-20220629133437-your-guide-to-webflow-s-4b-plg-engine-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [How Trustpilot Extorts Businesses]({{< relref "20220629131516-how_trustpilot_extorts_businesses.md" >}}) <span class="tag"><span class="business">business</span></span> {#how-trustpilot-extorts-businesses--dot-dot-org-roam-20220629131516-how-trustpilot-extorts-businesses-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [The road to $100M doesn't start with product]({{< relref "20220627181520-the_road_to_100m_doesn_t_start_with_product.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#the-road-to-100m-doesn-t-start-with-product--dot-dot-org-roam-20220627181520-the-road-to-100m-doesn-t-start-with-product-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [@state 研究]({{< relref "20220628130027-state_研究.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#state-研究--dot-dot-org-roam-20220628130027-state-研究-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [ObservableObject 研究——想说爱你不容易]({{< relref "20220628130114-observableobject_研究_想说爱你不容易.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#observableobject-研究-想说爱你不容易--dot-dot-org-roam-20220628130114-observableobject-研究-想说爱你不容易-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [SwiftUI2.0 —— Commands（macOS 菜单）]({{< relref "20220628130332-swiftui2_0_commands_macos_菜单.md" >}}) {#swiftui2-dot-0-commands-macos-菜单--dot-dot-org-roam-20220628130332-swiftui2-0-commands-macos-菜单-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [聊一下在 SwiftUI 中使用 CoreData]({{< relref "20220628130704-聊一下在_swiftui_中使用_coredata.md" >}}) {#聊一下在-swiftui-中使用-coredata--dot-dot-org-roam-20220628130704-聊一下在-swiftui-中使用-coredata-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Core Data with CloudKit]({{< relref "20220628130837-core_data_with_cloudkit.md" >}}) {#core-data-with-cloudkit--dot-dot-org-roam-20220628130837-core-data-with-cloudkit-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [优化在 SwiftUI List 中显示大数据集的响应效率]({{< relref "20220628131551-优化在_swiftui_list_中显示大数据集的响应效率.md" >}}) {#优化在-swiftui-list-中显示大数据集的响应效率--dot-dot-org-roam-20220628131551-优化在-swiftui-list-中显示大数据集的响应效率-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [在 SwiftUI 中使用 UIKit 视图]({{< relref "20220628131324-在_swiftui_中使用_uikit_视图.md" >}}) {#在-swiftui-中使用-uikit-视图--dot-dot-org-roam-20220628131324-在-swiftui-中使用-uikit-视图-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [SwiftUI 2.0 —— @StateObject 研究]({{< relref "20220628130154-swiftui_2_0_stateobject_研究.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#swiftui-2-dot-0-stateobject-研究--dot-dot-org-roam-20220628130154-swiftui-2-0-stateobject-研究-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Creating Product Strategy with Multiple Strategic Tracks (MuST)]({{< relref "20220412143934-creating_product_strategy_with_multiple_strategic_tracks_must.md" >}}) <span class="tag"><span class="product">product</span></span> {#creating-product-strategy-with-multiple-strategic-tracks--must----dot-dot-org-roam-20220412143934-creating-product-strategy-with-multiple-strategic-tracks-must-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [The Startup Pyramid]({{< relref "20220621233748-the_startup_pyramid.md" >}}) <span class="tag"><span class="product">product</span></span> {#the-startup-pyramid--dot-dot-org-roam-20220621233748-the-startup-pyramid-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [清华大学《互联网产品管理》]({{< relref "20220327132523-清华大学_互联网产品管理.md" >}}) <span class="tag"><span class="product">product</span></span> {#清华大学-互联网产品管理--dot-dot-org-roam-20220327132523-清华大学-互联网产品管理-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [王慧文清华产品课（全集）]({{< relref "20220327132908-王慧文清华产品课_全集.md" >}}) <span class="tag"><span class="product">product</span></span> {#王慧文清华产品课-全集--dot-dot-org-roam-20220327132908-王慧文清华产品课-全集-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [凌鹏的策略思考（一）]({{< relref "20220327133856-凌鹏的策略思考_一.md" >}}) <span class="tag"><span class="product">product</span></span> {#凌鹏的策略思考-一--dot-dot-org-roam-20220327133856-凌鹏的策略思考-一-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Gartner技术成熟度曲线（Hype Cycle）解读]({{< relref "20220327135000-gartner技术成熟度曲线_hype_cycle_解读.md" >}}) <span class="tag"><span class="technoligy">technoligy</span></span> {#gartner技术成熟度曲线-hype-cycle-解读--dot-dot-org-roam-20220327135000-gartner技术成熟度曲线-hype-cycle-解读-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [How To Make (almost) Anything]({{< relref "20220327135711-how_to_make_almost_anything.md" >}}) {#how-to-make--almost--anything--dot-dot-org-roam-20220327135711-how-to-make-almost-anything-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Acquiring High LTV Clients in a Very Competitive Landscape]({{< relref "20220410202923-acquiring_high_ltv_clients_in_a_very_competitive_landscape.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#acquiring-high-ltv-clients-in-a-very-competitive-landscape--dot-dot-org-roam-20220410202923-acquiring-high-ltv-clients-in-a-very-competitive-landscape-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [So You Want to Study Mathematics…]({{< relref "20220327135933-so_you_want_to_study_mathematics.md" >}}) <span class="tag"><span class="math">math</span></span> {#so-you-want-to-study-mathematics--dot-dot-org-roam-20220327135933-so-you-want-to-study-mathematics-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [The Guide to Product Metrics]({{< relref "20220315205736-the_guide_to_product_metrics.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#the-guide-to-product-metrics--dot-dot-org-roam-20220315205736-the-guide-to-product-metrics-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [The rise of the growth product manager]({{< relref "20220410204205-the_rise_of_the_growth_product_manager.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#the-rise-of-the-growth-product-manager--dot-dot-org-roam-20220410204205-the-rise-of-the-growth-product-manager-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [User-First Monetization — Lessons from Instagram and Strava]({{< relref "20220315210929-user_first_monetization_lessons_from_instagram_and_strava.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#user-first-monetization-lessons-from-instagram-and-strava--dot-dot-org-roam-20220315210929-user-first-monetization-lessons-from-instagram-and-strava-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Swift 中的并发之 async/await —— WWDC 2021]({{< relref "20220627134523-swift_中的并发之_async_await_wwdc_2021.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#swift-中的并发之-async-await-wwdc-2021--dot-dot-org-roam-20220627134523-swift-中的并发之-async-await-wwdc-2021-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [聊聊 Combine 和 async/await 之间的合作]({{< relref "20220627155354-聊聊_combine_和_async_await_之间的合作.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#聊聊-combine-和-async-await-之间的合作--dot-dot-org-roam-20220627155354-聊聊-combine-和-async-await-之间的合作-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [Swift 并发初步]({{< relref "20220627134825-swift_并发初步.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#swift-并发初步--dot-dot-org-roam-20220627134825-swift-并发初步-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Inspecting the View Tree – Part 1: PreferenceKey]({{< relref "20220505123247-inspecting_the_view_tree_part_1_preferencekey.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#inspecting-the-view-tree-part-1-preferencekey--dot-dot-org-roam-20220505123247-inspecting-the-view-tree-part-1-preferencekey-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Combine之SwiftUI中的状态管理]({{< relref "20220625004100-combine之swiftui中的状态管理.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#combine之swiftui中的状态管理--dot-dot-org-roam-20220625004100-combine之swiftui中的状态管理-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [How Etsy CEO Structures Teams to Optimize for Experimentation and Agolity]({{< relref "20220622135022-how_etsy_ceo_structures_teams_to_optimize_for_experimentation_and_agility.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#how-etsy-ceo-structures-teams-to-optimize-for-experimentation-and-agolity--dot-dot-org-roam-20220622135022-how-etsy-ceo-structures-teams-to-optimize-for-experimentation-and-agility-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [描述统计学]({{< relref "20220529193814-描述统计学.md" >}}) <span class="tag"><span class="statistics">statistics</span></span> {#描述统计学--dot-dot-org-roam-20220529193814-描述统计学-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [GeometryReader to the Rescue]({{< relref "20220505125401-geometryreader_to_the_rescue.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#geometryreader-to-the-rescue--dot-dot-org-roam-20220505125401-geometryreader-to-the-rescue-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Complete Guide to A/B Testing Design, Implementation and Pitfalls]({{< relref "20220426182724-complete_guide_to_a_b_testing_design_implementation_and_pitfalls.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#complete-guide-to-a-b-testing-design-implementation-and-pitfalls--dot-dot-org-roam-20220426182724-complete-guide-to-a-b-testing-design-implementation-and-pitfalls-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [Minimum Detectable Effect (MDE)]({{< relref "20220529204522-minimum_detectable_effect_mde.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#minimum-detectable-effect--mde----dot-dot-org-roam-20220529204522-minimum-detectable-effect-mde-dot-md}
+
+
+#### <span class="org-todo todo TODO">TODO</span> [What does "Minimum Detectable Effect" mean?]({{< relref "20220529204602-what_does_minimum_detectable_effect_mean.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#what-does-minimum-detectable-effect-mean--dot-dot-org-roam-20220529204602-what-does-minimum-detectable-effect-mean-dot-md}
+
+
+#### <span class="org-todo todo NEXT">NEXT</span> [A/B Testing Statistics: An Easy-to-Understand Guide]({{< relref "20220529205613-a_b_testing_statistics_an_easy_to_understand_guide.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#a-b-testing-statistics-an-easy-to-understand-guide--dot-dot-org-roam-20220529205613-a-b-testing-statistics-an-easy-to-understand-guide-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Cracking Spotify Data Science Case Study Interview: What Makes a Playlist Successful?]({{< relref "20220426183023-cracking_spotify_data_science_case_study_interview_what_makes_a_playlist_successful.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#cracking-spotify-data-science-case-study-interview-what-makes-a-playlist-successful--dot-dot-org-roam-20220426183023-cracking-spotify-data-science-case-study-interview-what-makes-a-playlist-successful-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Idea Prioritization With ICE and The Confidence Meter]({{< relref "20220412143837-idea_prioritization_with_ice_and_the_confidence_meter.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#idea-prioritization-with-ice-and-the-confidence-meter--dot-dot-org-roam-20220412143837-idea-prioritization-with-ice-and-the-confidence-meter-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [数据分析的基础——统计学之描述性统计（一）]({{< relref "20220529194304-数据分析的基础_统计学之描述性统计_一.md" >}}) <span class="tag"><span class="statistics">statistics</span></span> {#数据分析的基础-统计学之描述性统计-一--dot-dot-org-roam-20220529194304-数据分析的基础-统计学之描述性统计-一-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Why activation is the most important pirate metric for SaaS growth]({{< relref "20220413132322-why_activation_is_the_most_important_pirate_metric_for_saas_growth.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#why-activation-is-the-most-important-pirate-metric-for-saas-growth--dot-dot-org-roam-20220413132322-why-activation-is-the-most-important-pirate-metric-for-saas-growth-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Building a Growth Framework Towards a $100 Million Product]({{< relref "20220413132720-building_a_growth_framework_towards_a_100_million_product.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#building-a-growth-framework-towards-a-100-million-product--dot-dot-org-roam-20220413132720-building-a-growth-framework-towards-a-100-million-product-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [How to Formulate a New Experiment Idea]({{< relref "20220327130403-how_to_formulate_a_new_experiment_idea.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#how-to-formulate-a-new-experiment-idea--dot-dot-org-roam-20220327130403-how-to-formulate-a-new-experiment-idea-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [我在建材市场卖涂料（流通篇）]({{< relref "20220615162130-我在建材市场卖涂料_流通篇.md" >}}) {#我在建材市场卖涂料-流通篇--dot-dot-org-roam-20220615162130-我在建材市场卖涂料-流通篇-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [OKRs Done Right]({{< relref "20220414191730-okrs_done_right.md" >}}) <span class="tag"><span class="OKR">OKR</span></span> {#okrs-done-right--dot-dot-org-roam-20220414191730-okrs-done-right-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [一天精通iOS Swift多线程（GCD）]({{< relref "20220517135233-一天精通ios_swift多线程_gcd.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#一天精通ios-swift多线程-gcd--dot-dot-org-roam-20220517135233-一天精通ios-swift多线程-gcd-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [一篇来自喵神的Swift 并发初步。喵神出品，必属精品！]({{< relref "20220517135542-一篇来自喵神的swift_并发初步_喵神出品_必属精品.md" >}}) <span class="tag"><span class="swift">swift</span></span> {#一篇来自喵神的swift-并发初步-喵神出品-必属精品--dot-dot-org-roam-20220517135542-一篇来自喵神的swift-并发初步-喵神出品-必属精品-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Testing Product Ideas]({{< relref "20220414191757-testing_product_ideas.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#testing-product-ideas--dot-dot-org-roam-20220414191757-testing-product-ideas-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Case Study#7: 🚀Product Led Growth's four signals]({{< relref "20220327130606-case_study_7_product_led_growth_s_four_signals.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#case-study-7-product-led-growth-s-four-signals--dot-dot-org-roam-20220327130606-case-study-7-product-led-growth-s-four-signals-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Netflix: How a DVD rental company changed the way we spend our free time]({{< relref "20220316164442-netflix_how_a_dvd_rental_company_changed_the_way_we_spend_our_free_time.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#netflix-how-a-dvd-rental-company-changed-the-way-we-spend-our-free-time--dot-dot-org-roam-20220316164442-netflix-how-a-dvd-rental-company-changed-the-way-we-spend-our-free-time-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Netflix Made 9 Big Changes, and Most Subscribers Now Have No Idea]({{< relref "20220327130827-netflix_made_9_big_changes_and_most_subscribers_now_have_no_idea.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#netflix-made-9-big-changes-and-most-subscribers-now-have-no-idea--dot-dot-org-roam-20220327130827-netflix-made-9-big-changes-and-most-subscribers-now-have-no-idea-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [A Leader’s Framework for Decision Making]({{< relref "20220327131151-a_leader_s_framework_for_decision_making.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#a-leader-s-framework-for-decision-making--dot-dot-org-roam-20220327131151-a-leader-s-framework-for-decision-making-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [What is product-led growth?]({{< relref "20220410203928-what_is_product_led_growth.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#what-is-product-led-growth--dot-dot-org-roam-20220410203928-what-is-product-led-growth-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Why Impact/Effort Prioritization Doesn’t Work]({{< relref "20220415110255-why_impact_effort_prioritization_doesn_t_work.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#why-impact-effort-prioritization-doesn-t-work--dot-dot-org-roam-20220415110255-why-impact-effort-prioritization-doesn-t-work-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [The GIST Framework]({{< relref "20220415110447-the_gist_framework.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#the-gist-framework--dot-dot-org-roam-20220415110447-the-gist-framework-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Evidence scores — the acid test of your ideas]({{< relref "20220415110929-evidence_scores_the_acid_test_of_your_ideas.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#evidence-scores-the-acid-test-of-your-ideas--dot-dot-org-roam-20220415110929-evidence-scores-the-acid-test-of-your-ideas-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [增长黑盒 | 谈到“增长”，我们到底该研究什么？]({{< relref "20220327132109-增长黑盒_谈到_增长_我们到底该研究什么.md" >}}) <span class="tag"><span class="growth">growth</span></span> {#增长黑盒-谈到-增长-我们到底该研究什么--dot-dot-org-roam-20220327132109-增长黑盒-谈到-增长-我们到底该研究什么-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [A/B Testing Tech Note: determining sample size]({{< relref "20220414112749-a_b_testing_tech_note_determining_sample_size.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#a-b-testing-tech-note-determining-sample-size--dot-dot-org-roam-20220414112749-a-b-testing-tech-note-determining-sample-size-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [A clear picture of power and significance in A/B tests]({{< relref "20220414112437-a_clear_picture_of_power_and_significance_in_a_b_tests.md" >}}) <span class="tag"><span class="experiment">experiment</span></span> {#a-clear-picture-of-power-and-significance-in-a-b-tests--dot-dot-org-roam-20220414112437-a-clear-picture-of-power-and-significance-in-a-b-tests-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Customer Psychology in Ecommerce: Behavior Change in the Digital Age]({{< relref "20220413133141-customer_psychology_in_ecommerce_behavior_change_in_the_digital_age.md" >}}) {#customer-psychology-in-ecommerce-behavior-change-in-the-digital-age--dot-dot-org-roam-20220413133141-customer-psychology-in-ecommerce-behavior-change-in-the-digital-age-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [How to Create a Customer Journey in Ecommerce (With Examples)]({{< relref "20220310150633-how_to_create_a_customer_journey_in_ecommerce_with_examples.md" >}}) {#how-to-create-a-customer-journey-in-ecommerce--with-examples----dot-dot-org-roam-20220310150633-how-to-create-a-customer-journey-in-ecommerce-with-examples-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [SaaS UX Benchmark: 5 Pitfalls to Avoid]({{< relref "20220413133342-saas_ux_benchmark_5_pitfalls_to_avoid.md" >}}) {#saas-ux-benchmark-5-pitfalls-to-avoid--dot-dot-org-roam-20220413133342-saas-ux-benchmark-5-pitfalls-to-avoid-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Four (more) things we look for in SaaS startups]({{< relref "20220413133526-four_more_things_we_look_for_in_saas_startups.md" >}}) {#four--more--things-we-look-for-in-saas-startups--dot-dot-org-roam-20220413133526-four-more-things-we-look-for-in-saas-startups-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Org Mode - Organize Your Life In Plain Text!]({{< relref "20220413133725-org_mode_organize_your_life_in_plain_text.md" >}}) {#org-mode-organize-your-life-in-plain-text--dot-dot-org-roam-20220413133725-org-mode-organize-your-life-in-plain-text-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Shopify Statistics, User Counts, Facts &amp; News (2022)]({{< relref "20220413134125-shopify_statistics_user_counts_facts_news_2022.md" >}}) {#shopify-statistics-user-counts-facts-and-news--2022----dot-dot-org-roam-20220413134125-shopify-statistics-user-counts-facts-news-2022-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE PARETO PRINCIPLE AND THE 1% RULE OF INTERNET CULTURE]({{< relref "20220414154329-the_pareto_principle_and_the_1_rule_of_internet_culture.md" >}}) {#the-pareto-principle-and-the-1-rule-of-internet-culture--dot-dot-org-roam-20220414154329-the-pareto-principle-and-the-1-rule-of-internet-culture-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE 10/20/30 RULE OF PRESENTING]({{< relref "20220414154608-the_10_20_30_rule_of_presenting.md" >}}) {#the-10-20-30-rule-of-presenting--dot-dot-org-roam-20220414154608-the-10-20-30-rule-of-presenting-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE AARRR FRAMEWORK: METRICS FOR PIRATES]({{< relref "20220414154957-the_aarrr_framework_metrics_for_pirates.md" >}}) {#the-aarrr-framework-metrics-for-pirates--dot-dot-org-roam-20220414154957-the-aarrr-framework-metrics-for-pirates-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [AN ACQUISITION, BEHAVIOUR AND OUTCOME METRICS FRAMEWORK]({{< relref "20220414155057-an_acquisition_behaviour_and_outcome_metrics_framework.md" >}}) {#an-acquisition-behaviour-and-outcome-metrics-framework--dot-dot-org-roam-20220414155057-an-acquisition-behaviour-and-outcome-metrics-framework-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [BUILDING AN ANALYTICS INFRASTRUCTURE]({{< relref "20220414155125-building_an_analytics_infrastructure.md" >}}) {#building-an-analytics-infrastructure--dot-dot-org-roam-20220414155125-building-an-analytics-infrastructure-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE CHASM DIFFUSION MODEL]({{< relref "20220414155158-the_chasm_diffusion_model.md" >}}) {#the-chasm-diffusion-model--dot-dot-org-roam-20220414155158-the-chasm-diffusion-model-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [YOU'RE NOT A LEADER, YOU'RE AN EDITOR]({{< relref "20220414160208-you_re_not_a_leader_you_re_an_editor.md" >}}) {#you-re-not-a-leader-you-re-an-editor--dot-dot-org-roam-20220414160208-you-re-not-a-leader-you-re-an-editor-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [SWAY: LOSS AVERSION AND THE POWER OF COMMITMENT]({{< relref "20220414160239-sway_loss_aversion_and_the_power_of_commitment.md" >}}) {#sway-loss-aversion-and-the-power-of-commitment--dot-dot-org-roam-20220414160239-sway-loss-aversion-and-the-power-of-commitment-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE CUSTOMER EXPERIENCE MATURITY MODEL]({{< relref "20220414160309-the_customer_experience_maturity_model.md" >}}) {#the-customer-experience-maturity-model--dot-dot-org-roam-20220414160309-the-customer-experience-maturity-model-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE CUSTOMER JOURNEY TO ONLINE PURCHASE]({{< relref "20220414160334-the_customer_journey_to_online_purchase.md" >}}) {#the-customer-journey-to-online-purchase--dot-dot-org-roam-20220414160334-the-customer-journey-to-online-purchase-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE DESIGN PROCESS PYRAMID]({{< relref "20220414160400-the_design_process_pyramid.md" >}}) {#the-design-process-pyramid--dot-dot-org-roam-20220414160400-the-design-process-pyramid-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [SWAY: VALUE ATTRIBUTION AND DIAGNOSIS BIAS]({{< relref "20220414160430-sway_value_attribution_and_diagnosis_bias.md" >}}) {#sway-value-attribution-and-diagnosis-bias--dot-dot-org-roam-20220414160430-sway-value-attribution-and-diagnosis-bias-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE EISENHOWER MATRIX]({{< relref "20220414160502-the_eisenhower_matrix.md" >}}) {#the-eisenhower-matrix--dot-dot-org-roam-20220414160502-the-eisenhower-matrix-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE FEYNMAN TECHNIQUE MODEL]({{< relref "20220414160553-the_feynman_technique_model.md" >}}) {#the-feynman-technique-model--dot-dot-org-roam-20220414160553-the-feynman-technique-model-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [FIRST PRINCIPLES]({{< relref "20220414160638-first_principles.md" >}}) {#first-principles--dot-dot-org-roam-20220414160638-first-principles-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE SCIENCE OF FLOW: UNLOCKING BETTER CREATIVITY AND HAPPINESS (PART 1)]({{< relref "20220414160720-the_science_of_flow_unlocking_better_creativity_and_happiness_part_1.md" >}}) {#the-science-of-flow-unlocking-better-creativity-and-happiness--part-1----dot-dot-org-roam-20220414160720-the-science-of-flow-unlocking-better-creativity-and-happiness-part-1-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [GAMIFICATION: THE PSYCHOLOGY OF PATCHES, BADGES AND ACHIEVEMENTS]({{< relref "20220414160930-gamification_the_psychology_of_patches_badges_and_achievements.md" >}}) {#gamification-the-psychology-of-patches-badges-and-achievements--dot-dot-org-roam-20220414160930-gamification-the-psychology-of-patches-badges-and-achievements-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [START WITH WHY, AND THE GOLDEN CIRCLE]({{< relref "20220414160957-start_with_why_and_the_golden_circle.md" >}}) {#start-with-why-and-the-golden-circle--dot-dot-org-roam-20220414160957-start-with-why-and-the-golden-circle-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE HEART FRAMEWORK]({{< relref "20220414161024-the_heart_framework.md" >}}) {#the-heart-framework--dot-dot-org-roam-20220414161024-the-heart-framework-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [WHY PERSONAS WORK: THE PSYCHOLOGICAL EVIDENCE]({{< relref "20220130171549-why_personas_work_the_psychological_evidence.md" >}}) {#why-personas-work-the-psychological-evidence--dot-dot-org-roam-20220130171549-why-personas-work-the-psychological-evidence-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [HOOPLA]({{< relref "20220414161116-hoopla.md" >}}) {#hoopla--dot-dot-org-roam-20220414161116-hoopla-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [HOW MIGHT WE METHODOLOGY]({{< relref "20220414161157-how_might_we_methodology.md" >}}) {#how-might-we-methodology--dot-dot-org-roam-20220414161157-how-might-we-methodology-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE INNOVATORS DILEMMA]({{< relref "20220414161220-the_innovators_dilemma.md" >}}) {#the-innovators-dilemma--dot-dot-org-roam-20220414161220-the-innovators-dilemma-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [KNOWN KNOWNS]({{< relref "20220414161246-known_knowns.md" >}}) {#known-knowns--dot-dot-org-roam-20220414161246-known-knowns-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [KOTTER 8 STEP PROCESS FOR CHANGE]({{< relref "20220414161325-kotter_8_step_process_for_change.md" >}}) {#kotter-8-step-process-for-change--dot-dot-org-roam-20220414161325-kotter-8-step-process-for-change-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE LEAN STARTUP METHODOLOGY]({{< relref "20220414161352-the_lean_startup_methodology.md" >}}) {#the-lean-startup-methodology--dot-dot-org-roam-20220414161352-the-lean-startup-methodology-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [LEAN USER RESEARCH: PERFECTLY EXECUTE THE RIGHT PLAN]({{< relref "20220414161426-lean_user_research_perfectly_execute_the_right_plan.md" >}}) {#lean-user-research-perfectly-execute-the-right-plan--dot-dot-org-roam-20220414161426-lean-user-research-perfectly-execute-the-right-plan-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [SWAY: PROCEDURAL JUSTICE, MONETARY MOTIVATION AND GROUP CONFORMITY]({{< relref "20220414161539-sway_procedural_justice_monetary_motivation_and_group_conformity.md" >}}) {#sway-procedural-justice-monetary-motivation-and-group-conformity--dot-dot-org-roam-20220414161539-sway-procedural-justice-monetary-motivation-and-group-conformity-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [DIGITAL ADAPTATION: THE ORGANIZATIONAL STRATEGY FRAMEWORK]({{< relref "20220414161611-digital_adaptation_the_organizational_strategy_framework.md" >}}) {#digital-adaptation-the-organizational-strategy-framework--dot-dot-org-roam-20220414161611-digital-adaptation-the-organizational-strategy-framework-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [PAIRED METRICS]({{< relref "20220414161637-paired_metrics.md" >}}) {#paired-metrics--dot-dot-org-roam-20220414161637-paired-metrics-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE PRODUCT DESIGN SPRINT FROM GOOGLE VENTURES]({{< relref "20220414161744-the_product_design_sprint_from_google_ventures.md" >}}) {#the-product-design-sprint-from-google-ventures--dot-dot-org-roam-20220414161744-the-product-design-sprint-from-google-ventures-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE PRODUCT IDEATION FRAMEWORK]({{< relref "20220414161811-the_product_ideation_framework.md" >}}) {#the-product-ideation-framework--dot-dot-org-roam-20220414161811-the-product-ideation-framework-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE PROJECT MANAGEMENT TRIANGLE]({{< relref "20220414161840-the_project_management_triangle.md" >}}) {#the-project-management-triangle--dot-dot-org-roam-20220414161840-the-project-management-triangle-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE RIBS TEST]({{< relref "20220414161913-the_ribs_test.md" >}}) {#the-ribs-test--dot-dot-org-roam-20220414161913-the-ribs-test-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [SEE-THINK-DO: A DIGITAL MARKETING FRAMEWORK]({{< relref "20220414161937-see_think_do_a_digital_marketing_framework.md" >}}) {#see-think-do-a-digital-marketing-framework--dot-dot-org-roam-20220414161937-see-think-do-a-digital-marketing-framework-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [SUPER NORMAL]({{< relref "20220414162009-super_normal.md" >}}) {#super-normal--dot-dot-org-roam-20220414162009-super-normal-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [A TECHNIQUE FOR PRODUCING IDEAS]({{< relref "20220414162036-a_technique_for_producing_ideas.md" >}}) {#a-technique-for-producing-ideas--dot-dot-org-roam-20220414162036-a-technique-for-producing-ideas-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [DIETER RAMS TEN PRINCIPLES FOR GOOD DESIGN]({{< relref "20220414162101-dieter_rams_ten_principles_for_good_design.md" >}}) {#dieter-rams-ten-principles-for-good-design--dot-dot-org-roam-20220414162101-dieter-rams-ten-principles-for-good-design-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE TRAGEDY OF THE COMMONS]({{< relref "20220414162308-the_tragedy_of_the_commons.md" >}}) {#the-tragedy-of-the-commons--dot-dot-org-roam-20220414162308-the-tragedy-of-the-commons-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE T-SHAPED DIGITAL MARKETING FRAMEWORK]({{< relref "20220414162330-the_t_shaped_digital_marketing_framework.md" >}}) {#the-t-shaped-digital-marketing-framework--dot-dot-org-roam-20220414162330-the-t-shaped-digital-marketing-framework-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE TWO PIZZA TEAM RULE]({{< relref "20220414162356-the_two_pizza_team_rule.md" >}}) {#the-two-pizza-team-rule--dot-dot-org-roam-20220414162356-the-two-pizza-team-rule-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [THE ZERO MOMENT OF TRUTH]({{< relref "20220414162502-the_zero_moment_of_truth.md" >}}) {#the-zero-moment-of-truth--dot-dot-org-roam-20220414162502-the-zero-moment-of-truth-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [First principles: Your product is your GTM strategy]({{< relref "20220414164059-first_principles_your_product_is_your_gtm_strategy.md" >}}) {#first-principles-your-product-is-your-gtm-strategy--dot-dot-org-roam-20220414164059-first-principles-your-product-is-your-gtm-strategy-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Your Guide to Product-Led Marketing]({{< relref "20220224163131-your_guide_to_product_led_marketing.md" >}}) {#your-guide-to-product-led-marketing--dot-dot-org-roam-20220224163131-your-guide-to-product-led-marketing-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Why Marketing Needs to Speak Product—Advice from Mailchimp’s Former Director of Growth]({{< relref "20220414164229-why_marketing_needs_to_speak_product_advice_from_mailchimp_s_former_director_of_growth.md" >}}) {#why-marketing-needs-to-speak-product-advice-from-mailchimp-s-former-director-of-growth--dot-dot-org-roam-20220414164229-why-marketing-needs-to-speak-product-advice-from-mailchimp-s-former-director-of-growth-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [The Role of Product Marketing—And Why Startups Need to Define It]({{< relref "20220414164306-the_role_of_product_marketing_and_why_startups_need_to_define_it.md" >}}) {#the-role-of-product-marketing-and-why-startups-need-to-define-it--dot-dot-org-roam-20220414164306-the-role-of-product-marketing-and-why-startups-need-to-define-it-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [HubSpot’s Meghan Keaney on the Right Time to Build Out Your Product Marketing Team]({{< relref "20220414164335-hubspot_s_meghan_keaney_on_the_right_time_to_build_out_your_product_marketing_team.md" >}}) {#hubspot-s-meghan-keaney-on-the-right-time-to-build-out-your-product-marketing-team--dot-dot-org-roam-20220414164335-hubspot-s-meghan-keaney-on-the-right-time-to-build-out-your-product-marketing-team-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [How to Build and Scale a Product Marketing Function]({{< relref "20220414164415-how_to_build_and_scale_a_product_marketing_function.md" >}}) {#how-to-build-and-scale-a-product-marketing-function--dot-dot-org-roam-20220414164415-how-to-build-and-scale-a-product-marketing-function-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [How to Get Your First 100 Customers—Smart, Actionable Advice from Top Executives]({{< relref "20220414164446-how_to_get_your_first_100_customers_smart_actionable_advice_from_top_executives.md" >}}) {#how-to-get-your-first-100-customers-smart-actionable-advice-from-top-executives--dot-dot-org-roam-20220414164446-how-to-get-your-first-100-customers-smart-actionable-advice-from-top-executives-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [How to Make Sure Your Product Launch Isn’t a Disaster]({{< relref "20220414164511-how_to_make_sure_your_product_launch_isn_t_a_disaster.md" >}}) {#how-to-make-sure-your-product-launch-isn-t-a-disaster--dot-dot-org-roam-20220414164511-how-to-make-sure-your-product-launch-isn-t-a-disaster-dot-md}
+
+
+#### <span class="org-todo todo HOLD">HOLD</span> [Managing Product Launch Readiness: A Checklist to Help You Prepare]({{< relref "20220414164543-managing_product_launch_readiness_a_checklist_to_help_you_prepare.md" >}}) {#managing-product-launch-readiness-a-checklist-to-help-you-prepare--dot-dot-org-roam-20220414164543-managing-product-launch-readiness-a-checklist-to-help-you-prepare-dot-md}
+
+
+## GAMES {#games}
+
+
+### 2021<code>[2/2]</code> {#2021}
+
+
+#### <span class="org-todo done DONE">DONE</span> [最终幻想 7]({{< relref "20220206141611-final_fantasy.md#final-fantasy-vii" >}}) {#最终幻想-7--dot-dot-org-roam-20220206141611-final-fantasy-dot-md}
+
+
+#### <span class="org-todo done DONE">DONE</span> [光环：无限]({{< relref "20220206141850-halo.md#halo-infinity" >}}) {#光环-无限--dot-dot-org-roam-20220206141850-halo-dot-md}
+
+
+### 2022<code>[1/2]</code> {#2022}
+
+
+#### <span class="org-todo done DONE">DONE</span> [对马岛之魂]({{< relref "20220206141834-ghost_of_tsushima.md" >}}) {#对马岛之魂--dot-dot-org-roam-20220206141834-ghost-of-tsushima-dot-md}
+
+
+### UNPLAYED<code>[0/0]</code> {#unplayed}
+
+
+#### [生化危机：村庄]({{< relref "20220219131711-resident_evil.md#resident-evil-village" >}}) {#生化危机-村庄--dot-dot-org-roam-20220219131711-resident-evil-dot-md}
+
+
+#### [仁王]({{< relref "20220219131436-nioh.md" >}}) {#仁王--dot-dot-org-roam-20220219131436-nioh-dot-md}
+
+
+#### [仁王2]({{< relref "20220219131436-nioh.md#仁王-2" >}}) {#仁王2--dot-dot-org-roam-20220219131436-nioh-dot-md}
+
+
+#### [只狼]({{< relref "20220219131642-sekiro.md" >}}) {#只狼--dot-dot-org-roam-20220219131642-sekiro-dot-md}
+
+
+#### [神秘海域]({{< relref "20220219131843-uncharted.md" >}}) {#神秘海域--dot-dot-org-roam-20220219131843-uncharted-dot-md}
+
+
+#### [战争机器 5]({{< relref "20220219131924-gears_of_war.md#gear-5" >}}) {#战争机器-5--dot-dot-org-roam-20220219131924-gears-of-war-dot-md}
+
+
+#### 漫威蜘蛛侠 {#漫威蜘蛛侠}
+
+
+## FILMS {#films}
