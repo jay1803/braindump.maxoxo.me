@@ -1,15 +1,16 @@
 +++
 title = "What is product led growth?"
 author = ["Max Zhang"]
+tags = ["ref"]
 draft = false
 +++
 
-## What is product led growth? {#what-is-product-led-growth}
+## What is product led growth? <span class="tag"><span class="ATTACH">ATTACH</span></span> {#what-is-product-led-growth}
 
 
 ### What is product led growth? {#what-is-product-led-growth}
 
-The [Product Led Growth]({{<relref "20210924095204-product_lead_growth.md#" >}}) strategy tends to work best for products that:
+The [Product Led Growth]({{< relref "20220707205151-product_led_growth.md" >}}) strategy tends to work best for products that:
 
 -   Are intended to be used regularly to enhance business operations or daily life.
 -   Allow for collaboration or social interaction.
@@ -19,7 +20,7 @@ The [Product Led Growth]({{<relref "20210924095204-product_lead_growth.md#" >}})
 
 ### Product led growth vs. sales or marketing led growth {#product-led-growth-vs-dot-sales-or-marketing-led-growth}
 
-[Product Led Growth]({{<relref "20210924095204-product_lead_growth.md#" >}}) lets poeple experience the value themselves in order to win
+[Product Led Growth]({{< relref "20220707205151-product_led_growth.md" >}}) lets poeple experience the value themselves in order to win
 customers, gain referrals, and generate growth.
 
 
