@@ -21,11 +21,24 @@ The sequence through
 
 {{< figure src="/ox-hugo/_20220723_032356screenshot.png" >}}
 
+> 四个主要的关注指标，其实这四个指标分别是解决这几个问题：
+>
+> 1.  寻找市场，这个时候关注是否有用户来使用；
+> 2.  [PMF]({{< relref "20210806234604-product_market_fit.md" >}})
+> 3.  规模化，加速获取更多高质量用户
+> 4.  盈利，关注商业化
+
 
 ### North Star Metric #1: Establish Flow of Free Users for Experimentation (i.e. new users per day) {#north-star-metric-1-establish-flow-of-free-users-for-experimentation--i-dot-e-dot-new-users-per-day}
 
+The focus should not be on optimizing CAC or monetization. We are simply trying to create a reasonable flow of free users to conduct experiments with.
+
+> 如果产品使用 [Freemium]({{< relref "20220703193346-freemium.md" >}}) 来吸引用户，那么这个阶段关注新增的 Free 用户即可。
+
 
 ### North Star Metric #2: Prove Free User Retention (i.e. New User-&gt;WAU%) <span class="tag"><span class="ATTACH">ATTACH</span></span> {#north-star-metric-2-prove-free-user-retention--i-dot-e-dot-new-user-wau}
+
+> 有用户来了之后再考虑如何让用户留下来，其实就是 PMF，询问用户是否对产品感到满意，如果产品消失，用户是否会感到非常失望。如果有 40% 的对此感到非常失望，说明产品已经有了忠实的目标客户。
 
 prove that the product consistently delivers on the value promise.
 
@@ -35,7 +48,7 @@ prove that the product consistently delivers on the value promise.
 ![](/ox-hugo/_20220815_165746screenshot.png)
 [[source](https://engineering.linkedin.com/blog/2017/06/the-science-of-quality-growth)]
 
-Following Balfour’s approach, the data is then organized into the model below, where each color represents a set of users acquired in a particular period, such as in the month of May, and the shape illustrates the percentage of those users that remain as free active users over time.
+-   Following Balfour’s approach, the data is then organized into the model below, where each color represents a set of users acquired in a particular period, such as in the month of May, and the shape illustrates the percentage of those users that remain as free active users over time.
 
 ![](/ox-hugo/_20220723_032936screenshot.png)
 [[source](https://www.slideshare.net/tractionconf/the-holy-grail-of-traction-brian-balfour-hubspot)]
@@ -51,11 +64,18 @@ Following Balfour’s approach, the data is then organized into the model below,
 
 ### North Star Metric #3: Prove Scalable Quality User Acquisition (i.e. Cost per Quality User) {#north-star-metric-3-prove-scalable-quality-user-acquisition--i-dot-e-dot-cost-per-quality-user}
 
+develop at least one scalable user acquisition channel that acquires Quality Users within the tolerable CAC target.
+Cold calling and paid digital marketing are rarely used.
+
 
 ### North Star Metric #4: Prove Monetization (i.e. Quality User-&gt;Paid User% AND ACV) {#north-star-metric-4-prove-monetization--i-dot-e-dot-quality-user-paid-user-and-acv}
 
+Finally, with a clear definition of the users that retain with the product and a channel to acquire them scalably, focus on converting free users to paid customers.
+
 
 ## Establish a Cross-Functional Team Reporting into Product, not Marketing {#establish-a-cross-functional-team-reporting-into-product-not-marketing}
+
+> 增长团队更像是一只特种部队，人数不多，但是各种只能的都有，团队内部可以自闭环来快速实验。
 
 These teams consisted of the following capabilities.
 
@@ -71,6 +91,11 @@ These teams consisted of the following capabilities.
 
 specialized engineers as either core product engineers dedicated to the product road map or growth engineers dedicated to the growth funnel.
 
+> 产品和设计以及开发都要成为某种专家：
+>
+> -   根据业务线，某个业务线的专家；
+> -   根据 Funnel，成为获客、或者转化方面的专家；
+
 {{< figure src="/ox-hugo/_20220815_170613screenshot.png" >}}
 
 
@@ -84,8 +109,17 @@ specialized engineers as either core product engineers dedicated to the product 
 
 This ruins the “adopt-before-buy” potential of PLG. If human-in-the-loop model is needed before adoption and monetization occurs, use a CSM profile, trained to understand the buyer needs and then show the buyer how to fulfill those needs in the product.
 
+> PLG 讲究的是 touchless，如果整个过程中一定需要某种角色介入，这个角色应该是 CSM 而非 Sales.
+
 
 ### Compensate Salespeople More for Expansion Revenue than New Revenue {#compensate-salespeople-more-for-expansion-revenue-than-new-revenue}
+
+> 这是大多数 PLG 公司所采用的一种策略：
+>
+> 1.  PLG 用于获取新客户；
+> 2.  通过优秀的用户旅程，让客户对产品感到满意并自助成为付费客户；
+> 3.  随着用户的行为，当产品意识到这个用户可能是一个高价值客户，则可以让 Sales 来主动联系客户；
+> 4.  Sales 的目的是进行 Upsell/Cross-sell；
 
 
 ## Enable Rapid, High Quality Experimentation {#enable-rapid-high-quality-experimentation}
