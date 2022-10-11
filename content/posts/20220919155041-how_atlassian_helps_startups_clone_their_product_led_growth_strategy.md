@@ -7,7 +7,7 @@ draft = false
 
 ## One PLG Adopter Created Hundreds More {#one-plg-adopter-created-hundreds-more}
 
-The rationale behind Atlassian’s go-to-market strategy was threefold:
+The rationale behind [Atlassian]({{< relref "20220711171528-atlassian.md" >}})’s go-to-market strategy was threefold:
 
 1.  If we don’t have sales staff, the product must sell itself
 2.  If the product needs to sell itself, it must be easy to try and it must be “cheap enough” to be purchased without C-level approval
