@@ -18,7 +18,7 @@ The rationale behind [Atlassian]({{< relref "20220711171528-atlassian.md" >}})�
 
 ## Finding and Solving Real End User Pain {#finding-and-solving-real-end-user-pain}
 
-Atlassian has always maintained a public Jira to track feature requests for its products, where anyone could filter for the most voted (meaning: most wanted by customers) features.
+[Atlassian]({{< relref "20220711171528-atlassian.md" >}}) has always maintained a public [Jira]({{< relref "20221007115052-jira.md" >}}) to track feature requests for its products, where anyone could filter for the most voted (meaning: most wanted by customers) features.
 
 > 现在似乎已经很难找到了
 

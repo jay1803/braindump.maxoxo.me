@@ -10,18 +10,18 @@ Jira software was founded in 2002 by two Computer Science students in Sydney.
 
 ## What does Jira mean? {#what-does-jira-mean}
 
-The name Jira comes from Godjira or Japanese for Godzilla
+The name [Jira]({{< relref "20221007115052-jira.md" >}}) comes from Godjira or Japanese for Godzilla
 
 
 ## What does Atlassian mean? {#what-does-atlassian-mean}
 
-The name Atlassian comes from Atlas in Greek mythology, a titan condemned to hold up the heavens or sky for eternity
+The name [Atlassian]({{< relref "20220711171528-atlassian.md" >}}) comes from Atlas in Greek mythology, a titan condemned to hold up the heavens or sky for eternity
 podcast interview with Atlassian founders called “How I built this with Guy Raz”. Oh, and Atlassian is the adjective format of Atlas; atlas.com was taken! :P
 
 
 ## How did Atlassian start? {#how-did-atlassian-start}
 
-Atlassian co-founders Mike Cannon-Brookes and Scott Farquhar met in 1998 while studying at the University of New South Wales in Sydney, both on a Computer Science Co-op scholarship.
+Atlassian co-founders [Mike Cannon-Brookes]({{< relref "20221012100640-mike_cannon_brookes.md" >}}) and [Scott Farquhar]({{< relref "20221012100653-scott_farquhar.md" >}}) met in 1998 while studying at the University of New South Wales in Sydney, both on a Computer Science Co-op scholarship.
 
 In 2001 however, Mike sent an email to his course mates asking who’d want to help him launch a tech startup after graduation, and Scott was the only one to respond… and that was that.
 
@@ -51,7 +51,7 @@ They’d attend software events and corner people to show them the product! They
 
 ### Atlassian Milestones <span class="tag"><span class="ATTACH">ATTACH</span></span> {#atlassian-milestones}
 
-{{< figure src="/ox-hugo/_20221011_154821screenshot.png" >}}
+<_20221011_154821screenshot.png>
 
 2002 - Mike and Scott take out $10,000 to launch Jira 1.0 (an issue tracker they created)
 
