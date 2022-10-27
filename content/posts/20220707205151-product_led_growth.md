@@ -4,6 +4,7 @@ author = ["Max Zhang"]
 tags = ["growth"]
 draft = false
 +++
+<<<<<<< Updated upstream
 
 ## Definition {#definition}
 
@@ -41,3 +42,5 @@ draft = false
 
 
 ## Functions {#functions}
+=======
+>>>>>>> Stashed changes
