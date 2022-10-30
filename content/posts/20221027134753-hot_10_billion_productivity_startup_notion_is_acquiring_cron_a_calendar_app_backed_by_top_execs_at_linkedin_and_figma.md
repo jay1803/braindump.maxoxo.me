@@ -10,3 +10,5 @@ draft = false
 [Cron]({{< relref "20221027134953-cron.md" >}}) got its start relatively recently, as it was part of Y Combinator's winter batch of 2020 and raised a $3.5 million seed round led by Initialized Capital in March of that year.
 
 The two companies share the goal of making people more productive, which is why the deal came together, Madhu Muthukumar, [Notion]({{< relref "20220916105516-notion.md" >}})'s chief product officer, told Insider.
+
+[Raphael Schaad]({{< relref "20221030141158-raphael_schaad.md" >}}), Cron's founder and CEO
