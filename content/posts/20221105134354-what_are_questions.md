@@ -5,6 +5,13 @@ tags = ["ref"]
 draft = false
 +++
 
+## About {#about}
+
+-   Author: [Jason Fried]({{< relref "20221208052406-jason_fried.md" >}})
+
+
+## Overview {#overview}
+
 Yesterday I was fortunate enough to get to spend about three hours with [Clayton Christensen]({{< relref "20221105134520-clayton_christensen.md" >}}).
 
 
