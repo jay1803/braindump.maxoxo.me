@@ -1,5 +1,6 @@
 +++
 title = "Alfred Hitchcock"
-author = ["Max"]
+author = ["Max Zhang"]
+tags = ["people", "director"]
 draft = false
 +++

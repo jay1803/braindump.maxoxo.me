@@ -1,6 +1,7 @@
 +++
 title = "David Wojnarowicz"
-author = ["Max"]
+author = ["Max Zhang"]
+tags = ["people", "artist"]
 draft = false
 +++
 

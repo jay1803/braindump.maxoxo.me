@@ -1,6 +1,7 @@
 +++
 title = "Henry Darger"
-author = ["Max"]
+author = ["Max Zhang"]
+tags = ["people", "artist"]
 draft = false
 +++
 

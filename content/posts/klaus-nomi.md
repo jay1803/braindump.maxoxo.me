@@ -1,6 +1,7 @@
 +++
 title = "Klaus Nomi"
-author = ["Max"]
+author = ["Max Zhang"]
+tags = ["people", "musican"]
 draft = false
 +++
 
