@@ -1,24 +1,25 @@
 +++
 title = "Technology Adoption Lifecycle"
-author = ["Max"]
+author = ["Max Zhang"]
+tags = ["business"]
 draft = false
 +++
 
 ## Definition {#definition}
 
-描述消费者对于一项新技术的接受程度的[生命周期]({{<relref "20211230130900-lifecycle.md#" >}})模型。
+描述消费者对于一项新技术的接受程度的[生命周期]({{< relref "20211230130900-lifecycle.md" >}})模型。
 
 
-### Elements {#elements}
+### Innovator {#innovator}
 
 
-#### Laggard {#laggard}
+### Earlyadopter {#earlyadopter}
 
 
-#### Earlymajority {#earlymajority}
+### Earlymajority {#earlymajority}
 
 
-#### Latemajority {#latemajority}
+### Latemajority {#latemajority}
 
 
-#### Earlyadopter {#earlyadopter}
+### Laggard {#laggard}
