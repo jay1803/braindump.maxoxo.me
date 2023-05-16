@@ -1,6 +1,7 @@
 +++
 title = "Intangible Assets"
-author = ["Max"]
+author = ["Max Zhang"]
+tags = ["finance"]
 draft = false
 +++
 
@@ -17,7 +18,7 @@ draft = false
 ### SUB-CONCEPTS {#sub-concepts}
 
 
-#### [Brand]({{<relref "20210323135948-brand.md#" >}}) {#brand--20210323135948-brand-dot-md}
+#### [Brand]({{< relref "20210323135948-brand.md" >}}) {#brand--20210323135948-brand-dot-md}
 
 
 #### 非专利技术 {#非专利技术}
@@ -26,4 +27,4 @@ draft = false
 #### 土地使用权 {#土地使用权}
 
 
-#### [Intellectual Property]({{<relref "20210323135051-intellectual_property.md#" >}}) {#intellectual-property--20210323135051-intellectual-property-dot-md}
+#### [Intellectual Property]({{< relref "20210323135051-intellectual_property.md" >}}) {#intellectual-property--20210323135051-intellectual-property-dot-md}
